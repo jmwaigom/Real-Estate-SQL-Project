@@ -18,12 +18,12 @@ select
     *,
     round(count_of_properties/sum(count_of_properties) over(),2) as proportional_of_count
 from (
-	select 
-		property_type, 
-		count(*) as count_of_properties 
-	from properties 
-	group by property_type 
-	order by 2 desc
+      select 
+	    property_type, 
+	    count(*) as count_of_properties 
+      from properties 
+      group by property_type 
+      order by 2 desc
     ) as sub; -- Around 56% of the portfolio is made up of Industrial and Residential Properties
     
 /*
@@ -41,24 +41,24 @@ the cumulative rent amount for each property, ordered by lease start date.
  -- Creating views simplifies data retrieval as it allows the creation of smaller tables that are more convenient for querying than parent tables
  
  create view properties_leases_table as (
-	 select
-		p.property_id as property_id,
-        p.property_name as property_name,
-        p.property_type as property_type,
-        p.size_sqft as size_sqft,
-        p.location as location,
-        l.lease_id as lease_id,
-        l.tenant_name as tenant_name,
-        l.lease_start as lease_start,
-        l.lease_end as lease_end,
-        l.rent_amount as rent_amount
-	 from properties as p
-	 left join leases as l
-	 using(property_id)
+	select
+	    p.property_id as property_id,
+            p.property_name as property_name,
+	    p.property_type as property_type,
+	    p.size_sqft as size_sqft,
+	    p.location as location,
+	    l.lease_id as lease_id,
+	    l.tenant_name as tenant_name,
+	    l.lease_start as lease_start,
+	    l.lease_end as lease_end,
+	    l.rent_amount as rent_amount
+	from properties as p
+	left join leases as l
+	using(property_id)
      ); -- This view joins properties and leases table for lease info (like rent) and property info (like property name)
 
 select 
-	property_name,
+    property_name,
     lease_start,
     rent_amount,
     sum(rent_amount) over(partition by property_name order by lease_start) as cumulative_rent
@@ -72,7 +72,7 @@ properties by their total rent revenue generated, grouped by property type.
 */
 
 select 
-	property_type,
+    property_type,
     property_name,
     sum(rent_amount) as total_rental_revenue,
     dense_rank() over(partition by property_type order by sum(rent_amount) desc) as rental_revenue_ranking
@@ -92,35 +92,35 @@ rank them.
 -- This CTE ranks transactions for each property
 with maintable as (
 	select
-		property_name,
-		net_transaction_amount,
-		dense_rank() over(order by net_transaction_amount desc) as ranked_transaction_totals
+	    property_name,
+	    net_transaction_amount,
+	    dense_rank() over(order by net_transaction_amount desc) as ranked_transaction_totals
 	from (
-		select 
-			property_name,
-			sum(case
-					when transaction_type in ('Purchase','Renovation') then -transaction_amount
-					else transaction_amount
-				end) as net_transaction_amount 
+	      select 
+		  property_name,
+		  sum(case
+			when transaction_type in ('Purchase','Renovation') then -transaction_amount
+			else transaction_amount
+		     end) as net_transaction_amount 
 		from properties_transactions_table
 		group by property_name
 		) as sub -- This subquery calculates net transaction for each property
         )
 -- This query fetches the top 5 properties with highest net-transaction, which imply most profitability
 select 
-	property_name
+    property_name
 from maintable
 where ranked_transaction_totals < 6;
 
 create view properties_transactions_table as (
 	select
-		property_name,
-		property_type,
-		size_sqft,
-		location,
-		transaction_type,
-		transaction_date, 
-		amount as transaction_amount
+	    property_name,
+	    property_type,
+	    size_sqft,
+	    location,
+	    transaction_type,
+	    transaction_date, 
+	    amount as transaction_amount
 	from properties as p
 	inner join transactions as t
 	using(property_id)
@@ -134,7 +134,7 @@ determine the rolling average rent amount over the last 3 leases
 */
 
 select 
-	property_name,
+    property_name,
     tenant_name,
     rent_amount,
     lease_start,
@@ -152,13 +152,13 @@ this percentage.
 
 create view properties_maintenance_table as (
 	select 
-		property_name,
-		property_type,
-		size_sqft,
-		location,
-		maintenance_type,
-		maintenance_date,
-		cost as maintenance_cost
+	    property_name,
+	    property_type,
+	    size_sqft,
+	    location,
+	    maintenance_type,
+	    maintenance_date,
+	    cost as maintenance_cost
 	from properties as p
 	left join maintenance_logs as ml
 	using(property_id)
@@ -167,20 +167,20 @@ create view properties_maintenance_table as (
 -- This CTE finds the percentage cost of every property relative to the overall cost of maintenance
 with maintable as (
 	select
-		property_name,
-		maintenance_cost_per_property,
-		maintenance_cost_per_property/sum(maintenance_cost_per_property) over() as pct_cost
+	    property_name,
+	    maintenance_cost_per_property,
+	    maintenance_cost_per_property/sum(maintenance_cost_per_property) over() as pct_cost
 	from (
-		select 
-			property_name,
-			sum(maintenance_cost) as maintenance_cost_per_property
-		from properties_maintenance_table
-		group by property_name
-		) as sub
+	      select 
+		  property_name,
+		  sum(maintenance_cost) as maintenance_cost_per_property
+	      from properties_maintenance_table
+	      group by property_name
+	      ) as sub
         )
 -- This code ranks properties based on their pct_cost
 select
-	property_name,
+    property_name,
     pct_cost,
     maintenance_cost_per_property,
     dense_rank() over(order by pct_cost desc) as cost_ranking_per_property
@@ -194,30 +194,30 @@ Identify properties with rent increases over consecutive leases using window fun
 
 with table1 as (
 	select
-		property_name,
-		lease_start,
-		rent_amount as rent_curr_lease,
-		lag(rent_amount) over(partition by property_name order by lease_start) as rent_prev_lease
+	    property_name,
+	    lease_start,
+	    rent_amount as rent_curr_lease,
+	    lag(rent_amount) over(partition by property_name order by lease_start) as rent_prev_lease
 	from (
-		select 
-			property_name,
-			property_type,
-			tenant_name,
-			lease_start,
-			lease_end,
-			timestampdiff(month, lease_start, lease_end) as lease_term,
-			rent_amount
-		from properties_leases_table
-		where lease_id is not null
-		order by property_name, property_type,lease_start
-		) as sub
+	      select 
+		  property_name,
+		  property_type,
+		  tenant_name,
+		  lease_start,
+		  lease_end,
+		  timestampdiff(month, lease_start, lease_end) as lease_term,
+		  rent_amount
+	      from properties_leases_table
+	      where lease_id is not null
+	      order by property_name, property_type,lease_start
+	      ) as sub
         ),
         
     table2 as (    
-	select
-		*,
-		ifnull(rent_curr_lease - rent_prev_lease, 'N/A') as rent_increase_from_prev_lease
-	from table1
+    select
+	*,
+	ifnull(rent_curr_lease - rent_prev_lease, 'N/A') as rent_increase_from_prev_lease
+    from table1
     )
 
 select distinct property_name
