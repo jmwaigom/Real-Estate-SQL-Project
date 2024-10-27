@@ -236,20 +236,20 @@ transaction amount.
 -- Calculating average net transaction is more realistic/relevant since it helps understand if the average was a revenue or expense
 
 select
-	property_name,
+    property_name,
     round(avg(case 
-				when transaction_type in ('Renovation', 'Purchase') then -transaction_amount
-				else transaction_amount
-			 end)) as avg_net_transaction -- This code averages between negative and positive transactions from the subquery
+		when transaction_type in ('Renovation', 'Purchase') then -transaction_amount
+		else transaction_amount
+	      end)) as avg_net_transaction -- This code averages between negative and positive transactions from the subquery
 from (
-	select 
-		property_name,
-		transaction_type,
-		transaction_date,
-		transaction_amount,
-		rank() over(partition by property_name order by transaction_date desc) as transaction_recency
-	from properties_transactions_table
-    ) as sub -- This subquery ranks transactions from most recent to oldest
+      select 
+	  property_name,
+	  transaction_type,
+	  transaction_date,
+	  transaction_amount,
+	  rank() over(partition by property_name order by transaction_date desc) as transaction_recency
+      from properties_transactions_table
+      ) as sub -- This subquery ranks transactions from most recent to oldest
 where transaction_recency < 4 -- Filters for 3 most recent transactions
 group by property_name;
 
@@ -260,17 +260,17 @@ Determine the properties with the highest average maintenance cost over the last
 */
 
 select
-	property_name,
+    property_name,
     round(avg(maintenance_cost)) as avg_maintenance_cost
 from (
-	select 
-		property_name,
-		maintenance_date,
-		maintenance_cost
-	from properties_maintenance_table
-	where maintenance_date between date_sub(curdate(), interval 12 month) and curdate()
-	order by maintenance_date
-    ) as sub
+      select 
+	  property_name,
+	  maintenance_date,
+	  maintenance_cost
+      from properties_maintenance_table
+      where maintenance_date between date_sub(curdate(), interval 12 month) and curdate()
+      order by maintenance_date
+      ) as sub
 group by property_name
 order by avg_maintenance_cost desc;
 
@@ -282,7 +282,7 @@ Calculate the tenure of each tenant and find the average tenure for each propert
 
 -- This code returns the tenure of each tenant in months and years
 select 
-	tenant_name,
+    tenant_name,
     sum(timestampdiff(month, lease_start, lease_end)) as lease_tenure_months,
     sum(timestampdiff(year, lease_start, lease_end)) as lease_tenure_years
 from properties_leases_table
@@ -291,7 +291,7 @@ order by lease_tenure_months desc;
 
 -- This query returns the average tenure for each property type in months and years
 select
-	property_type,
+    property_type,
     round(avg(timestampdiff(month, lease_start, lease_end)),1) as avg_tenure_months,
     round(avg(timestampdiff(year, lease_start, lease_end)),1) as avg_tenure_years
 from properties_leases_table
@@ -305,12 +305,12 @@ moving sum of transactions over the last 12 months for each property.
 */
 
 select 
-	property_name,
+    property_name,
     transaction_date,
     sum(case
-			when transaction_Type in ('Purchase','Renovation') then -transaction_amount
-            else transaction_amount
-		end) over(partition by property_name order by transaction_date) as moving_transaction_sum
+	   when transaction_Type in ('Purchase','Renovation') then -transaction_amount
+           else transaction_amount
+	end) over(partition by property_name order by transaction_date) as moving_transaction_sum
 from properties_transactions_table
 where transaction_date between date_sub(curdate(), interval 12 month) and curdate();
 
@@ -323,16 +323,16 @@ properties.
 */
 
 select
-	*
+    *
 from (
-	select 
-		property_name,
-		count(*) as lease_count,
-		dense_rank() over(order by count(*) desc) as lease_count_ranking
-	from properties_leases_table
-	where lease_id is not null
-	group by property_name
-    ) as sub
+      select 
+	  property_name,
+	  count(*) as lease_count,
+	  dense_rank() over(order by count(*) desc) as lease_count_ranking
+      from properties_leases_table
+      where lease_id is not null
+      group by property_name
+      ) as sub
 where lease_count_ranking < 11;
 
 /*
@@ -343,22 +343,22 @@ manager, calculate the average maintenance cost across their assigned properties
 
 create view properties_managers_table as (
 	select
-		p.property_id as property_id,
-		property_name,
-		property_type,
-		manager_name,
-		maintenance_type,
-		maintenance_date,
-		cost as maintenance_cost
+	    p.property_id as property_id,
+	    property_name,
+	    property_type,
+	    manager_name,
+	    maintenance_type,
+	    maintenance_date,
+	    cost as maintenance_cost
 	from properties as p
 	inner join managers as m
 	on p.property_id = m.assigned_property
 	inner join maintenance_logs as ml
 	on p.property_id = ml.property_id
-    );
+        );
 
 select 
-	manager_name,
+    manager_name,
     round(avg(maintenance_cost),2) as avg_maintenance_cost
 from properties_managers_table
 group by manager_name
@@ -371,7 +371,7 @@ the longest active leases by calculating the difference between lease start and 
 */
 
 select
-	property_name,
+    property_name,
     timestampdiff(month, lease_start, lease_end) as lease_length_months,
     timestampdiff(year, lease_start, lease_end) as lease_length_years
 from properties_leases_table
@@ -386,18 +386,18 @@ start date.
 */
 
 select
-	property_name, 
+    property_name, 
     lease_start,
     lease_start_year,
     count(*) over(partition by property_name order by lease_start) as cumulative_lease_count
 from (
-	select
-		property_name,
-		lease_start,
-		year(lease_start) as lease_start_year
-	from properties_leases_table
-	where lease_id is not null
-    ) as sub;
+      select
+	  property_name,
+	  lease_start,
+	  year(lease_start) as lease_start_year
+      from properties_leases_table
+      where lease_id is not null
+      ) as sub;
     
 /*
 QUESTION 15: *
@@ -426,15 +426,15 @@ plumbing issues).
 */
 
 select distinct
-	property_name
+    property_name
 from (
-	select 
-		property_name,
-		maintenance_date,
-		maintenance_type as curr_issue,
-		lag(maintenance_type) over(partition by property_name order by maintenance_date) as prev_issue
-	from properties_maintenance_table
-    ) as sub
+      select 
+	  property_name,
+	  maintenance_date,
+	  maintenance_type as curr_issue,
+	  lag(maintenance_type) over(partition by property_name order by maintenance_date) as prev_issue
+      from properties_maintenance_table
+      ) as sub
 where curr_issue = prev_issue;
 
 /*
@@ -445,20 +445,20 @@ each property type.
 */
 
 select
-	property_name,
+    property_name,
     property_type,
     property_rent_revenue,
     round(property_rent_revenue/sum(property_rent_revenue) over() * 100,2) as rent_rev_as_percent_of_total,
     round(property_rent_revenue/sum(property_rent_revenue) over(partition by property_type) * 100,2) as rent_rev_as_percent_of_propType_total
 from (
-	select 
-		property_name,
-		property_type,
-		sum(rent_amount) as property_rent_revenue
-	from properties_leases_table
-	where lease_id is not null
-	group by property_name, property_type
-    ) as sub;
+      select 
+	  property_name,
+	  property_type,
+	  sum(rent_amount) as property_rent_revenue
+      from properties_leases_table
+      where lease_id is not null
+      group by property_name, property_type
+      ) as sub;
 
 /*
 QUESTION 18:
@@ -468,27 +468,27 @@ increases or decreases.
 */
 
 with maintable as (
-	select
-		property_name,
-		lease_start,
-		ifnull(curr_lease_rent - prev_lease_rent, 'N/A') as rent_change_from_prev_lease
-	from (
-		select 
-			property_name,
-			lease_start,
-			rent_amount as curr_lease_rent,
-			lag(rent_amount) over(partition by property_name order by lease_start) as prev_lease_rent
-		from properties_leases_table
-		) as sub
+    select
+	property_name,
+	lease_start,
+	ifnull(curr_lease_rent - prev_lease_rent, 'N/A') as rent_change_from_prev_lease
+    from (
+	  select 
+	      property_name,
+	      lease_start,
+	      rent_amount as curr_lease_rent,
+	      lag(rent_amount) over(partition by property_name order by lease_start) as prev_lease_rent
+	  from properties_leases_table
+	) as sub
         )
 
 select
-	*,
+    *,
     case
-		when rent_change_from_prev_lease < 0 then 'rent decreased'
+	when rent_change_from_prev_lease < 0 then 'rent decreased'
         when rent_change_from_prev_lease > 0 then 'rent_increased'
         else 'No previous month record'
-	end as rent_change
+    end as rent_change
 from maintable;
 
 /*
@@ -500,16 +500,16 @@ property managers by the total revenue generated from properties they manage.
 -- Joining two views: properties_managers_table and properties_leases_table to get information about both managers and revenue
 with maintable as (
     select 
-		manager_name,
-		sum(rent_amount) as total_revenue_generated
-	from properties_managers_table as pm
-	inner join properties_leases_table as pl
-	using(property_id)
-	group by manager_name
+	manager_name,
+	sum(rent_amount) as total_revenue_generated
+    from properties_managers_table as pm
+    inner join properties_leases_table as pl
+    using(property_id)
+    group by manager_name
     )
 
 select
-	manager_name,
+    manager_name,
     total_revenue_generated,
     dense_rank() over(order by total_revenue_generated desc) as manager_ranking_by_revenue
 from maintable;
@@ -524,16 +524,16 @@ property, calculate the average rent for the top 3 most recent leases.
 
 -- This SELECT statement averages the 3 most recent leases per property
 select
-	property_name,
+    property_name,
     round(avg(rent_amount)) as avg_3latest_leases
 from (
-    select 
-		property_name,
-		lease_start,
-		rent_amount,
-		rank() over(partition by property_name order by lease_start desc) as rank_by_latest_to_oldest_lease
-	from properties_leases_table
-	where lease_id is not null
-    ) as sub -- This subquery ranks leases from latest to oldest per property
+      select 
+	  property_name,
+	  lease_start,
+	  rent_amount,
+	  rank() over(partition by property_name order by lease_start desc) as rank_by_latest_to_oldest_lease
+      from properties_leases_table
+      where lease_id is not null
+      ) as sub -- This subquery ranks leases from latest to oldest per property
 where rank_by_latest_to_oldest_lease < 4 -- Fetches only top 3 most recent leases per property from the subquery
 group by property_name; 
