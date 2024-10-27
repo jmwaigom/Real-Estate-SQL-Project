@@ -1,6 +1,6 @@
 -- create database Pinnacle_Realty_Group;
 
-use pinnacle_realty_group;
+use pinnacle_realty_group; -- Setting the table as default, so that I don't have to refer to it every single time I need to access data
 
 /*
 Preliminary Analysis:
@@ -9,12 +9,13 @@ Preliminary Analysis:
 */
 
 select * from properties;
-select distinct property_type from properties order by 1; -- Office, Retail, Industrial and Residential
-select distinct location from properties order by 1; -- All the locations where Pinnacle have properties
+select distinct property_type from properties order by 1; -- Existing property types are: Office, Retail, Industrial and Residential
+select distinct location from properties order by 1; -- Returns all the locations where Pinnacle have properties
 select count(distinct location) from properties; -- Pinnacle has properties in 491 locations
 
+-- This query is for briefly exploring portfolio make-up of Pinnacle
 select
-	*,
+    *,
     round(count_of_properties/sum(count_of_properties) over(),2) as proportional_of_count
 from (
 	select 
@@ -36,6 +37,8 @@ the cumulative rent amount for each property, ordered by lease start date.
  select count(distinct property_id) from leases; -- 492 properties returned
  select count(distinct property_id) from properties; -- 500 properties returned. This probably means 8 properties did not lease.
  */
+ 
+ -- Creating views simplifies data retrieval as it allows the creation of smaller tables that are more convenient for querying than parent tables
  
  create view properties_leases_table as (
 	 select
@@ -84,6 +87,31 @@ transactions. Find the top 5 most profitable properties in terms of total transa
 rank them.
 */
 
+-- Assumption: Purchases and Renovations are considered expenses, hence assigned negative value.
+
+-- This CTE ranks transactions for each property
+with maintable as (
+	select
+		property_name,
+		net_transaction_amount,
+		dense_rank() over(order by net_transaction_amount desc) as ranked_transaction_totals
+	from (
+		select 
+			property_name,
+			sum(case
+					when transaction_type in ('Purchase','Renovation') then -transaction_amount
+					else transaction_amount
+				end) as net_transaction_amount 
+		from properties_transactions_table
+		group by property_name
+		) as sub -- This subquery calculates net transaction for each property
+        )
+-- This query fetches the top 5 properties with highest net-transaction, which imply most profitability
+select 
+	property_name
+from maintable
+where ranked_transaction_totals < 6;
+
 create view properties_transactions_table as (
 	select
 		property_name,
@@ -98,13 +126,6 @@ create view properties_transactions_table as (
 	using(property_id)
     );
     
-select 
-	property_name,
-    transaction_type,
-    transaction_date,
-    transaction_amount
-from properties_transactions_table
-order by property_name, transaction_date;
     
 /*
 QUESTION 4:
@@ -204,14 +225,22 @@ from table2
 where rent_increase_from_prev_lease > 0;
 
 /*
-QUESTION 7: * The order of transaction is ambiguous
+QUESTION 7: 
 Investment advisors need to evaluate the latest transactions for properties. For each
 property, determine the three most recent transactions and calculate the average
 transaction amount.
 */
 
+-- The order of transaction is ambiguous, such that, for some properties, there would be two purchase transactions for a property before a sale
+-- Purchase and Renovation will be assigned negative values since they're expenses.
+-- Calculating average net transaction is more realistic/relevant since it helps understand if the average was a revenue or expense
+
 select
-	*
+	property_name,
+    round(avg(case 
+				when transaction_type in ('Renovation', 'Purchase') then -transaction_amount
+				else transaction_amount
+			 end)) as avg_net_transaction -- This code averages between negative and positive transactions from the subquery
 from (
 	select 
 		property_name,
@@ -220,8 +249,9 @@ from (
 		transaction_amount,
 		rank() over(partition by property_name order by transaction_date desc) as transaction_recency
 	from properties_transactions_table
-    ) as sub
-where transaction_recency < 4;
+    ) as sub -- This subquery ranks transactions from most recent to oldest
+where transaction_recency < 4 -- Filters for 3 most recent transactions
+group by property_name;
 
 /*
 QUESTION 8:
@@ -270,9 +300,20 @@ order by avg_tenure_months desc;
 
 /*
 QUESTION 10: *
-. Investment managers need to see cash flow trends from transactions. Calculate the
+Investment managers need to see cash flow trends from transactions. Calculate the
 moving sum of transactions over the last 12 months for each property.
 */
+
+select 
+	property_name,
+    transaction_date,
+    sum(case
+			when transaction_Type in ('Purchase','Renovation') then -transaction_amount
+            else transaction_amount
+		end) over(partition by property_name order by transaction_date) as moving_transaction_sum
+from properties_transactions_table
+where transaction_date between date_sub(curdate(), interval 12 month) and curdate();
+
 
 /*
 QUESTION 11: 
@@ -363,6 +404,19 @@ QUESTION 15: *
 Investment advisors are interested in high-value properties within each category.
 Calculate the 90th percentile of transaction amounts for each property type.
 */
+select 
+    property_type,
+    transaction_amount
+from (
+    select 
+        property_type,
+        transaction_amount,
+        percent_rank() over (partition by property_type order by transaction_amount) as percentile_rank
+    from properties_transactions_table
+	) as sub -- subquery returns ranked transactions
+where percentile_rank >= 0.9 -- Fetches 90th percentile
+order by property_type, transaction_amount;
+
 
 /*
 QUESTION 16:
@@ -482,4 +536,4 @@ from (
 	where lease_id is not null
     ) as sub -- This subquery ranks leases from latest to oldest per property
 where rank_by_latest_to_oldest_lease < 4 -- Fetches only top 3 most recent leases per property from the subquery
-group by property_name 
+group by property_name; 
