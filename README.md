@@ -71,7 +71,13 @@ Tracked leasing frequency and cumulative lease counts by year, enabling strategi
 Calculated average rent for the most recent leases to help set competitive pricing. Additionally, differences in consecutive lease rents were analyzed to flag market trends and provide guidance on pricing adjustments.
 
 ### Skills and Techniques Used
-This project utilized advanced SQL techniques to derive actionable insights across multiple dimensions. Key functions like DENSE_RANK(), PERCENT_RANK(), and LAG() were employed to analyze transaction and asset performance with precision. Conditional aggregation and CASE statements allowed for complex calculations, enabling effective categorization of transactions and detailed cost management. Date-based calculations, such as rolling sums and interval-based filtering, helped reveal trends over time. Data filtering and ranking methods were also applied to prioritize high-value assets, providing clear visibility into key areas for strategic focus.
+This project utilized advanced SQL techniques to derive actionable insights across multiple dimensions within the commercial real estate industry. Key functions such as **DENSE_RANK(), PERCENT_RANK(),** and **LAG()** were applied to accurately analyze transaction and asset performance.
+
+To streamline complex analyses, **Common Table Expressions (CTEs)** and **subqueries** were utilized, allowing for intermediate calculations and a more organized query structure, making it easier to handle intricate data manipulations and improve readability. **Views** were also created to encapsulate frequently used queries, making it simpler to access and reuse structured data for consistent reporting across different business needs.
+
+**Conditional aggregation** and **CASE statements** enabled advanced categorization of transactions, facilitating detailed cost management and enabling differentiation between revenue and expense items. Date-based calculations, such as **interval-based filtering**, helped reveal trends over time, allowing for more nuanced insights into cash flow and asset performance.
+
+Finally, **data filtering** and **ranking methods** were applied to prioritize high-value assets, offering clear visibility into key areas for strategic focus. Together, these techniques enabled a comprehensive analysis that highlighted areas for operational efficiency and investment opportunities.
 
 ### Conclusion
 This SQL project demonstrates the power of data analysis in transforming raw data into strategic insights. By focusing on essential business questions, the analysis guides Pinnacle Realty Group in enhancing profitability, improving tenant satisfaction, and optimizing resource allocation. This project showcases SQL as an indispensable tool in real estate data analytics, providing a robust foundation for informed decision-making.
