@@ -20,6 +20,12 @@ The project dataset consists of multiple interlinked tables, including:
 - **Property Managers:** Data on property managers, including the properties they oversee.
 - **Maintenance Logs:** Records of maintenance activities with cost details and service dates.
 
+### Data Issues
+
+Inconsistent data entry was observed in the transactions table. When transactions were ordered by date, some properties displayed multiple consecutive purchase records prior to any eventual sale (if a sale occurred at all). This pattern suggests potential data entry errors or repeated acquisitions without sufficient clarification, which could lead to inaccurate financial analysis and misinterpretation of transaction history
+
+Furthermore, in the transactions table, purchases and renovations were initially recorded as positive values. This approach can be misleading when calculating metrics like average transaction amounts, as these entries represent expenses rather than revenue-generating items like sales. To ensure accurate results, negative values were assigned to purchases and renovations, preventing inflation of average transaction figures and avoiding skewed financial insights.
+
 ### Key Insights
 Through rigorous analysis, several strategic insights were derived, guiding Pinnacle Realty Group in their investment and operational decisions:
 
