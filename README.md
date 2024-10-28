@@ -3,6 +3,15 @@
 
 ![Screenshot 2024-10-27 230637](https://github.com/user-attachments/assets/927ea357-aa14-4408-8620-88192db6abd7)
 
+### Table of Contents
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Data Model](#data-model)
+- [Data Issues](#data-issues)
+- [Key Insights](#key-insights)
+- [Skills and Techniques Used](#skills-and-techniques-used)
+- [Conclusion](#conclusion)
+
 ### Project Overview
 Pinnacle Realty Group is a commercial real estate company managing a diverse portfolio of properties, including office buildings, retail spaces, industrial sites, and residential properties. The company is committed to maximizing profitability while ensuring high tenant satisfaction and effective property maintenance across major cities.
 
