@@ -6,6 +6,7 @@
 ### Table of Contents
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
+- [Deliverables](#deliverables)
 - [Data Model](#data-model)
 - [Data Issues](#data-issues)
 - [Key Insights](#key-insights)
