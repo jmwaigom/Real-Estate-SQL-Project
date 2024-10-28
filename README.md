@@ -49,10 +49,10 @@ Tracked leasing frequency and cumulative lease counts by year, enabling strategi
 Calculated average rent for the most recent leases to help set competitive pricing. Additionally, differences in consecutive lease rents were analyzed to flag market trends and provide guidance on pricing adjustments.
 
 ### Skills and Techniques Used
-Advanced SQL Window Functions: Leveraged functions like DENSE_RANK(), PERCENT_RANK(), and LAG() to gain deeper insights across multiple dimensions.
-Conditional Aggregation and Case Statements: Applied complex calculations to categorize transactions and manage cost data.
-Date-based Calculations: Used date intervals and rolling sums to analyze trends over time.
-Data Filtering and Ranking: Prioritized data with filtering and ranking methods, providing clarity on high-priority assets and key areas of focus.
+**Advanced SQL Window Functions:** Leveraged functions like DENSE_RANK(), PERCENT_RANK(), and LAG() to gain deeper insights across multiple dimensions.\
+**Conditional Aggregation and Case Statements:** Applied complex calculations to categorize transactions and manage cost data.\
+**Date-based Calculations:** Used date intervals and rolling sums to analyze trends over time.\
+**Data Filtering and Ranking:** Prioritized data with filtering and ranking methods, providing clarity on high-priority assets and key areas of focus.
 
 ### Conclusion
 This SQL project demonstrates the power of data analysis in transforming raw data into strategic insights. By focusing on essential business questions, the analysis guides Pinnacle Realty Group in enhancing profitability, improving tenant satisfaction, and optimizing resource allocation. This project showcases SQL as an indispensable tool in real estate data analytics, providing a robust foundation for informed decision-making.
