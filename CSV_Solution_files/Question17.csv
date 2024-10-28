@@ -1,0 +1,492 @@
+property_name,property_type,property_rent_revenue,rent_rev_as_percent_of_total,rent_rev_as_percent_of_propType_total
+Cooper-Michael,Industrial,132817,0.26,0.98
+"Yates Ltd",Industrial,136625,0.27,1.01
+Wagner-Griffin,Industrial,209709,0.41,1.55
+"Hall Inc",Industrial,55517,0.11,0.41
+"Thomas, Atkinson and Lopez",Industrial,240360,0.47,1.77
+"Young, Garrison and Ward",Industrial,89944,0.17,0.66
+Yoder-Rowe,Industrial,88308,0.17,0.65
+Sanchez-Hunter,Industrial,161289,0.31,1.19
+"Hernandez, Jackson and Nguyen",Industrial,98635,0.19,0.73
+"Durham, Peterson and Rosario",Industrial,94028,0.18,0.69
+"Thomas Ltd",Industrial,73728,0.14,0.54
+"Lewis Group",Industrial,41526,0.08,0.31
+"Palmer and Sons",Industrial,24760,0.05,0.18
+"Townsend LLC",Industrial,78653,0.15,0.58
+"Rogers and Sons",Industrial,237036,0.46,1.75
+"Porter LLC",Industrial,132072,0.26,0.97
+Clark-Riggs,Industrial,24571,0.05,0.18
+"Johnson, Weaver and Torres",Industrial,164829,0.32,1.22
+Saunders-Le,Industrial,84061,0.16,0.62
+"Rodriguez Inc",Industrial,126345,0.25,0.93
+"Stevens PLC",Industrial,127395,0.25,0.94
+"Martin PLC",Industrial,49275,0.10,0.36
+"Nguyen, Lewis and Smith",Industrial,67630,0.13,0.50
+"Landry LLC",Industrial,46932,0.09,0.35
+"Norton Group",Industrial,163875,0.32,1.21
+Martin-Jones,Industrial,158706,0.31,1.17
+Goodwin-Bishop,Industrial,97704,0.19,0.72
+Peters-Brown,Industrial,170547,0.33,1.26
+"Watkins Ltd",Industrial,74418,0.14,0.55
+"Waller PLC",Industrial,127910,0.25,0.94
+"Carpenter, Yang and Barton",Industrial,87409,0.17,0.64
+Walters-Jones,Industrial,128948,0.25,0.95
+"Fletcher Ltd",Industrial,114268,0.22,0.84
+"Jones Inc",Industrial,48085,0.09,0.35
+"Strong, Hale and Key",Industrial,193408,0.38,1.43
+"Herrera Ltd",Industrial,87166,0.17,0.64
+Weaver-Rodriguez,Industrial,68605,0.13,0.51
+"Mathis and Sons",Industrial,15044,0.03,0.11
+"Anderson, Harrison and Burton",Industrial,154331,0.30,1.14
+Larson-Morris,Industrial,253530,0.49,1.87
+"Gilbert and Sons",Industrial,83733,0.16,0.62
+"Lee LLC",Industrial,143697,0.28,1.06
+"Cunningham Inc",Industrial,127292,0.25,0.94
+"Carpenter, Washington and Ramirez",Industrial,100463,0.20,0.74
+"Johnson and Sons",Industrial,84747,0.16,0.63
+"Alexander, Gordon and Cox",Industrial,57623,0.11,0.43
+"Cooper Group",Industrial,121760,0.24,0.90
+"Morris and Sons",Industrial,165905,0.32,1.22
+Brown-Smith,Industrial,158048,0.31,1.17
+"Watson Group",Industrial,201422,0.39,1.49
+Carroll-Mason,Industrial,39397,0.08,0.29
+"Hill, Gonzales and Hansen",Industrial,121427,0.24,0.90
+"Ryan, Williams and Clay",Industrial,148984,0.29,1.10
+"Gallegos and Sons",Industrial,110006,0.21,0.81
+Coleman-Hayes,Industrial,135140,0.26,1.00
+"Jackson Inc",Industrial,106540,0.21,0.79
+Martinez-Phillips,Industrial,98189,0.19,0.72
+Montgomery-Douglas,Industrial,170269,0.33,1.26
+"Farrell, Schultz and Manning",Industrial,26909,0.05,0.20
+"Warren and Sons",Industrial,63987,0.12,0.47
+"Branch and Sons",Industrial,125435,0.24,0.93
+"Perkins, Kramer and Gray",Industrial,95507,0.19,0.70
+Gregory-Pena,Industrial,147182,0.29,1.09
+Garrett-Page,Industrial,104288,0.20,0.77
+"Jackson, Mckay and Sanchez",Industrial,63500,0.12,0.47
+"Frey and Sons",Industrial,125933,0.24,0.93
+Smith-Allison,Industrial,145604,0.28,1.07
+Edwards-Stewart,Industrial,62830,0.12,0.46
+Roman-Foster,Industrial,112703,0.22,0.83
+"Chan, Davenport and Mccoy",Industrial,92328,0.18,0.68
+"Tate Inc",Industrial,266540,0.52,1.97
+"Miles, Hill and Bell",Industrial,103223,0.20,0.76
+"Atkinson, Fuller and Ingram",Industrial,76441,0.15,0.56
+"Fuller Group",Industrial,235379,0.46,1.74
+"Estrada PLC",Industrial,46273,0.09,0.34
+"Kelly and Sons",Industrial,106508,0.21,0.79
+Ross-Foster,Industrial,127319,0.25,0.94
+"Anderson Group",Industrial,44763,0.09,0.33
+"Austin, Miller and Thomas",Industrial,14896,0.03,0.11
+Williams-Stewart,Industrial,148489,0.29,1.10
+"Meyer Group",Industrial,46904,0.09,0.35
+Ibarra-Booker,Industrial,33485,0.07,0.25
+"Martinez Ltd",Industrial,66498,0.13,0.49
+Cain-Alexander,Industrial,19294,0.04,0.14
+"Carter Ltd",Industrial,107310,0.21,0.79
+Brown-Riley,Industrial,77226,0.15,0.57
+Edwards-Miller,Industrial,39070,0.08,0.29
+Warren-Mccormick,Industrial,44098,0.09,0.33
+"Smith Inc",Industrial,63149,0.12,0.47
+Hernandez-Sanders,Industrial,79956,0.16,0.59
+"Faulkner LLC",Industrial,67520,0.13,0.50
+"Ball and Sons",Industrial,98338,0.19,0.73
+"Bryan, Hall and Wise",Industrial,162625,0.32,1.20
+Saunders-Cooper,Industrial,133497,0.26,0.98
+"Drake, Moore and Stevenson",Industrial,23115,0.04,0.17
+Hawkins-Scott,Industrial,81814,0.16,0.60
+"Williams LLC",Industrial,5224,0.01,0.04
+"Gentry Inc",Industrial,120138,0.23,0.89
+Aguilar-Thompson,Industrial,99590,0.19,0.73
+"Huang, Clark and Foster",Industrial,71735,0.14,0.53
+"Arnold, Lam and Case",Industrial,36426,0.07,0.27
+"Best, Brown and Anderson",Industrial,74854,0.15,0.55
+Chandler-Campbell,Industrial,2284,0.00,0.02
+"Bennett, Hess and Hernandez",Industrial,50196,0.10,0.37
+"Miller Ltd",Industrial,144107,0.28,1.06
+"Myers LLC",Industrial,45799,0.09,0.34
+"Ortega Inc",Industrial,139265,0.27,1.03
+Ramirez-Rodriguez,Industrial,58374,0.11,0.43
+"Snyder, Johnson and Clark",Industrial,125904,0.24,0.93
+"Perez Group",Industrial,56619,0.11,0.42
+"King PLC",Industrial,5441,0.01,0.04
+"Flores Ltd",Industrial,3195,0.01,0.02
+"Oliver Ltd",Industrial,104304,0.20,0.77
+"Matthews, Rogers and Tran",Industrial,116758,0.23,0.86
+"Conway Inc",Industrial,62121,0.12,0.46
+Miller-Rivera,Industrial,21108,0.04,0.16
+White-Robinson,Industrial,92446,0.18,0.68
+Martinez-Reynolds,Industrial,22062,0.04,0.16
+"Werner Group",Industrial,46262,0.09,0.34
+"Chavez, Briggs and Perkins",Industrial,60265,0.12,0.44
+"Spence Inc",Industrial,163405,0.32,1.21
+"Perez Inc",Industrial,146302,0.28,1.08
+Huber-Johnson,Industrial,78597,0.15,0.58
+"Campos, Burgess and Webb",Industrial,64486,0.13,0.48
+"Allen Ltd",Industrial,79081,0.15,0.58
+"Mays Ltd",Industrial,75290,0.15,0.56
+Walker-Boyle,Industrial,46901,0.09,0.35
+"Lloyd LLC",Industrial,45962,0.09,0.34
+Mack-Doyle,Industrial,45681,0.09,0.34
+Obrien-Wood,Industrial,163562,0.32,1.21
+"Parks, Garcia and Walker",Industrial,114647,0.22,0.85
+"Ward Group",Industrial,26158,0.05,0.19
+Buck-Anderson,Industrial,105972,0.21,0.78
+"Riddle LLC",Industrial,68033,0.13,0.50
+Harvey-Cunningham,Industrial,87175,0.17,0.64
+Blevins-Nguyen,Industrial,4648,0.01,0.03
+"Miller Inc",Industrial,19989,0.04,0.15
+"Lopez, Grimes and Roberts",Industrial,177956,0.35,1.31
+"Horton and Sons",Industrial,128812,0.25,0.95
+Molina-Thompson,Industrial,162613,0.32,1.20
+"Cannon Group",Office,188593,0.37,1.50
+"Lewis Inc",Office,105825,0.21,0.84
+"Brewer, Abbott and Bolton",Office,115965,0.23,0.92
+Waters-Byrd,Office,153540,0.30,1.22
+Griffin-Miller,Office,78915,0.15,0.63
+Yoder-Davis,Office,26794,0.05,0.21
+Baker-Sanders,Office,90753,0.18,0.72
+"Williams PLC",Office,34452,0.07,0.27
+"Lee, Juarez and Mason",Office,174384,0.34,1.39
+"Peters Inc",Office,47572,0.09,0.38
+Kelley-Lamb,Office,205669,0.40,1.64
+Davis-Wood,Office,141843,0.28,1.13
+"Davis Ltd",Office,82495,0.16,0.66
+"Stewart and Sons",Office,49347,0.10,0.39
+"Jordan Ltd",Office,15749,0.03,0.13
+"Reyes, Elliott and Brown",Office,34886,0.07,0.28
+Weber-Gibson,Office,70669,0.14,0.56
+"Herrera PLC",Office,51497,0.10,0.41
+Cox-Hardin,Office,36028,0.07,0.29
+Nelson-Gonzalez,Office,115449,0.22,0.92
+Stevens-Smith,Office,257753,0.50,2.05
+"Henderson, Townsend and Gordon",Office,92134,0.18,0.73
+"Ramsey, Anderson and Walsh",Office,111667,0.22,0.89
+"Gutierrez, Dunn and Mitchell",Office,90561,0.18,0.72
+Ward-Brown,Office,71952,0.14,0.57
+"Davies, Mccoy and Cox",Office,163760,0.32,1.30
+"Johnson, Graham and Wagner",Office,89003,0.17,0.71
+"Bonilla, White and Hall",Office,36110,0.07,0.29
+"Gregory, Hensley and Ross",Office,110029,0.21,0.88
+"Krause Inc",Office,130091,0.25,1.04
+"Price PLC",Office,125252,0.24,1.00
+Nielsen-Peterson,Office,73860,0.14,0.59
+"Ramos, Brown and Edwards",Office,130448,0.25,1.04
+Turner-Ortiz,Office,7254,0.01,0.06
+"Smith LLC",Office,70153,0.14,0.56
+"Adkins LLC",Office,141494,0.28,1.13
+"Reed Ltd",Office,155927,0.30,1.24
+Turner-Carter,Office,74110,0.14,0.59
+"Mueller Group",Office,74275,0.14,0.59
+"Jenkins, Jackson and Lopez",Office,201367,0.39,1.60
+"Mcpherson, Wilson and Miles",Office,73234,0.14,0.58
+Jones-Atkins,Office,86485,0.17,0.69
+"Tapia, Harris and Mccann",Office,116823,0.23,0.93
+"Hill, Perkins and Fleming",Office,173136,0.34,1.38
+"Campos Inc",Office,83104,0.16,0.66
+"Taylor Inc",Office,68752,0.13,0.55
+"Santiago Group",Office,87515,0.17,0.70
+"Salinas, Campbell and Reed",Office,30533,0.06,0.24
+"Robinson Ltd",Office,105844,0.21,0.84
+"Lopez Inc",Office,181712,0.35,1.45
+"Martin, Richardson and Johnson",Office,120214,0.23,0.96
+Patel-Waters,Office,72180,0.14,0.57
+"Villarreal and Sons",Office,131031,0.25,1.04
+"Brennan and Sons",Office,201691,0.39,1.61
+"Rivas LLC",Office,179637,0.35,1.43
+"Vasquez, Blackwell and Pierce",Office,133041,0.26,1.06
+Johnson-Mckinney,Office,137820,0.27,1.10
+Nixon-Osborne,Office,68984,0.13,0.55
+Johnson-Reeves,Office,223019,0.43,1.78
+Chaney-Jones,Office,51356,0.10,0.41
+"Ortega Inc",Office,51128,0.10,0.41
+"King, Cobb and Campbell",Office,203674,0.40,1.62
+Gardner-Young,Office,85481,0.17,0.68
+"Hall, Gomez and Diaz",Office,85428,0.17,0.68
+"Spencer, Townsend and Woods",Office,107830,0.21,0.86
+Mckenzie-Odonnell,Office,73505,0.14,0.59
+"Morris, Berger and Little",Office,78769,0.15,0.63
+Ellis-Barker,Office,106343,0.21,0.85
+"Ryan and Sons",Office,152290,0.30,1.21
+"Stuart Group",Office,212186,0.41,1.69
+Hall-Burns,Office,189867,0.37,1.51
+"Garcia Ltd",Office,134676,0.26,1.07
+"Herrera Group",Office,160610,0.31,1.28
+"Johnson, Powell and Walker",Office,90799,0.18,0.72
+Spears-Price,Office,122281,0.24,0.97
+"Watson LLC",Office,84662,0.16,0.67
+"Bright and Sons",Office,159268,0.31,1.27
+"Kelly Inc",Office,241813,0.47,1.93
+"Rangel and Sons",Office,131528,0.26,1.05
+"Jackson Group",Office,105591,0.21,0.84
+"Martin Group",Office,277753,0.54,2.21
+"Moore and Sons",Office,39652,0.08,0.32
+"Freeman Group",Office,104832,0.20,0.83
+"Williams and Sons",Office,44167,0.09,0.35
+Peterson-Webb,Office,106848,0.21,0.85
+"Christian, Herring and Garza",Office,11239,0.02,0.09
+"Allen LLC",Office,25730,0.05,0.20
+"Mann Group",Office,158812,0.31,1.26
+"Rodriguez Group",Office,95565,0.19,0.76
+"Gonzalez Ltd",Office,161901,0.31,1.29
+"Cisneros Group",Office,82470,0.16,0.66
+"Vasquez, Willis and Little",Office,138170,0.27,1.10
+"Johnson, Harrison and Mcgee",Office,44098,0.09,0.35
+Wagner-Acevedo,Office,132876,0.26,1.06
+"Doyle LLC",Office,145948,0.28,1.16
+"Lewis LLC",Office,160029,0.31,1.27
+"Walker, Marsh and Moore",Office,68536,0.13,0.55
+"Ellis LLC",Office,235139,0.46,1.87
+"Williams, Wilson and Ellis",Office,53934,0.10,0.43
+Potter-Davis,Office,166430,0.32,1.33
+"White Group",Office,57667,0.11,0.46
+"Boyd, Thompson and Rodriguez",Office,53905,0.10,0.43
+"Campbell Inc",Office,25489,0.05,0.20
+"Thompson, Silva and Odom",Office,18062,0.04,0.14
+"Guerrero, Roberts and Taylor",Office,117248,0.23,0.93
+Adams-Whitehead,Office,195459,0.38,1.56
+Davis-Quinn,Office,167519,0.33,1.33
+"Brandt, Cain and Simon",Office,137741,0.27,1.10
+"Mason, Roberts and Smith",Office,122492,0.24,0.98
+"Ramirez Inc",Office,82175,0.16,0.65
+"Spencer, Zamora and Horton",Office,197690,0.38,1.57
+Bennett-Benson,Office,161683,0.31,1.29
+"Wilson, Davenport and Wyatt",Office,36971,0.07,0.29
+Rodriguez-Gonzales,Residential,191951,0.37,1.36
+"Mccall, Williams and Mills",Residential,104477,0.20,0.74
+"Cannon Inc",Residential,47372,0.09,0.34
+"Cox PLC",Residential,115109,0.22,0.81
+"Ruiz, French and Hill",Residential,228539,0.44,1.62
+"George, Callahan and Ochoa",Residential,155476,0.30,1.10
+"Patterson PLC",Residential,196841,0.38,1.39
+Ramirez-Edwards,Residential,181817,0.35,1.29
+Miller-Smith,Residential,184098,0.36,1.30
+"Lynn PLC",Residential,245694,0.48,1.74
+"Garcia Inc",Residential,56914,0.11,0.40
+"Thomas LLC",Residential,174317,0.34,1.23
+"Clark LLC",Residential,137010,0.27,0.97
+"Rosario, Holden and Ross",Residential,93112,0.18,0.66
+Contreras-Delgado,Residential,62492,0.12,0.44
+"Ray, Washington and Cox",Residential,119057,0.23,0.84
+"Willis Ltd",Residential,396098,0.77,2.80
+Hunt-Bender,Residential,65944,0.13,0.47
+"Perkins Group",Residential,35844,0.07,0.25
+"Evans, Hardin and Rodriguez",Residential,123844,0.24,0.88
+"Soto, Higgins and Lopez",Residential,153849,0.30,1.09
+Carter-Marquez,Residential,109995,0.21,0.78
+Martin-Wood,Residential,215002,0.42,1.52
+"Robertson Ltd",Residential,154487,0.30,1.09
+"Myers, Mckay and Noble",Residential,171801,0.33,1.22
+Joseph-Mills,Residential,52658,0.10,0.37
+"Horn, Reed and Miller",Residential,89605,0.17,0.63
+"Smith, Wise and Nelson",Residential,152915,0.30,1.08
+Sanchez-Gibson,Residential,165907,0.32,1.17
+Owen-Kim,Residential,62200,0.12,0.44
+"Elliott Group",Residential,88898,0.17,0.63
+"Martinez, Small and Cunningham",Residential,199280,0.39,1.41
+"Jackson, Davis and Gill",Residential,134427,0.26,0.95
+"Jones Inc",Residential,121299,0.24,0.86
+"Costa LLC",Residential,123814,0.24,0.88
+"Myers Ltd",Residential,134496,0.26,0.95
+"Ramirez, Ramirez and Jackson",Residential,120181,0.23,0.85
+"Evans LLC",Residential,34774,0.07,0.25
+"Roman, Patterson and Barton",Residential,144581,0.28,1.02
+Cunningham-Floyd,Residential,166141,0.32,1.18
+"Cook and Sons",Residential,39171,0.08,0.28
+Schneider-Wallace,Residential,55178,0.11,0.39
+"Khan, White and Wall",Residential,85833,0.17,0.61
+"George, Reed and Frazier",Residential,184160,0.36,1.30
+"Martinez Inc",Residential,132367,0.26,0.94
+Harvey-Scott,Residential,41083,0.08,0.29
+"Adams, May and Oneill",Residential,88184,0.17,0.62
+"Pierce, Payne and Scott",Residential,192185,0.37,1.36
+"Bryant, Douglas and Murphy",Residential,87116,0.17,0.62
+"Knight, Henry and Chandler",Residential,95454,0.19,0.68
+Nicholson-Woodward,Residential,138832,0.27,0.98
+"Harrison PLC",Residential,91426,0.18,0.65
+"Howard Inc",Residential,87801,0.17,0.62
+"Williams Group",Residential,106387,0.21,0.75
+"Gallagher PLC",Residential,87510,0.17,0.62
+Roberts-Brooks,Residential,283279,0.55,2.00
+"Rogers, Peters and Brewer",Residential,149652,0.29,1.06
+"Ross, Jenkins and Yates",Residential,191640,0.37,1.36
+"Mcpherson Group",Residential,194694,0.38,1.38
+"Murray Group",Residential,71683,0.14,0.51
+Garrett-Edwards,Residential,162826,0.32,1.15
+"Mccann, West and Rodriguez",Residential,186859,0.36,1.32
+"Nelson LLC",Residential,87982,0.17,0.62
+"Petty, Smith and Smith",Residential,102494,0.20,0.73
+Byrd-Rodriguez,Residential,159713,0.31,1.13
+"Hancock, Pearson and Murphy",Residential,132486,0.26,0.94
+"Hull, Perez and Rasmussen",Residential,16885,0.03,0.12
+"Lopez Group",Residential,15784,0.03,0.11
+"Spencer and Sons",Residential,130321,0.25,0.92
+Allen-Brown,Residential,75547,0.15,0.53
+"Cunningham, Berry and Howard",Residential,213777,0.42,1.51
+"Burns, Cox and Whitehead",Residential,54189,0.11,0.38
+Ryan-Adams,Residential,122736,0.24,0.87
+Patton-Morrison,Residential,259849,0.51,1.84
+"Reid Group",Residential,87625,0.17,0.62
+"Ramirez, Lopez and Trevino",Residential,25422,0.05,0.18
+Barron-Mcgee,Residential,103780,0.20,0.73
+Sanchez-Alexander,Residential,86737,0.17,0.61
+Harris-Mullins,Residential,72523,0.14,0.51
+"Orozco Ltd",Residential,128547,0.25,0.91
+"Walker Inc",Residential,152987,0.30,1.08
+"Martinez, Cox and Malone",Residential,11371,0.02,0.08
+"Lee, Johnson and Zimmerman",Residential,118257,0.23,0.84
+"Hickman and Sons",Residential,52246,0.10,0.37
+"Wilson Ltd",Residential,48936,0.10,0.35
+Young-Abbott,Residential,42562,0.08,0.30
+"Martinez Ltd",Residential,42466,0.08,0.30
+"Lewis, Douglas and Richard",Residential,23897,0.05,0.17
+Spears-Cooper,Residential,45098,0.09,0.32
+"Hogan Group",Residential,235391,0.46,1.67
+"Kim, Robinson and Browning",Residential,48266,0.09,0.34
+Stewart-Rojas,Residential,95668,0.19,0.68
+"Stewart Ltd",Residential,62139,0.12,0.44
+"Gibson, Martin and Russell",Residential,86324,0.17,0.61
+Hernandez-Hebert,Residential,146279,0.28,1.04
+Frederick-Wall,Residential,48096,0.09,0.34
+Ford-Johnson,Residential,100141,0.19,0.71
+"Casey and Sons",Residential,109949,0.21,0.78
+"Anderson Inc",Residential,90186,0.18,0.64
+"Meza, Gibson and Adams",Residential,57146,0.11,0.40
+"Parrish Inc",Residential,72208,0.14,0.51
+"Blevins PLC",Residential,82632,0.16,0.58
+"Francis, Willis and Davis",Residential,97981,0.19,0.69
+"Bentley, Barnes and Martin",Residential,50381,0.10,0.36
+"Christian, Murray and Little",Residential,60580,0.12,0.43
+Reeves-Blair,Residential,48987,0.10,0.35
+"Ruiz, Powell and Jenkins",Residential,37725,0.07,0.27
+"Nguyen Ltd",Residential,64350,0.13,0.46
+"Ruiz Group",Residential,73546,0.14,0.52
+"Bradley Inc",Residential,45101,0.09,0.32
+"Morris, Gonzalez and Diaz",Residential,78365,0.15,0.55
+"Banks, Coleman and Joyce",Residential,20671,0.04,0.15
+"Gomez LLC",Residential,108458,0.21,0.77
+"Bush LLC",Residential,13325,0.03,0.09
+Collins-Mccoy,Residential,56935,0.11,0.40
+Khan-Morales,Residential,90524,0.18,0.64
+"Smith Group",Residential,112732,0.22,0.80
+"White LLC",Residential,112443,0.22,0.80
+"Martin Ltd",Residential,45158,0.09,0.32
+"Lopez, Ingram and Hodge",Residential,226982,0.44,1.61
+"Harris LLC",Residential,70778,0.14,0.50
+Weeks-Morris,Residential,73913,0.14,0.52
+Rios-Sexton,Residential,102194,0.20,0.72
+Freeman-Martinez,Residential,134412,0.26,0.95
+"Wilson Group",Residential,27252,0.05,0.19
+"Beltran PLC",Residential,4693,0.01,0.03
+Moon-Ball,Residential,79936,0.16,0.57
+"Swanson, Benson and Campbell",Residential,82354,0.16,0.58
+Rodriguez-Morrow,Residential,115301,0.22,0.82
+Alvarez-Miller,Residential,39611,0.08,0.28
+Campbell-Rodriguez,Residential,142646,0.28,1.01
+"Schmitt Ltd",Retail,98056,0.19,0.88
+Solomon-Bailey,Retail,38499,0.07,0.34
+"Bowen, Garza and Scott",Retail,30027,0.06,0.27
+Shepherd-Lee,Retail,120544,0.23,1.08
+"Jones, Nelson and Jones",Retail,209302,0.41,1.87
+"Mckinney LLC",Retail,160640,0.31,1.44
+"White, Holt and Padilla",Retail,155760,0.30,1.39
+"Stewart, Howard and Bowers",Retail,127579,0.25,1.14
+"Mcdaniel, Summers and Rivera",Retail,7834,0.02,0.07
+"Adkins and Sons",Retail,143324,0.28,1.28
+"House PLC",Retail,97435,0.19,0.87
+"Clarke, Herrera and Logan",Retail,93776,0.18,0.84
+Lopez-Rodriguez,Retail,145651,0.28,1.30
+"Thompson Group",Retail,171857,0.33,1.54
+Adams-Knight,Retail,135543,0.26,1.21
+Fernandez-Peterson,Retail,58377,0.11,0.52
+"Jones, Barrera and Hines",Retail,24693,0.05,0.22
+"Sharp, Payne and Solis",Retail,98083,0.19,0.88
+"Douglas LLC",Retail,64104,0.12,0.57
+White-Flores,Retail,35871,0.07,0.32
+"Rogers and Sons",Retail,162521,0.32,1.45
+Cline-Hill,Retail,111853,0.22,1.00
+Miranda-Ruiz,Retail,98974,0.19,0.88
+"Norman and Sons",Retail,83384,0.16,0.75
+"Andrews, Smith and Mason",Retail,92517,0.18,0.83
+"Burns, Castro and Mora",Retail,82804,0.16,0.74
+"Ortiz, Marshall and Phillips",Retail,59075,0.11,0.53
+"Sanchez Inc",Retail,118478,0.23,1.06
+Evans-Marshall,Retail,109368,0.21,0.98
+"Hodge, Mclaughlin and Jones",Retail,100622,0.20,0.90
+"Doyle PLC",Retail,46883,0.09,0.42
+"Cameron, Park and Willis",Retail,84944,0.17,0.76
+"Underwood PLC",Retail,127345,0.25,1.14
+"York PLC",Retail,75142,0.15,0.67
+"Richards, Rosario and Garcia",Retail,69002,0.13,0.62
+Holmes-Barrett,Retail,129557,0.25,1.16
+"Martin, Williams and Lawson",Retail,106072,0.21,0.95
+"Richmond Ltd",Retail,124649,0.24,1.11
+Jones-Villa,Retail,49554,0.10,0.44
+"Perez, Fernandez and Wong",Retail,100089,0.19,0.89
+Scott-Jensen,Retail,102585,0.20,0.92
+"Austin, Cross and Mclean",Retail,80034,0.16,0.72
+Mitchell-Novak,Retail,154649,0.30,1.38
+"Boyd Ltd",Retail,155423,0.30,1.39
+Cruz-Green,Retail,62344,0.12,0.56
+"Williams, Newman and Williamson",Retail,79797,0.16,0.71
+"Neal PLC",Retail,116011,0.23,1.04
+"Hester PLC",Retail,40073,0.08,0.36
+Murray-Harris,Retail,182169,0.35,1.63
+Griffin-Velez,Retail,66495,0.13,0.59
+Moore-Irwin,Retail,271183,0.53,2.42
+Sims-Arnold,Retail,137123,0.27,1.23
+"Smith Inc",Retail,55513,0.11,0.50
+"Mccullough, Stewart and Mora",Retail,24446,0.05,0.22
+Mckee-Jensen,Retail,42956,0.08,0.38
+"Estes and Sons",Retail,145375,0.28,1.30
+"Lara Group",Retail,141364,0.27,1.26
+"Smith LLC",Retail,76399,0.15,0.68
+Price-Le,Retail,77369,0.15,0.69
+"Barron, Thomas and Arias",Retail,62217,0.12,0.56
+"Wheeler PLC",Retail,176010,0.34,1.57
+"Velasquez PLC",Retail,165147,0.32,1.48
+Lee-Martinez,Retail,173010,0.34,1.55
+"Hurst Inc",Retail,65116,0.13,0.58
+"Barr and Sons",Retail,82030,0.16,0.73
+"Higgins Group",Retail,147346,0.29,1.32
+Marquez-Cross,Retail,142763,0.28,1.28
+"Roberts, Brown and Wheeler",Retail,90349,0.18,0.81
+"Andersen, Montgomery and White",Retail,84265,0.16,0.75
+"Rodriguez, Gibson and Thomas",Retail,145166,0.28,1.30
+"Perez, Jones and Patterson",Retail,46745,0.09,0.42
+"Anderson, Patel and Stewart",Retail,181871,0.35,1.63
+"Chang, West and Fields",Retail,134942,0.26,1.21
+Phillips-Smith,Retail,63441,0.12,0.57
+Jones-Gray,Retail,88788,0.17,0.79
+Craig-Foster,Retail,182722,0.36,1.63
+Hernandez-Ballard,Retail,222947,0.43,1.99
+"Salazar PLC",Retail,35598,0.07,0.32
+Nelson-Phillips,Retail,116196,0.23,1.04
+Alvarez-Wilson,Retail,119823,0.23,1.07
+"Choi Inc",Retail,95971,0.19,0.86
+"Walton, Freeman and Cruz",Retail,137297,0.27,1.23
+"Salazar, Kennedy and Pierce",Retail,157586,0.31,1.41
+"Wood, Proctor and Johnson",Retail,71027,0.14,0.63
+"Jimenez, Wolfe and Mcfarland",Retail,118519,0.23,1.06
+"Moore PLC",Retail,65453,0.13,0.58
+"Brooks, Mason and Colon",Retail,61710,0.12,0.55
+"Best, Willis and Brandt",Retail,63655,0.12,0.57
+"Clayton Inc",Retail,213478,0.42,1.91
+Robertson-Brown,Retail,66563,0.13,0.59
+Lopez-Boyd,Retail,56660,0.11,0.51
+"Hendricks Group",Retail,204013,0.40,1.82
+"Eaton Ltd",Retail,112652,0.22,1.01
+"Brewer, Henry and Ryan",Retail,145895,0.28,1.30
+"Garcia and Sons",Retail,46946,0.09,0.42
+"Cook, Mendoza and Leonard",Retail,58971,0.11,0.53
+"Villanueva, Miller and Lopez",Retail,34084,0.07,0.30
+"Hoffman, Hensley and Martinez",Retail,104923,0.20,0.94
+"Burton, Chase and Garcia",Retail,147813,0.29,1.32
+"Anderson LLC",Retail,41769,0.08,0.37
+"Mckinney, White and Mason",Retail,139053,0.27,1.24
+"Guerrero PLC",Retail,24986,0.05,0.22
+"Townsend LLC",Retail,62685,0.12,0.56
+"Lee Ltd",Retail,63725,0.12,0.57
+Johnson-Beltran,Retail,206729,0.40,1.85
+"Anderson, Anthony and Lewis",Retail,98706,0.19,0.88
+"Gilmore, Frazier and Bright",Retail,100775,0.20,0.90

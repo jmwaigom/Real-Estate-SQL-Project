@@ -1,0 +1,492 @@
+property_type,property_name,total_rental_revenue,rental_revenue_ranking
+Industrial,"Tate Inc",266540,1
+Industrial,Larson-Morris,253530,2
+Industrial,"Thomas, Atkinson and Lopez",240360,3
+Industrial,"Rogers and Sons",237036,4
+Industrial,"Fuller Group",235379,5
+Industrial,Wagner-Griffin,209709,6
+Industrial,"Watson Group",201422,7
+Industrial,"Strong, Hale and Key",193408,8
+Industrial,"Lopez, Grimes and Roberts",177956,9
+Industrial,Peters-Brown,170547,10
+Industrial,Montgomery-Douglas,170269,11
+Industrial,"Morris and Sons",165905,12
+Industrial,"Johnson, Weaver and Torres",164829,13
+Industrial,"Norton Group",163875,14
+Industrial,Obrien-Wood,163562,15
+Industrial,"Spence Inc",163405,16
+Industrial,"Bryan, Hall and Wise",162625,17
+Industrial,Molina-Thompson,162613,18
+Industrial,Sanchez-Hunter,161289,19
+Industrial,Martin-Jones,158706,20
+Industrial,Brown-Smith,158048,21
+Industrial,"Anderson, Harrison and Burton",154331,22
+Industrial,"Ryan, Williams and Clay",148984,23
+Industrial,Williams-Stewart,148489,24
+Industrial,Gregory-Pena,147182,25
+Industrial,"Perez Inc",146302,26
+Industrial,Smith-Allison,145604,27
+Industrial,"Miller Ltd",144107,28
+Industrial,"Lee LLC",143697,29
+Industrial,"Ortega Inc",139265,30
+Industrial,"Yates Ltd",136625,31
+Industrial,Coleman-Hayes,135140,32
+Industrial,Saunders-Cooper,133497,33
+Industrial,Cooper-Michael,132817,34
+Industrial,"Porter LLC",132072,35
+Industrial,Walters-Jones,128948,36
+Industrial,"Horton and Sons",128812,37
+Industrial,"Waller PLC",127910,38
+Industrial,"Stevens PLC",127395,39
+Industrial,Ross-Foster,127319,40
+Industrial,"Cunningham Inc",127292,41
+Industrial,"Rodriguez Inc",126345,42
+Industrial,"Frey and Sons",125933,43
+Industrial,"Snyder, Johnson and Clark",125904,44
+Industrial,"Branch and Sons",125435,45
+Industrial,"Cooper Group",121760,46
+Industrial,"Hill, Gonzales and Hansen",121427,47
+Industrial,"Gentry Inc",120138,48
+Industrial,"Matthews, Rogers and Tran",116758,49
+Industrial,"Parks, Garcia and Walker",114647,50
+Industrial,"Fletcher Ltd",114268,51
+Industrial,Roman-Foster,112703,52
+Industrial,"Gallegos and Sons",110006,53
+Industrial,"Carter Ltd",107310,54
+Industrial,"Jackson Inc",106540,55
+Industrial,"Kelly and Sons",106508,56
+Industrial,Buck-Anderson,105972,57
+Industrial,"Oliver Ltd",104304,58
+Industrial,Garrett-Page,104288,59
+Industrial,"Miles, Hill and Bell",103223,60
+Industrial,"Carpenter, Washington and Ramirez",100463,61
+Industrial,Aguilar-Thompson,99590,62
+Industrial,"Hernandez, Jackson and Nguyen",98635,63
+Industrial,"Ball and Sons",98338,64
+Industrial,Martinez-Phillips,98189,65
+Industrial,Goodwin-Bishop,97704,66
+Industrial,"Perkins, Kramer and Gray",95507,67
+Industrial,"Durham, Peterson and Rosario",94028,68
+Industrial,White-Robinson,92446,69
+Industrial,"Chan, Davenport and Mccoy",92328,70
+Industrial,"Young, Garrison and Ward",89944,71
+Industrial,Yoder-Rowe,88308,72
+Industrial,"Carpenter, Yang and Barton",87409,73
+Industrial,Harvey-Cunningham,87175,74
+Industrial,"Herrera Ltd",87166,75
+Industrial,"Johnson and Sons",84747,76
+Industrial,Saunders-Le,84061,77
+Industrial,"Gilbert and Sons",83733,78
+Industrial,Hawkins-Scott,81814,79
+Industrial,Hernandez-Sanders,79956,80
+Industrial,"Allen Ltd",79081,81
+Industrial,"Townsend LLC",78653,82
+Industrial,Huber-Johnson,78597,83
+Industrial,Brown-Riley,77226,84
+Industrial,"Atkinson, Fuller and Ingram",76441,85
+Industrial,"Mays Ltd",75290,86
+Industrial,"Best, Brown and Anderson",74854,87
+Industrial,"Watkins Ltd",74418,88
+Industrial,"Thomas Ltd",73728,89
+Industrial,"Huang, Clark and Foster",71735,90
+Industrial,Weaver-Rodriguez,68605,91
+Industrial,"Riddle LLC",68033,92
+Industrial,"Nguyen, Lewis and Smith",67630,93
+Industrial,"Faulkner LLC",67520,94
+Industrial,"Martinez Ltd",66498,95
+Industrial,"Campos, Burgess and Webb",64486,96
+Industrial,"Warren and Sons",63987,97
+Industrial,"Jackson, Mckay and Sanchez",63500,98
+Industrial,"Smith Inc",63149,99
+Industrial,Edwards-Stewart,62830,100
+Industrial,"Conway Inc",62121,101
+Industrial,"Chavez, Briggs and Perkins",60265,102
+Industrial,Ramirez-Rodriguez,58374,103
+Industrial,"Alexander, Gordon and Cox",57623,104
+Industrial,"Perez Group",56619,105
+Industrial,"Hall Inc",55517,106
+Industrial,"Bennett, Hess and Hernandez",50196,107
+Industrial,"Martin PLC",49275,108
+Industrial,"Jones Inc",48085,109
+Industrial,"Landry LLC",46932,110
+Industrial,"Meyer Group",46904,111
+Industrial,Walker-Boyle,46901,112
+Industrial,"Estrada PLC",46273,113
+Industrial,"Werner Group",46262,114
+Industrial,"Lloyd LLC",45962,115
+Industrial,"Myers LLC",45799,116
+Industrial,Mack-Doyle,45681,117
+Industrial,"Anderson Group",44763,118
+Industrial,Warren-Mccormick,44098,119
+Industrial,"Lewis Group",41526,120
+Industrial,Carroll-Mason,39397,121
+Industrial,Edwards-Miller,39070,122
+Industrial,"Arnold, Lam and Case",36426,123
+Industrial,Ibarra-Booker,33485,124
+Industrial,"Farrell, Schultz and Manning",26909,125
+Industrial,"Ward Group",26158,126
+Industrial,"Palmer and Sons",24760,127
+Industrial,Clark-Riggs,24571,128
+Industrial,"Drake, Moore and Stevenson",23115,129
+Industrial,Martinez-Reynolds,22062,130
+Industrial,Miller-Rivera,21108,131
+Industrial,"Miller Inc",19989,132
+Industrial,Cain-Alexander,19294,133
+Industrial,"Mathis and Sons",15044,134
+Industrial,"Austin, Miller and Thomas",14896,135
+Industrial,"King PLC",5441,136
+Industrial,"Williams LLC",5224,137
+Industrial,Blevins-Nguyen,4648,138
+Industrial,"Flores Ltd",3195,139
+Industrial,Chandler-Campbell,2284,140
+Office,"Martin Group",277753,1
+Office,Stevens-Smith,257753,2
+Office,"Kelly Inc",241813,3
+Office,"Ellis LLC",235139,4
+Office,Johnson-Reeves,223019,5
+Office,"Stuart Group",212186,6
+Office,Kelley-Lamb,205669,7
+Office,"King, Cobb and Campbell",203674,8
+Office,"Brennan and Sons",201691,9
+Office,"Jenkins, Jackson and Lopez",201367,10
+Office,"Spencer, Zamora and Horton",197690,11
+Office,Adams-Whitehead,195459,12
+Office,Hall-Burns,189867,13
+Office,"Cannon Group",188593,14
+Office,"Lopez Inc",181712,15
+Office,"Rivas LLC",179637,16
+Office,"Lee, Juarez and Mason",174384,17
+Office,"Hill, Perkins and Fleming",173136,18
+Office,Davis-Quinn,167519,19
+Office,Potter-Davis,166430,20
+Office,"Davies, Mccoy and Cox",163760,21
+Office,"Gonzalez Ltd",161901,22
+Office,Bennett-Benson,161683,23
+Office,"Herrera Group",160610,24
+Office,"Lewis LLC",160029,25
+Office,"Bright and Sons",159268,26
+Office,"Mann Group",158812,27
+Office,"Reed Ltd",155927,28
+Office,Waters-Byrd,153540,29
+Office,"Ryan and Sons",152290,30
+Office,"Doyle LLC",145948,31
+Office,Davis-Wood,141843,32
+Office,"Adkins LLC",141494,33
+Office,"Vasquez, Willis and Little",138170,34
+Office,Johnson-Mckinney,137820,35
+Office,"Brandt, Cain and Simon",137741,36
+Office,"Garcia Ltd",134676,37
+Office,"Vasquez, Blackwell and Pierce",133041,38
+Office,Wagner-Acevedo,132876,39
+Office,"Rangel and Sons",131528,40
+Office,"Villarreal and Sons",131031,41
+Office,"Ramos, Brown and Edwards",130448,42
+Office,"Krause Inc",130091,43
+Office,"Price PLC",125252,44
+Office,"Mason, Roberts and Smith",122492,45
+Office,Spears-Price,122281,46
+Office,"Martin, Richardson and Johnson",120214,47
+Office,"Guerrero, Roberts and Taylor",117248,48
+Office,"Tapia, Harris and Mccann",116823,49
+Office,"Brewer, Abbott and Bolton",115965,50
+Office,Nelson-Gonzalez,115449,51
+Office,"Ramsey, Anderson and Walsh",111667,52
+Office,"Gregory, Hensley and Ross",110029,53
+Office,"Spencer, Townsend and Woods",107830,54
+Office,Peterson-Webb,106848,55
+Office,Ellis-Barker,106343,56
+Office,"Robinson Ltd",105844,57
+Office,"Lewis Inc",105825,58
+Office,"Jackson Group",105591,59
+Office,"Freeman Group",104832,60
+Office,"Rodriguez Group",95565,61
+Office,"Henderson, Townsend and Gordon",92134,62
+Office,"Johnson, Powell and Walker",90799,63
+Office,Baker-Sanders,90753,64
+Office,"Gutierrez, Dunn and Mitchell",90561,65
+Office,"Johnson, Graham and Wagner",89003,66
+Office,"Santiago Group",87515,67
+Office,Jones-Atkins,86485,68
+Office,Gardner-Young,85481,69
+Office,"Hall, Gomez and Diaz",85428,70
+Office,"Watson LLC",84662,71
+Office,"Campos Inc",83104,72
+Office,"Davis Ltd",82495,73
+Office,"Cisneros Group",82470,74
+Office,"Ramirez Inc",82175,75
+Office,Griffin-Miller,78915,76
+Office,"Morris, Berger and Little",78769,77
+Office,"Mueller Group",74275,78
+Office,Turner-Carter,74110,79
+Office,Nielsen-Peterson,73860,80
+Office,Mckenzie-Odonnell,73505,81
+Office,"Mcpherson, Wilson and Miles",73234,82
+Office,Patel-Waters,72180,83
+Office,Ward-Brown,71952,84
+Office,Weber-Gibson,70669,85
+Office,"Smith LLC",70153,86
+Office,Nixon-Osborne,68984,87
+Office,"Taylor Inc",68752,88
+Office,"Walker, Marsh and Moore",68536,89
+Office,"White Group",57667,90
+Office,"Williams, Wilson and Ellis",53934,91
+Office,"Boyd, Thompson and Rodriguez",53905,92
+Office,"Herrera PLC",51497,93
+Office,Chaney-Jones,51356,94
+Office,"Ortega Inc",51128,95
+Office,"Stewart and Sons",49347,96
+Office,"Peters Inc",47572,97
+Office,"Williams and Sons",44167,98
+Office,"Johnson, Harrison and Mcgee",44098,99
+Office,"Moore and Sons",39652,100
+Office,"Wilson, Davenport and Wyatt",36971,101
+Office,"Bonilla, White and Hall",36110,102
+Office,Cox-Hardin,36028,103
+Office,"Reyes, Elliott and Brown",34886,104
+Office,"Williams PLC",34452,105
+Office,"Salinas, Campbell and Reed",30533,106
+Office,Yoder-Davis,26794,107
+Office,"Allen LLC",25730,108
+Office,"Campbell Inc",25489,109
+Office,"Thompson, Silva and Odom",18062,110
+Office,"Jordan Ltd",15749,111
+Office,"Christian, Herring and Garza",11239,112
+Office,Turner-Ortiz,7254,113
+Residential,"Willis Ltd",396098,1
+Residential,Roberts-Brooks,283279,2
+Residential,Patton-Morrison,259849,3
+Residential,"Lynn PLC",245694,4
+Residential,"Hogan Group",235391,5
+Residential,"Ruiz, French and Hill",228539,6
+Residential,"Lopez, Ingram and Hodge",226982,7
+Residential,Martin-Wood,215002,8
+Residential,"Cunningham, Berry and Howard",213777,9
+Residential,"Martinez, Small and Cunningham",199280,10
+Residential,"Patterson PLC",196841,11
+Residential,"Mcpherson Group",194694,12
+Residential,"Pierce, Payne and Scott",192185,13
+Residential,Rodriguez-Gonzales,191951,14
+Residential,"Ross, Jenkins and Yates",191640,15
+Residential,"Mccann, West and Rodriguez",186859,16
+Residential,"George, Reed and Frazier",184160,17
+Residential,Miller-Smith,184098,18
+Residential,Ramirez-Edwards,181817,19
+Residential,"Thomas LLC",174317,20
+Residential,"Myers, Mckay and Noble",171801,21
+Residential,Cunningham-Floyd,166141,22
+Residential,Sanchez-Gibson,165907,23
+Residential,Garrett-Edwards,162826,24
+Residential,Byrd-Rodriguez,159713,25
+Residential,"George, Callahan and Ochoa",155476,26
+Residential,"Robertson Ltd",154487,27
+Residential,"Soto, Higgins and Lopez",153849,28
+Residential,"Walker Inc",152987,29
+Residential,"Smith, Wise and Nelson",152915,30
+Residential,"Rogers, Peters and Brewer",149652,31
+Residential,Hernandez-Hebert,146279,32
+Residential,"Roman, Patterson and Barton",144581,33
+Residential,Campbell-Rodriguez,142646,34
+Residential,Nicholson-Woodward,138832,35
+Residential,"Clark LLC",137010,36
+Residential,"Myers Ltd",134496,37
+Residential,"Jackson, Davis and Gill",134427,38
+Residential,Freeman-Martinez,134412,39
+Residential,"Hancock, Pearson and Murphy",132486,40
+Residential,"Martinez Inc",132367,41
+Residential,"Spencer and Sons",130321,42
+Residential,"Orozco Ltd",128547,43
+Residential,"Evans, Hardin and Rodriguez",123844,44
+Residential,"Costa LLC",123814,45
+Residential,Ryan-Adams,122736,46
+Residential,"Jones Inc",121299,47
+Residential,"Ramirez, Ramirez and Jackson",120181,48
+Residential,"Ray, Washington and Cox",119057,49
+Residential,"Lee, Johnson and Zimmerman",118257,50
+Residential,Rodriguez-Morrow,115301,51
+Residential,"Cox PLC",115109,52
+Residential,"Smith Group",112732,53
+Residential,"White LLC",112443,54
+Residential,Carter-Marquez,109995,55
+Residential,"Casey and Sons",109949,56
+Residential,"Gomez LLC",108458,57
+Residential,"Williams Group",106387,58
+Residential,"Mccall, Williams and Mills",104477,59
+Residential,Barron-Mcgee,103780,60
+Residential,"Petty, Smith and Smith",102494,61
+Residential,Rios-Sexton,102194,62
+Residential,Ford-Johnson,100141,63
+Residential,"Francis, Willis and Davis",97981,64
+Residential,Stewart-Rojas,95668,65
+Residential,"Knight, Henry and Chandler",95454,66
+Residential,"Rosario, Holden and Ross",93112,67
+Residential,"Harrison PLC",91426,68
+Residential,Khan-Morales,90524,69
+Residential,"Anderson Inc",90186,70
+Residential,"Horn, Reed and Miller",89605,71
+Residential,"Elliott Group",88898,72
+Residential,"Adams, May and Oneill",88184,73
+Residential,"Nelson LLC",87982,74
+Residential,"Howard Inc",87801,75
+Residential,"Reid Group",87625,76
+Residential,"Gallagher PLC",87510,77
+Residential,"Bryant, Douglas and Murphy",87116,78
+Residential,Sanchez-Alexander,86737,79
+Residential,"Gibson, Martin and Russell",86324,80
+Residential,"Khan, White and Wall",85833,81
+Residential,"Blevins PLC",82632,82
+Residential,"Swanson, Benson and Campbell",82354,83
+Residential,Moon-Ball,79936,84
+Residential,"Morris, Gonzalez and Diaz",78365,85
+Residential,Allen-Brown,75547,86
+Residential,Weeks-Morris,73913,87
+Residential,"Ruiz Group",73546,88
+Residential,Harris-Mullins,72523,89
+Residential,"Parrish Inc",72208,90
+Residential,"Murray Group",71683,91
+Residential,"Harris LLC",70778,92
+Residential,Hunt-Bender,65944,93
+Residential,"Nguyen Ltd",64350,94
+Residential,Contreras-Delgado,62492,95
+Residential,Owen-Kim,62200,96
+Residential,"Stewart Ltd",62139,97
+Residential,"Christian, Murray and Little",60580,98
+Residential,"Meza, Gibson and Adams",57146,99
+Residential,Collins-Mccoy,56935,100
+Residential,"Garcia Inc",56914,101
+Residential,Schneider-Wallace,55178,102
+Residential,"Burns, Cox and Whitehead",54189,103
+Residential,Joseph-Mills,52658,104
+Residential,"Hickman and Sons",52246,105
+Residential,"Bentley, Barnes and Martin",50381,106
+Residential,Reeves-Blair,48987,107
+Residential,"Wilson Ltd",48936,108
+Residential,"Kim, Robinson and Browning",48266,109
+Residential,Frederick-Wall,48096,110
+Residential,"Cannon Inc",47372,111
+Residential,"Martin Ltd",45158,112
+Residential,"Bradley Inc",45101,113
+Residential,Spears-Cooper,45098,114
+Residential,Young-Abbott,42562,115
+Residential,"Martinez Ltd",42466,116
+Residential,Harvey-Scott,41083,117
+Residential,Alvarez-Miller,39611,118
+Residential,"Cook and Sons",39171,119
+Residential,"Ruiz, Powell and Jenkins",37725,120
+Residential,"Perkins Group",35844,121
+Residential,"Evans LLC",34774,122
+Residential,"Wilson Group",27252,123
+Residential,"Ramirez, Lopez and Trevino",25422,124
+Residential,"Lewis, Douglas and Richard",23897,125
+Residential,"Banks, Coleman and Joyce",20671,126
+Residential,"Hull, Perez and Rasmussen",16885,127
+Residential,"Lopez Group",15784,128
+Residential,"Bush LLC",13325,129
+Residential,"Martinez, Cox and Malone",11371,130
+Residential,"Beltran PLC",4693,131
+Retail,Moore-Irwin,271183,1
+Retail,Hernandez-Ballard,222947,2
+Retail,"Clayton Inc",213478,3
+Retail,"Jones, Nelson and Jones",209302,4
+Retail,Johnson-Beltran,206729,5
+Retail,"Hendricks Group",204013,6
+Retail,Craig-Foster,182722,7
+Retail,Murray-Harris,182169,8
+Retail,"Anderson, Patel and Stewart",181871,9
+Retail,"Wheeler PLC",176010,10
+Retail,Lee-Martinez,173010,11
+Retail,"Thompson Group",171857,12
+Retail,"Velasquez PLC",165147,13
+Retail,"Rogers and Sons",162521,14
+Retail,"Mckinney LLC",160640,15
+Retail,"Salazar, Kennedy and Pierce",157586,16
+Retail,"White, Holt and Padilla",155760,17
+Retail,"Boyd Ltd",155423,18
+Retail,Mitchell-Novak,154649,19
+Retail,"Burton, Chase and Garcia",147813,20
+Retail,"Higgins Group",147346,21
+Retail,"Brewer, Henry and Ryan",145895,22
+Retail,Lopez-Rodriguez,145651,23
+Retail,"Estes and Sons",145375,24
+Retail,"Rodriguez, Gibson and Thomas",145166,25
+Retail,"Adkins and Sons",143324,26
+Retail,Marquez-Cross,142763,27
+Retail,"Lara Group",141364,28
+Retail,"Mckinney, White and Mason",139053,29
+Retail,"Walton, Freeman and Cruz",137297,30
+Retail,Sims-Arnold,137123,31
+Retail,Adams-Knight,135543,32
+Retail,"Chang, West and Fields",134942,33
+Retail,Holmes-Barrett,129557,34
+Retail,"Stewart, Howard and Bowers",127579,35
+Retail,"Underwood PLC",127345,36
+Retail,"Richmond Ltd",124649,37
+Retail,Shepherd-Lee,120544,38
+Retail,Alvarez-Wilson,119823,39
+Retail,"Jimenez, Wolfe and Mcfarland",118519,40
+Retail,"Sanchez Inc",118478,41
+Retail,Nelson-Phillips,116196,42
+Retail,"Neal PLC",116011,43
+Retail,"Eaton Ltd",112652,44
+Retail,Cline-Hill,111853,45
+Retail,Evans-Marshall,109368,46
+Retail,"Martin, Williams and Lawson",106072,47
+Retail,"Hoffman, Hensley and Martinez",104923,48
+Retail,Scott-Jensen,102585,49
+Retail,"Gilmore, Frazier and Bright",100775,50
+Retail,"Hodge, Mclaughlin and Jones",100622,51
+Retail,"Perez, Fernandez and Wong",100089,52
+Retail,Miranda-Ruiz,98974,53
+Retail,"Anderson, Anthony and Lewis",98706,54
+Retail,"Sharp, Payne and Solis",98083,55
+Retail,"Schmitt Ltd",98056,56
+Retail,"House PLC",97435,57
+Retail,"Choi Inc",95971,58
+Retail,"Clarke, Herrera and Logan",93776,59
+Retail,"Andrews, Smith and Mason",92517,60
+Retail,"Roberts, Brown and Wheeler",90349,61
+Retail,Jones-Gray,88788,62
+Retail,"Cameron, Park and Willis",84944,63
+Retail,"Andersen, Montgomery and White",84265,64
+Retail,"Norman and Sons",83384,65
+Retail,"Burns, Castro and Mora",82804,66
+Retail,"Barr and Sons",82030,67
+Retail,"Austin, Cross and Mclean",80034,68
+Retail,"Williams, Newman and Williamson",79797,69
+Retail,Price-Le,77369,70
+Retail,"Smith LLC",76399,71
+Retail,"York PLC",75142,72
+Retail,"Wood, Proctor and Johnson",71027,73
+Retail,"Richards, Rosario and Garcia",69002,74
+Retail,Robertson-Brown,66563,75
+Retail,Griffin-Velez,66495,76
+Retail,"Moore PLC",65453,77
+Retail,"Hurst Inc",65116,78
+Retail,"Douglas LLC",64104,79
+Retail,"Lee Ltd",63725,80
+Retail,"Best, Willis and Brandt",63655,81
+Retail,Phillips-Smith,63441,82
+Retail,"Townsend LLC",62685,83
+Retail,Cruz-Green,62344,84
+Retail,"Barron, Thomas and Arias",62217,85
+Retail,"Brooks, Mason and Colon",61710,86
+Retail,"Ortiz, Marshall and Phillips",59075,87
+Retail,"Cook, Mendoza and Leonard",58971,88
+Retail,Fernandez-Peterson,58377,89
+Retail,Lopez-Boyd,56660,90
+Retail,"Smith Inc",55513,91
+Retail,Jones-Villa,49554,92
+Retail,"Garcia and Sons",46946,93
+Retail,"Doyle PLC",46883,94
+Retail,"Perez, Jones and Patterson",46745,95
+Retail,Mckee-Jensen,42956,96
+Retail,"Anderson LLC",41769,97
+Retail,"Hester PLC",40073,98
+Retail,Solomon-Bailey,38499,99
+Retail,White-Flores,35871,100
+Retail,"Salazar PLC",35598,101
+Retail,"Villanueva, Miller and Lopez",34084,102
+Retail,"Bowen, Garza and Scott",30027,103
+Retail,"Guerrero PLC",24986,104
+Retail,"Jones, Barrera and Hines",24693,105
+Retail,"Mccullough, Stewart and Mora",24446,106
+Retail,"Mcdaniel, Summers and Rivera",7834,107

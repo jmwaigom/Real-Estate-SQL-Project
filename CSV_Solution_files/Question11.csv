@@ -1,0 +1,379 @@
+property_name,lease_count,lease_count_ranking
+"Rogers and Sons",14,1
+"Willis Ltd",13,2
+Kelley-Lamb,10,3
+"Martin Group",10,3
+Patton-Morrison,10,3
+"Hendricks Group",9,4
+Stevens-Smith,9,4
+"Tate Inc",9,4
+Roberts-Brooks,9,4
+"Hogan Group",9,4
+Johnson-Beltran,8,5
+"Patterson PLC",8,5
+"Lopez Inc",8,5
+Moore-Irwin,8,5
+Johnson-Reeves,8,5
+"Myers, Mckay and Noble",8,5
+Potter-Davis,8,5
+Davis-Quinn,8,5
+"Johnson, Weaver and Torres",8,5
+"Rodriguez, Gibson and Thomas",8,5
+"Mccann, West and Rodriguez",8,5
+"Thomas, Atkinson and Lopez",8,5
+"Cunningham Inc",8,5
+"Burton, Chase and Garcia",7,6
+"Salazar, Kennedy and Pierce",7,6
+Larson-Morris,7,6
+"Wheeler PLC",7,6
+"Lynn PLC",7,6
+"Jenkins, Jackson and Lopez",7,6
+Montgomery-Douglas,7,6
+"Clark LLC",7,6
+"Brennan and Sons",7,6
+"Fuller Group",7,6
+"Ortega Inc",7,6
+Murray-Harris,7,6
+Martin-Wood,7,6
+"Underwood PLC",7,6
+Lopez-Rodriguez,7,6
+"Jones Inc",7,6
+"Myers Ltd",7,6
+"Jones, Nelson and Jones",7,6
+"Yates Ltd",7,6
+"Spencer, Zamora and Horton",7,6
+Hernandez-Ballard,7,6
+Johnson-Mckinney,7,6
+"Pierce, Payne and Scott",7,6
+"Ryan, Williams and Clay",7,6
+"Anderson, Patel and Stewart",7,6
+"Ross, Jenkins and Yates",7,6
+"Clayton Inc",7,6
+Wagner-Griffin,7,6
+"Stuart Group",7,6
+"Velasquez PLC",7,6
+"Cunningham, Berry and Howard",7,6
+"Kelly Inc",7,6
+"Martinez Ltd",7,6
+"Lopez, Ingram and Hodge",7,6
+Cooper-Michael,6,7
+Campbell-Rodriguez,6,7
+Rodriguez-Gonzales,6,7
+"Ruiz, French and Hill",6,7
+"George, Callahan and Ochoa",6,7
+Marquez-Cross,6,7
+"Krause Inc",6,7
+"Anderson, Harrison and Burton",6,7
+Ramirez-Edwards,6,7
+"Lee LLC",6,7
+"Adkins LLC",6,7
+Cline-Hill,6,7
+"Thomas LLC",6,7
+"Rivas LLC",6,7
+"King, Cobb and Campbell",6,7
+"Carter Ltd",6,7
+"Smith Inc",6,7
+"Bryan, Hall and Wise",6,7
+"Robertson Ltd",6,7
+"Perez, Fernandez and Wong",6,7
+"Smith, Wise and Nelson",6,7
+Sanchez-Gibson,6,7
+"Cannon Group",6,7
+"Martinez, Small and Cunningham",6,7
+"Lewis LLC",6,7
+"Jackson, Davis and Gill",6,7
+"White, Holt and Padilla",6,7
+"Lopez, Grimes and Roberts",6,7
+"George, Reed and Frazier",6,7
+"Martinez Inc",6,7
+"Stevens PLC",6,7
+"Nguyen, Lewis and Smith",6,7
+Peters-Brown,6,7
+"Hall, Gomez and Diaz",6,7
+"Morris and Sons",6,7
+"Watson Group",6,7
+"Mann Group",6,7
+"Gonzalez Ltd",6,7
+"Ellis LLC",6,7
+Saunders-Cooper,6,7
+Hall-Burns,6,7
+"Rogers, Peters and Brewer",6,7
+"Mcpherson Group",6,7
+"Spence Inc",6,7
+"Perez Inc",6,7
+"Hill, Perkins and Fleming",6,7
+"Gomez LLC",6,7
+Craig-Foster,6,7
+Yoder-Rowe,6,7
+Sanchez-Hunter,6,7
+"Townsend LLC",6,7
+"Villarreal and Sons",6,7
+"Rodriguez Inc",6,7
+Wagner-Acevedo,6,7
+"Vasquez, Willis and Little",6,7
+"Watkins Ltd",6,7
+"Lee, Juarez and Mason",6,7
+"Cooper Group",6,7
+Gregory-Pena,6,7
+Sims-Arnold,6,7
+Williams-Stewart,6,7
+"Miller Ltd",6,7
+"Reed Ltd",6,7
+"Ramsey, Anderson and Walsh",6,7
+"Lewis Inc",5,8
+"Thomas Ltd",5,8
+Davis-Wood,5,8
+"Henderson, Townsend and Gordon",5,8
+Martin-Jones,5,8
+"Waller PLC",5,8
+"Choi Inc",5,8
+"Fletcher Ltd",5,8
+"Strong, Hale and Key",5,8
+"Carpenter, Washington and Ramirez",5,8
+Lee-Martinez,5,8
+Miller-Smith,5,8
+"Jackson Inc",5,8
+Edwards-Stewart,5,8
+"Soto, Higgins and Lopez",5,8
+"Ryan and Sons",5,8
+"Bright and Sons",5,8
+"Horn, Reed and Miller",5,8
+Holmes-Barrett,5,8
+Evans-Marshall,5,8
+"Conway Inc",5,8
+"Thompson Group",5,8
+"Ramirez, Ramirez and Jackson",5,8
+"Roman, Patterson and Barton",5,8
+Cunningham-Floyd,5,8
+"Price PLC",5,8
+"Brewer, Henry and Ryan",5,8
+"Lara Group",5,8
+"Spencer, Townsend and Woods",5,8
+"Williams, Newman and Williamson",5,8
+"Knight, Henry and Chandler",5,8
+"Walker, Marsh and Moore",5,8
+Adams-Whitehead,5,8
+Bennett-Benson,5,8
+"Howard Inc",5,8
+"Gallagher PLC",5,8
+"Gentry Inc",5,8
+"Huang, Clark and Foster",5,8
+"Estes and Sons",5,8
+"Matthews, Rogers and Tran",5,8
+Garrett-Edwards,5,8
+"Boyd Ltd",5,8
+Obrien-Wood,5,8
+"Parks, Garcia and Walker",5,8
+Rios-Sexton,5,8
+Molina-Thompson,5,8
+Baker-Sanders,5,8
+"Davies, Mccoy and Cox",5,8
+"Walker Inc",5,8
+Byrd-Rodriguez,5,8
+"Andersen, Montgomery and White",5,8
+Stewart-Rojas,5,8
+"Norton Group",5,8
+"Higgins Group",5,8
+Walters-Jones,5,8
+"Hancock, Pearson and Murphy",5,8
+Brown-Smith,5,8
+"Warren and Sons",5,8
+Mitchell-Novak,5,8
+"Frey and Sons",5,8
+Smith-Allison,5,8
+"Doyle LLC",5,8
+"Freeman Group",5,8
+Scott-Jensen,5,8
+Freeman-Martinez,5,8
+Waters-Byrd,4,9
+"Mckinney, White and Mason",4,9
+"Hoffman, Hensley and Martinez",4,9
+Robertson-Brown,4,9
+"Jimenez, Wolfe and Mcfarland",4,9
+"Mccall, Williams and Mills",4,9
+"Cox PLC",4,9
+"Ramos, Brown and Edwards",4,9
+"Barron, Thomas and Arias",4,9
+"Tapia, Harris and Mccann",4,9
+"Campos Inc",4,9
+"Perkins, Kramer and Gray",4,9
+"Robinson Ltd",4,9
+"Martin, Richardson and Johnson",4,9
+Contreras-Delgado,4,9
+"Ray, Washington and Cox",4,9
+"Evans, Hardin and Rodriguez",4,9
+Carter-Marquez,4,9
+"Herrera Group",4,9
+"Rangel and Sons",4,9
+"Snyder, Johnson and Clark",4,9
+Miranda-Ruiz,4,9
+"Elliott Group",4,9
+Adams-Knight,4,9
+"Costa LLC",4,9
+Buck-Anderson,4,9
+"Guerrero, Roberts and Taylor",4,9
+"Brandt, Cain and Simon",4,9
+"Khan, White and Wall",4,9
+"Gutierrez, Dunn and Mitchell",4,9
+"Porter LLC",4,9
+"Landry LLC",4,9
+"York PLC",4,9
+"Bryant, Douglas and Murphy",4,9
+Coleman-Hayes,4,9
+"Garcia Ltd",4,9
+Nicholson-Woodward,4,9
+"Mckinney LLC",4,9
+"Anderson, Anthony and Lewis",4,9
+"Smith LLC",4,9
+"Chang, West and Fields",4,9
+Aguilar-Thompson,4,9
+"Neal PLC",4,9
+White-Robinson,4,9
+"Norman and Sons",4,9
+"Richmond Ltd",4,9
+"Ruiz, Powell and Jenkins",4,9
+"Horton and Sons",4,9
+"Spencer and Sons",4,9
+Alvarez-Wilson,4,9
+"Orozco Ltd",4,9
+"Hernandez, Jackson and Nguyen",4,9
+Ellis-Barker,4,9
+Sanchez-Alexander,4,9
+Saunders-Le,4,9
+"Barr and Sons",4,9
+"Santiago Group",4,9
+"Eaton Ltd",4,9
+Nelson-Gonzalez,4,9
+Hernandez-Hebert,4,9
+Nelson-Phillips,4,9
+"Johnson, Graham and Wagner",4,9
+Rodriguez-Morrow,4,9
+"Petty, Smith and Smith",4,9
+"Hodge, Mclaughlin and Jones",4,9
+"Watson LLC",4,9
+"Hurst Inc",4,9
+"Mcpherson, Wilson and Miles",4,9
+"Hill, Gonzales and Hansen",4,9
+"Gallegos and Sons",4,9
+Martinez-Phillips,4,9
+Ryan-Adams,4,9
+"Martin, Williams and Lawson",4,9
+"Branch and Sons",4,9
+"Austin, Cross and Mclean",4,9
+"Vasquez, Blackwell and Pierce",4,9
+"Jackson, Mckay and Sanchez",4,9
+"Miles, Hill and Bell",4,9
+Ross-Foster,4,9
+Shepherd-Lee,4,9
+"Adkins and Sons",4,9
+"Cisneros Group",4,9
+"Rodriguez Group",4,9
+"Andrews, Smith and Mason",4,9
+"Ball and Sons",4,9
+Ford-Johnson,4,9
+"Anderson Inc",4,9
+"Jackson Group",4,9
+"Parrish Inc",4,9
+"Blevins PLC",4,9
+Spears-Price,4,9
+"Gilmore, Frazier and Bright",4,9
+"Roberts, Brown and Wheeler",4,9
+"Smith Group",4,9
+"Nelson LLC",3,10
+"Lee Ltd",3,10
+"Cannon Inc",3,10
+"Wood, Proctor and Johnson",3,10
+"Walton, Freeman and Cruz",3,10
+"Gregory, Hensley and Ross",3,10
+"Garcia Inc",3,10
+Mckee-Jensen,3,10
+"Taylor Inc",3,10
+"Rosario, Holden and Ross",3,10
+"Atkinson, Fuller and Ingram",3,10
+Hunt-Bender,3,10
+"Johnson, Powell and Walker",3,10
+"Bennett, Hess and Hernandez",3,10
+"Myers LLC",3,10
+Ramirez-Rodriguez,3,10
+"Burns, Castro and Mora",3,10
+Owen-Kim,3,10
+"Cook and Sons",3,10
+Schneider-Wallace,3,10
+"Martin PLC",3,10
+Lopez-Boyd,3,10
+Weaver-Rodriguez,3,10
+"Gilbert and Sons",3,10
+"Sharp, Payne and Solis",3,10
+Fernandez-Peterson,3,10
+"Chan, Davenport and Mccoy",3,10
+"Stewart, Howard and Bowers",3,10
+"Harrison PLC",3,10
+"Williams Group",3,10
+"Faulkner LLC",3,10
+"Oliver Ltd",3,10
+"Cameron, Park and Willis",3,10
+"Murray Group",3,10
+"Mays Ltd",3,10
+Mack-Doyle,3,10
+"Riddle LLC",3,10
+"Swanson, Benson and Campbell",3,10
+"Burns, Cox and Whitehead",3,10
+"Young, Garrison and Ward",3,10
+"Sanchez Inc",3,10
+White-Flores,3,10
+"Palmer and Sons",3,10
+"Reid Group",3,10
+"Mueller Group",3,10
+"Ramirez Inc",3,10
+"Casey and Sons",3,10
+"Hester PLC",3,10
+Jones-Atkins,3,10
+Goodwin-Bishop,3,10
+"Moore PLC",3,10
+"Carpenter, Yang and Barton",3,10
+"Herrera Ltd",3,10
+"Peters Inc",3,10
+"House PLC",3,10
+Jones-Villa,3,10
+"Mason, Roberts and Smith",3,10
+"Williams, Wilson and Ellis",3,10
+"Thompson, Silva and Odom",3,10
+Barron-Mcgee,3,10
+Mckenzie-Odonnell,3,10
+Harris-Mullins,3,10
+Garrett-Page,3,10
+"Lee, Johnson and Zimmerman",3,10
+Roman-Foster,3,10
+Patel-Waters,3,10
+"Brooks, Mason and Colon",3,10
+"Kelly and Sons",3,10
+Nielsen-Peterson,3,10
+"Anderson LLC",3,10
+"Schmitt Ltd",3,10
+"Meyer Group",3,10
+"Clarke, Herrera and Logan",3,10
+Hernandez-Sanders,3,10
+"Stewart Ltd",3,10
+Peterson-Webb,3,10
+"Gibson, Martin and Russell",3,10
+"Richards, Rosario and Garcia",3,10
+"Meza, Gibson and Adams",3,10
+"Francis, Willis and Davis",3,10
+"Christian, Murray and Little",3,10
+Reeves-Blair,3,10
+"Nguyen Ltd",3,10
+"Morris, Berger and Little",3,10
+Nixon-Osborne,3,10
+"Bradley Inc",3,10
+"Morris, Gonzalez and Diaz",3,10
+"Arnold, Lam and Case",3,10
+Turner-Carter,3,10
+Khan-Morales,3,10
+"White LLC",3,10
+"Perez, Jones and Patterson",3,10
+Phillips-Smith,3,10
+Jones-Gray,3,10
+"Harris LLC",3,10
+"Davis Ltd",3,10
+"Lloyd LLC",3,10
+"Brewer, Abbott and Bolton",3,10

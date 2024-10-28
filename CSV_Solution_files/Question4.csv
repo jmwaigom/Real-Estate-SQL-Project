@@ -1,0 +1,2001 @@
+property_name,tenant_name,rent_amount,lease_start,_3leases_rolling_average
+Adams-Knight,"Isaac Shelton",21999,2020-03-23,21999
+Adams-Knight,"Tony Lester",29128,2021-06-21,25564
+Adams-Knight,"James Rodriguez",37110,2021-12-19,29412
+Adams-Knight,"Chase Bates",47306,2023-06-03,37848
+Adams-Whitehead,"Patrick Wilson",46935,2021-05-12,46935
+Adams-Whitehead,"Tammy Sawyer",47354,2022-05-06,47145
+Adams-Whitehead,"Mr. Hector Adams",46811,2022-12-30,47033
+Adams-Whitehead,"Monica Thornton",5172,2023-10-14,33112
+Adams-Whitehead,"Russell Brown",49187,2024-04-23,33723
+"Adams, May and Oneill","Mary Rangel",40928,2021-10-03,40928
+"Adams, May and Oneill","Jennifer Guerrero",47256,2023-10-07,44092
+"Adkins and Sons","Tony Butler",29747,2020-03-26,29747
+"Adkins and Sons","Heather Meyer",38980,2022-01-17,34364
+"Adkins and Sons","Peter Horton",26346,2022-04-01,31691
+"Adkins and Sons","Cynthia Fowler",48251,2024-08-30,37859
+"Adkins LLC","Mrs. Rebecca Lee DVM",28434,2020-07-19,28434
+"Adkins LLC","Scott Coffey",27885,2020-08-13,28160
+"Adkins LLC","Jaime Pineda",30655,2020-09-15,28991
+"Adkins LLC","Stephen Anderson",26270,2021-02-03,28270
+"Adkins LLC","Jill Graves",10829,2021-07-07,22585
+"Adkins LLC","Dawn Contreras",17421,2024-02-03,18173
+Aguilar-Thompson,"Sean Hernandez",37706,2022-12-17,37706
+Aguilar-Thompson,"Michelle Price",30604,2023-02-08,34155
+Aguilar-Thompson,"Lisa Terrell",12877,2023-12-21,27062
+Aguilar-Thompson,"Daniel Richardson",18403,2024-01-20,20628
+"Alexander, Gordon and Cox","Charles Stanley",11923,2022-10-12,11923
+"Alexander, Gordon and Cox","Juan Hill",45700,2024-09-29,28812
+"Allen LLC","Terry Bradley",25730,2022-11-30,25730
+"Allen Ltd","Bruce Ellison",46601,2023-04-17,46601
+"Allen Ltd","Anthony Ruiz",32480,2024-02-01,39541
+Allen-Brown,"Margaret Shepherd",33501,2019-11-14,33501
+Allen-Brown,"Allison Cox",42046,2022-02-22,37774
+Alvarez-Miller,"Wendy Edwards",39611,2021-12-12,39611
+Alvarez-Wilson,"Jeffrey Washington",27999,2022-07-27,27999
+Alvarez-Wilson,"Steven Rodriguez",24124,2022-09-27,26062
+Alvarez-Wilson,"Teresa Spencer MD",33971,2023-12-10,28698
+Alvarez-Wilson,"Tina Peck",33729,2024-03-03,30608
+"Andersen, Montgomery and White","Derrick Walsh",6598,2019-12-26,6598
+"Andersen, Montgomery and White","Robert Schultz",5590,2021-04-12,6094
+"Andersen, Montgomery and White","Mia Sheppard",40037,2021-07-26,17408
+"Andersen, Montgomery and White","Patricia Fletcher",20028,2021-10-02,21885
+"Andersen, Montgomery and White","Susan Diaz",12012,2023-03-24,24026
+"Anderson Group","Mr. Steven Rosales MD",39078,2022-04-21,39078
+"Anderson Group","Rhonda Thomas",5685,2023-08-03,22382
+"Anderson Inc","Tiffany Wu DDS",42758,2021-01-28,42758
+"Anderson Inc","Jeffrey Robinson",2393,2022-01-26,22576
+"Anderson Inc","Regina Howard",7486,2022-04-08,17546
+"Anderson Inc","Courtney Fox",37549,2022-06-23,15809
+"Anderson LLC","Rebecca Fowler",6859,2020-04-17,6859
+"Anderson LLC","Terri Clark",25125,2022-05-29,15992
+"Anderson LLC","Adrian Young",9785,2023-07-26,13923
+"Anderson, Anthony and Lewis","Sandra Bryant",41340,2019-11-24,41340
+"Anderson, Anthony and Lewis","Maria Chapman",17465,2020-03-13,29403
+"Anderson, Anthony and Lewis","Jeffrey Hill",34332,2020-09-01,31046
+"Anderson, Anthony and Lewis","Todd Castro",5569,2021-06-18,19122
+"Anderson, Harrison and Burton","Pamela Baker",2756,2021-08-11,2756
+"Anderson, Harrison and Burton","Tyrone Cox",39568,2021-09-07,21162
+"Anderson, Harrison and Burton","Patricia Mccormick",40099,2021-10-06,27474
+"Anderson, Harrison and Burton","Jason Becker",22730,2022-12-14,34132
+"Anderson, Harrison and Burton","Jonathan Barber",23861,2023-03-07,28897
+"Anderson, Harrison and Burton","Andrew Henderson",25317,2023-06-25,23969
+"Anderson, Patel and Stewart","Michael Ellison",20930,2021-01-31,20930
+"Anderson, Patel and Stewart","Greg Crawford",11301,2021-05-20,16116
+"Anderson, Patel and Stewart","Jessica Lopez",36325,2021-12-05,22852
+"Anderson, Patel and Stewart","Laura Morris",13231,2023-04-22,20286
+"Anderson, Patel and Stewart","Maria Stewart",24278,2023-08-31,24611
+"Anderson, Patel and Stewart","Jeffery Perry",44965,2023-11-25,27491
+"Anderson, Patel and Stewart","Eric Figueroa",30841,2023-12-14,33361
+"Andrews, Smith and Mason","Brian Fernandez",40620,2020-01-05,40620
+"Andrews, Smith and Mason","Hayley Tate",5559,2021-01-13,23090
+"Andrews, Smith and Mason","Dr. Kathy Whitehead",25516,2022-05-29,23898
+"Andrews, Smith and Mason","Benjamin Mata",20822,2023-08-06,17299
+"Arnold, Lam and Case","Alex Small",20056,2019-12-17,20056
+"Arnold, Lam and Case","Nathan Hurst",12919,2021-02-10,16488
+"Arnold, Lam and Case","Tracy Hall",3451,2021-07-28,12142
+"Atkinson, Fuller and Ingram","Michelle Decker",44966,2020-03-22,44966
+"Atkinson, Fuller and Ingram","Jeffrey Gomez",29821,2024-02-12,37394
+"Atkinson, Fuller and Ingram","Travis Vargas",1654,2024-07-06,25480
+"Austin, Cross and Mclean","Mrs. Tonya Hickman DDS",37783,2020-01-16,37783
+"Austin, Cross and Mclean","Kevin Conrad",7744,2020-07-31,22764
+"Austin, Cross and Mclean","James Ramirez",3355,2023-02-10,16294
+"Austin, Cross and Mclean","Cassie Leon",31152,2023-07-23,14084
+"Austin, Miller and Thomas","Jonathan Gardner",7999,2020-04-28,7999
+"Austin, Miller and Thomas","Benjamin Williams",6897,2021-10-03,7448
+Baker-Sanders,"Jacob Pierce",25685,2019-12-29,25685
+Baker-Sanders,"Melanie Robbins",31307,2021-09-01,28496
+Baker-Sanders,"Marie Cooper",13052,2023-02-19,23348
+Baker-Sanders,"Karen Mayo",3951,2023-12-13,16103
+Baker-Sanders,"Sean Horn",16758,2024-09-02,11254
+"Ball and Sons","Stephanie Johnson",45953,2021-07-11,45953
+"Ball and Sons","Lauren Freeman",21499,2022-04-10,33726
+"Ball and Sons","Rebecca Klein",19034,2022-09-07,28829
+"Ball and Sons","Russell Hammond",11852,2024-04-19,17462
+"Banks, Coleman and Joyce","Gary Johnson",19310,2021-03-09,19310
+"Banks, Coleman and Joyce","Corey Foster",1361,2023-08-28,10336
+"Barr and Sons","April Perez",15513,2020-08-18,15513
+"Barr and Sons","Linda Johnson",25528,2021-11-16,20521
+"Barr and Sons","James Jones",31444,2021-12-07,24162
+"Barr and Sons","Heather Perez",9545,2022-12-12,22172
+Barron-Mcgee,"Cassie Perez",25397,2021-08-05,25397
+Barron-Mcgee,"Katherine Marquez",46195,2022-11-13,35796
+Barron-Mcgee,"Casey Preston",32188,2023-11-30,34593
+"Barron, Thomas and Arias","Jeffrey Gill",6795,2020-05-14,6795
+"Barron, Thomas and Arias","Erik Carey",12955,2020-10-22,9875
+"Barron, Thomas and Arias","Carlos Martin",37596,2022-03-09,19115
+"Barron, Thomas and Arias","Victoria Kaiser",4871,2023-07-26,18474
+"Beltran PLC","Ellen Ford",4693,2022-11-16,4693
+Bennett-Benson,"Cynthia Mckinney",28482,2019-11-02,28482
+Bennett-Benson,"Nicole Wallace",27875,2021-01-01,28179
+Bennett-Benson,"Kendra Patrick",43508,2022-01-18,33288
+Bennett-Benson,"Jason Mitchell",20233,2022-02-09,30539
+Bennett-Benson,"Mary Schwartz",41585,2023-08-04,35109
+"Bennett, Hess and Hernandez","John Benson",20909,2020-01-03,20909
+"Bennett, Hess and Hernandez","Matthew Barnett",15916,2021-05-18,18413
+"Bennett, Hess and Hernandez","Emily Mendez",13371,2022-06-16,16732
+"Bentley, Barnes and Martin","Diana Vargas",31910,2021-12-25,31910
+"Bentley, Barnes and Martin","Mr. Bryan Hickman DDS",18471,2023-09-05,25191
+"Best, Brown and Anderson","Sherri Lewis",28217,2019-11-11,28217
+"Best, Brown and Anderson","Daniel Pacheco",46637,2023-08-11,37427
+"Best, Willis and Brandt","Aaron Pratt",32877,2021-06-26,32877
+"Best, Willis and Brandt","Jeffrey Glenn",30778,2024-02-17,31828
+"Blevins PLC","Mary Ford",38898,2020-10-25,38898
+"Blevins PLC","Jamie Landry",4200,2021-04-21,21549
+"Blevins PLC","Sydney Harris",27982,2022-09-13,23693
+"Blevins PLC","Wesley Stewart",11552,2023-09-24,14578
+Blevins-Nguyen,"Christopher Villegas",4648,2022-12-14,4648
+"Bonilla, White and Hall","Tom Rose",36110,2020-10-23,36110
+"Bowen, Garza and Scott","Michael Howard",22501,2021-06-13,22501
+"Bowen, Garza and Scott","Donald Grimes",7526,2023-01-13,15014
+"Boyd Ltd","Nicole Frazier",32408,2020-02-21,32408
+"Boyd Ltd","Michelle Campbell",30211,2020-06-24,31310
+"Boyd Ltd","James Wood",49665,2020-07-23,37428
+"Boyd Ltd","Kim Ramirez",7444,2020-08-12,29107
+"Boyd Ltd","Lindsay Morrison",35695,2022-08-09,30935
+"Boyd, Thompson and Rodriguez","Eric Smith",15562,2021-03-14,15562
+"Boyd, Thompson and Rodriguez","Sarah Collins",38343,2021-06-08,26953
+"Bradley Inc","Taylor Garcia",29506,2020-02-28,29506
+"Bradley Inc","Jessica Mcgee",8281,2020-11-16,18894
+"Bradley Inc","Amanda Hansen",7314,2021-01-09,15034
+"Branch and Sons","Eric Alvarez",37492,2020-05-23,37492
+"Branch and Sons","Jason Andrews",13894,2022-07-05,25693
+"Branch and Sons","Kayla Horton",47601,2023-02-07,32996
+"Branch and Sons","Yolanda Kane",26448,2023-12-25,29314
+"Brandt, Cain and Simon","Katherine Young",32735,2020-11-03,32735
+"Brandt, Cain and Simon","David Goodman",46542,2021-08-25,39639
+"Brandt, Cain and Simon","Robert Rodriguez",29909,2022-08-31,36395
+"Brandt, Cain and Simon","Rachel Stein",28555,2022-11-15,35002
+"Brennan and Sons","Marie Greene",11440,2019-12-23,11440
+"Brennan and Sons","Sheri Massey",45309,2020-08-25,28375
+"Brennan and Sons","Natasha Luna",33222,2020-12-07,29990
+"Brennan and Sons","Cassandra Riley",34386,2021-09-27,37639
+"Brennan and Sons","Julia Mejia",44434,2021-10-14,37347
+"Brennan and Sons","Martha Neal",4100,2022-01-24,27640
+"Brennan and Sons","Caleb Fisher",28800,2022-02-03,25778
+"Brewer, Abbott and Bolton","Christie Peck",20377,2020-01-07,20377
+"Brewer, Abbott and Bolton","Anthony Thompson",49756,2021-12-21,35067
+"Brewer, Abbott and Bolton","Amy Ray",45832,2024-10-08,38655
+"Brewer, Henry and Ryan","Natalie Townsend",48734,2020-06-07,48734
+"Brewer, Henry and Ryan","Amber Martinez",35146,2020-06-24,41940
+"Brewer, Henry and Ryan","Andrew Christensen",12615,2022-03-02,32165
+"Brewer, Henry and Ryan","Matthew Bailey",41812,2024-03-09,29858
+"Brewer, Henry and Ryan","Patricia Mason DDS",7588,2024-09-28,20672
+"Bright and Sons","Robert Perkins",43891,2020-05-10,43891
+"Bright and Sons","Michael Mcdaniel",48025,2021-10-30,45958
+"Bright and Sons","Kayla Cooke",22885,2023-01-20,38267
+"Bright and Sons","Andrew Salinas",6441,2024-02-13,25784
+"Bright and Sons","Michael Tran",38026,2024-09-26,22451
+"Brooks, Mason and Colon","Megan Brandt",24203,2021-01-22,24203
+"Brooks, Mason and Colon","Jill Trevino",19061,2022-06-11,21632
+"Brooks, Mason and Colon","Christine Washington",18446,2024-07-20,20570
+Brown-Riley,"Katherine Torres",43078,2021-11-09,43078
+Brown-Riley,"Olivia Thornton",34148,2022-06-02,38613
+Brown-Smith,"Sarah Martin",25693,2021-04-20,25693
+Brown-Smith,"Lisa Thompson",47230,2021-05-01,36462
+Brown-Smith,"Albert Lee DVM",10318,2021-06-25,27747
+Brown-Smith,"Chelsea White",25635,2023-06-10,27728
+Brown-Smith,"Nichole James",49172,2023-07-13,28375
+"Bryan, Hall and Wise","Dr. Chloe Walters",29482,2019-11-21,29482
+"Bryan, Hall and Wise","Vanessa Scott",39567,2021-08-01,34525
+"Bryan, Hall and Wise","Diana Smith",38792,2022-02-13,35947
+"Bryan, Hall and Wise","Timothy Mcbride",29842,2022-08-06,36067
+"Bryan, Hall and Wise","Robert David",17956,2023-07-18,28863
+"Bryan, Hall and Wise","Katie Gibson",6986,2024-02-23,18261
+"Bryant, Douglas and Murphy","Emma Shannon",17081,2019-10-27,17081
+"Bryant, Douglas and Murphy","Daniel Ritter",27090,2021-04-12,22086
+"Bryant, Douglas and Murphy","Lisa Cortez",4052,2022-05-17,16074
+"Bryant, Douglas and Murphy","Mark Taylor",38893,2024-03-05,23345
+Buck-Anderson,"Casey Lawson",17071,2020-06-02,17071
+Buck-Anderson,"Teresa Bryant",31171,2021-02-26,24121
+Buck-Anderson,"Darren Martinez",22090,2021-08-22,23444
+Buck-Anderson,"Elizabeth Carroll",35640,2024-07-16,29634
+"Burns, Castro and Mora","Lauren Dean",32661,2022-06-10,32661
+"Burns, Castro and Mora","Marie Horn",17541,2023-01-27,25101
+"Burns, Castro and Mora","Michelle Riley",32602,2023-10-31,27601
+"Burns, Cox and Whitehead","Jennifer Miller",37486,2022-09-19,37486
+"Burns, Cox and Whitehead","Elaine Rodriguez",4952,2022-10-19,21219
+"Burns, Cox and Whitehead","Robert Osborne",11751,2023-02-11,18063
+"Burton, Chase and Garcia","April Blake",1673,2019-11-21,1673
+"Burton, Chase and Garcia","William Reyes",45148,2020-05-22,23411
+"Burton, Chase and Garcia","Jeremy Blevins",16910,2020-06-30,21244
+"Burton, Chase and Garcia","Donald Parker",33295,2020-07-16,31784
+"Burton, Chase and Garcia","Daniel Alexander",37421,2022-07-07,29209
+"Burton, Chase and Garcia","Morgan Villanueva",8982,2023-11-20,26566
+"Burton, Chase and Garcia","Natasha Simpson",4384,2024-01-06,16929
+"Bush LLC","Diana Potter",13325,2020-12-06,13325
+Byrd-Rodriguez,"Kimberly Kemp",47705,2020-06-02,47705
+Byrd-Rodriguez,"Richard Melton",21311,2021-08-20,34508
+Byrd-Rodriguez,"Amber Smith",29579,2021-09-13,32865
+Byrd-Rodriguez,"Mr. Kyle Brock",32218,2023-11-12,27703
+Byrd-Rodriguez,"Laura Craig",28900,2024-09-20,30232
+Cain-Alexander,"Mrs. Amy Lewis",15244,2022-09-21,15244
+Cain-Alexander,"Linda Morales",4050,2023-04-03,9647
+"Cameron, Park and Willis","Mark Taylor",15874,2020-09-09,15874
+"Cameron, Park and Willis","Carlos Smith",47361,2022-04-13,31618
+"Cameron, Park and Willis","Randall Lewis",21709,2023-09-02,28315
+"Campbell Inc","Jennifer Smith",8455,2023-05-26,8455
+"Campbell Inc","Laurie Hall",17034,2023-06-05,12745
+Campbell-Rodriguez,"Kylie Sanchez",36542,2020-08-18,36542
+Campbell-Rodriguez,"Jessica Gonzalez",17279,2021-03-08,26911
+Campbell-Rodriguez,"Monica Simpson",22614,2021-07-14,25478
+Campbell-Rodriguez,"Sean Rios",20902,2021-10-11,20265
+Campbell-Rodriguez,"Jessica Stein",11193,2022-08-16,18236
+Campbell-Rodriguez,"David Cameron",34116,2024-02-10,22070
+"Campos Inc","Ashley Powell",45966,2020-01-02,45966
+"Campos Inc","Katie Morgan",25723,2020-02-21,35845
+"Campos Inc","Gina Barnes",9504,2021-10-15,27064
+"Campos Inc","Marilyn Snyder",1911,2022-03-26,12379
+"Campos, Burgess and Webb","Kelly Eaton",25675,2020-12-15,25675
+"Campos, Burgess and Webb","Amanda Hall",38811,2022-07-25,32243
+"Cannon Group","Samantha Humphrey",42133,2019-11-29,42133
+"Cannon Group","Darrell Smith",38474,2020-02-23,40304
+"Cannon Group","Sean York",32595,2022-01-27,37734
+"Cannon Group","Jamie Miller",49943,2022-12-07,40337
+"Cannon Group","Ronald Warren II",22802,2023-04-05,35113
+"Cannon Group","Nicole Anderson",2646,2024-07-31,25130
+"Cannon Inc","Victoria Taylor",2250,2022-12-09,2250
+"Cannon Inc","Kyle Brown",22869,2023-05-20,12560
+"Cannon Inc","Sandra Thornton",22253,2024-09-19,15791
+"Carpenter, Washington and Ramirez","Carol Bruce",17552,2019-12-28,17552
+"Carpenter, Washington and Ramirez","Chris Horn",46251,2021-06-07,31902
+"Carpenter, Washington and Ramirez","Cynthia Gallegos",7703,2022-04-11,23835
+"Carpenter, Washington and Ramirez","James Hernandez",22596,2022-11-19,25517
+"Carpenter, Washington and Ramirez","Dwayne Russell",6361,2023-11-11,12220
+"Carpenter, Yang and Barton","Brian Sanders",31334,2020-07-14,31334
+"Carpenter, Yang and Barton","Roger Brown",48417,2020-12-18,39876
+"Carpenter, Yang and Barton","Cody Wilson",7658,2022-08-13,29136
+Carroll-Mason,"Melanie Reid",39397,2024-04-30,39397
+"Carter Ltd","Richard Young",13467,2019-12-10,13467
+"Carter Ltd","Shannon Russell",9027,2020-09-06,11247
+"Carter Ltd","Paige Gonzalez",31007,2021-10-01,17834
+"Carter Ltd","Brenda Vargas",40263,2021-10-14,26766
+"Carter Ltd","Kevin Ramirez",10829,2022-02-26,27366
+"Carter Ltd","Daniel Vega",2717,2024-08-14,17936
+Carter-Marquez,"Tracy Cook",43436,2022-02-06,43436
+Carter-Marquez,"Nicole Shepherd",29718,2022-04-19,36577
+Carter-Marquez,"Jason Wilson",25102,2022-05-15,32752
+Carter-Marquez,"Patrick Campbell",11739,2023-02-01,22186
+"Casey and Sons","Timothy Torres",30695,2020-09-03,30695
+"Casey and Sons","Robert Chavez",44781,2021-07-30,37738
+"Casey and Sons","Elizabeth Brady",34473,2024-03-17,36650
+"Chan, Davenport and Mccoy","Joshua Taylor",34325,2021-07-10,34325
+"Chan, Davenport and Mccoy","Jeremy Lopez",22144,2021-12-07,28235
+"Chan, Davenport and Mccoy","Marvin Jacobs",35859,2022-03-31,30776
+Chandler-Campbell,"Manuel Gonzalez",1157,2024-04-28,1157
+Chandler-Campbell,"Calvin Duran",1127,2024-09-09,1142
+Chaney-Jones,"Amber Carpenter",12117,2022-05-12,12117
+Chaney-Jones,"Paul Watts",39239,2024-07-31,25678
+"Chang, West and Fields","Andrea French",40442,2020-07-05,40442
+"Chang, West and Fields","Matthew Dickson",45899,2021-06-21,43171
+"Chang, West and Fields","Deborah Hutchinson",47295,2022-08-26,44545
+"Chang, West and Fields","Amanda Smith",1306,2023-10-20,31500
+"Chavez, Briggs and Perkins","Frank Campbell",24413,2022-07-30,24413
+"Chavez, Briggs and Perkins","Charles Hobbs",35852,2023-01-26,30133
+"Choi Inc","Seth Cook",4854,2020-03-30,4854
+"Choi Inc","Anthony Ramirez",1703,2020-07-12,3279
+"Choi Inc","Andrew Rogers",20188,2022-08-01,8915
+"Choi Inc","Tom Howard",21426,2022-12-10,14439
+"Choi Inc","Michelle Cooper",47800,2023-02-06,29805
+"Christian, Herring and Garza","Kaitlyn Thompson",11239,2021-05-27,11239
+"Christian, Murray and Little","Michael Garrison",49775,2021-01-18,49775
+"Christian, Murray and Little","Kristin Ellis",3146,2022-08-09,26461
+"Christian, Murray and Little","Angela Hernandez",7659,2022-08-29,20193
+"Cisneros Group","Amanda Rivera",22777,2019-11-30,22777
+"Cisneros Group","Robert Lewis",14725,2021-03-26,18751
+"Cisneros Group","Timothy Watkins",43554,2024-02-15,27019
+"Cisneros Group","Tammy Smith",1414,2024-06-09,19898
+"Clark LLC","Catherine Campbell",12179,2021-06-15,12179
+"Clark LLC","James Dunn",36852,2021-12-10,24516
+"Clark LLC","Allen Phillips",17747,2023-02-27,22259
+"Clark LLC","Gregory Davis",39932,2023-10-05,31510
+"Clark LLC","Erin Smith",20646,2024-03-13,26108
+"Clark LLC","Brandon Ellis MD",1987,2024-03-14,20855
+"Clark LLC","Jason Miller",7667,2024-03-28,10100
+Clark-Riggs,"Mr. Alex Sandoval",20877,2020-02-10,20877
+Clark-Riggs,"Wendy Morales",3694,2020-07-10,12286
+"Clarke, Herrera and Logan","Mark Rodriguez",42596,2020-07-24,42596
+"Clarke, Herrera and Logan","Carolyn Chandler",24015,2021-06-14,33306
+"Clarke, Herrera and Logan","Kerry Jacobs",27165,2022-01-18,31259
+"Clayton Inc","Mr. Mario Ruiz",8211,2021-05-20,8211
+"Clayton Inc","Mandy Lloyd",43275,2021-10-11,25743
+"Clayton Inc","Tyler Church",48552,2022-07-28,33346
+"Clayton Inc","Kelly Huff",49422,2023-04-13,47083
+"Clayton Inc","Jennifer Williams",40750,2023-06-30,46241
+"Clayton Inc","Jennifer Gray",12130,2023-08-26,34101
+"Clayton Inc","Karen Rice",11138,2024-04-22,21339
+Cline-Hill,"Joyce Romero",7897,2020-04-15,7897
+Cline-Hill,"Mr. Jeffrey Hartman",33110,2020-12-16,20504
+Cline-Hill,"Sarah Foster",8674,2020-12-23,16560
+Cline-Hill,"Hannah Cummings",14313,2023-04-22,18699
+Cline-Hill,"John Johnson",26045,2024-02-10,16344
+Cline-Hill,"Christopher Baker",21814,2024-07-11,20724
+Coleman-Hayes,"Rebecca Moore",19832,2021-01-21,19832
+Coleman-Hayes,"Steven Miller",36203,2021-02-23,28018
+Coleman-Hayes,"Garrett Gross",32696,2022-10-08,29577
+Coleman-Hayes,"Andrea Daniel",46409,2023-08-16,38436
+Collins-Mccoy,"Renee Price",43826,2020-05-13,43826
+Collins-Mccoy,"Charles Morris",13109,2023-10-17,28468
+Contreras-Delgado,"Sean Oliver",27361,2019-11-22,27361
+Contreras-Delgado,"Janice Jacobs",1837,2021-05-07,14599
+Contreras-Delgado,"David Hayes MD",25929,2022-10-13,18376
+Contreras-Delgado,"Justin Johnson",7365,2024-09-09,11710
+"Conway Inc","Amber Parker",11270,2020-06-14,11270
+"Conway Inc","Matthew Orozco",12711,2021-07-16,11991
+"Conway Inc","Riley Hanna",9802,2022-02-13,11261
+"Conway Inc","Jose Carr",21851,2023-01-22,14788
+"Conway Inc","Abigail Williams",6487,2023-02-23,12713
+"Cook and Sons","Hannah Keith",10032,2020-07-06,10032
+"Cook and Sons","Lynn Moore",22836,2022-07-24,16434
+"Cook and Sons","Pamela Shaffer",6303,2024-09-19,13057
+"Cook, Mendoza and Leonard","Haley Morris",18376,2021-05-26,18376
+"Cook, Mendoza and Leonard","Alexandra Morton",40595,2022-12-08,29486
+"Cooper Group","Kevin Wagner",3286,2020-09-09,3286
+"Cooper Group","Kyle Brooks",1611,2021-03-03,2449
+"Cooper Group","Maureen Brown",46488,2022-03-19,17128
+"Cooper Group","John Cisneros",13110,2022-12-25,20403
+"Cooper Group","Kathleen Willis",32034,2023-08-15,30544
+"Cooper Group","Kenneth Morrow",25231,2024-08-31,23458
+Cooper-Michael,"Julia Jenkins",18827,2020-05-29,18827
+Cooper-Michael,"Zachary Dennis",6320,2021-12-05,12574
+Cooper-Michael,"Cindy Garner",23503,2022-09-21,16217
+Cooper-Michael,"Donald Tucker",36841,2022-12-09,22221
+Cooper-Michael,"Michael Wilson",34535,2023-04-28,31626
+Cooper-Michael,"Lacey Carter",12791,2024-05-15,28056
+"Costa LLC","Kimberly Gay",22599,2020-04-22,22599
+"Costa LLC","Jasmine Scott",42439,2021-10-27,32519
+"Costa LLC","Maria Guerra",44985,2022-04-26,36674
+"Costa LLC","Valerie Walter",13791,2023-05-04,33738
+"Cox PLC","Jerry Mitchell",11998,2020-07-02,11998
+"Cox PLC","Lisa Montes",22947,2022-03-22,17473
+"Cox PLC","Scott Martin",41593,2024-01-06,25513
+"Cox PLC","Shawn Rodgers PhD",38571,2024-09-02,34370
+Cox-Hardin,"Charles Arias",22968,2021-04-21,22968
+Cox-Hardin,"Morgan Torres",13060,2023-11-18,18014
+Craig-Foster,"Taylor Obrien",42007,2020-02-17,42007
+Craig-Foster,"Kristen Mcclain",41643,2021-05-08,41825
+Craig-Foster,"Brett Garcia",2679,2021-07-15,28776
+Craig-Foster,"Mrs. Jessica Martin",16856,2021-12-10,20393
+Craig-Foster,"Felicia Martin",41758,2022-02-06,20431
+Craig-Foster,"Amanda Walker",37779,2023-04-15,32131
+Cruz-Green,"Ann Pierce",18937,2019-11-10,18937
+Cruz-Green,"Jacqueline Blackburn",43407,2024-02-05,31172
+"Cunningham Inc","Kimberly Lane",18536,2020-01-06,18536
+"Cunningham Inc","Scott Dillon",1374,2020-03-29,9955
+"Cunningham Inc","Ms. Lori Garcia DDS",18815,2023-06-07,12908
+"Cunningham Inc","Emily Hunt",14515,2023-07-08,11568
+"Cunningham Inc","Jason Green",22022,2023-08-25,18451
+"Cunningham Inc","Charles Koch",39863,2024-08-12,25467
+"Cunningham Inc","Rebecca Anderson",4775,2024-10-17,22220
+"Cunningham Inc","Valerie Wolfe",7392,2024-10-18,17343
+Cunningham-Floyd,"Joseph Peterson",41046,2020-05-04,41046
+Cunningham-Floyd,"Angela Ortiz",35332,2021-09-01,38189
+Cunningham-Floyd,"Walter Clark",19592,2022-05-15,31990
+Cunningham-Floyd,"Tiffany Beard",36695,2023-07-19,30540
+Cunningham-Floyd,"Wendy Harrington",33476,2024-04-19,29921
+"Cunningham, Berry and Howard","Arthur Miller",28387,2020-05-01,28387
+"Cunningham, Berry and Howard","Ronald Cruz",44677,2021-01-30,36532
+"Cunningham, Berry and Howard","Keith Smith",22376,2021-07-13,31813
+"Cunningham, Berry and Howard","Kristi Jones",29587,2022-08-24,32213
+"Cunningham, Berry and Howard","Robert Baker",25787,2024-02-05,25917
+"Cunningham, Berry and Howard","Jeff Beard",16453,2024-05-10,23942
+"Cunningham, Berry and Howard","Nicholas Price",46510,2024-06-21,29583
+"Davies, Mccoy and Cox","Rick Frederick",42784,2021-03-05,42784
+"Davies, Mccoy and Cox","Jonathan Wilson",16517,2021-04-20,29651
+"Davies, Mccoy and Cox","Kyle Thompson",30217,2021-08-25,29839
+"Davies, Mccoy and Cox","Laura Phillips",41612,2023-01-07,29449
+"Davies, Mccoy and Cox","Alexandra Garrison",32630,2023-11-09,34820
+"Davis Ltd","Jessica Greer DDS",25109,2020-04-08,25109
+"Davis Ltd","Barbara Bright",16496,2020-12-14,20803
+"Davis Ltd","Lisa Rivera",40890,2024-09-27,27498
+Davis-Quinn,"Thomas Shields",49974,2019-11-14,49974
+Davis-Quinn,"Timothy Morrison",5670,2020-04-22,27822
+Davis-Quinn,"Jamie Brown",7544,2020-05-26,21063
+Davis-Quinn,"Jason Cooke",10386,2020-08-23,7867
+Davis-Quinn,"Jimmy Collins",6785,2020-10-07,8238
+Davis-Quinn,"Thomas Parrish",35949,2021-12-07,17707
+Davis-Quinn,"Angela Poole",38663,2023-07-09,27132
+Davis-Quinn,"Perry Ruiz",12548,2024-08-05,29053
+Davis-Wood,"David Kane",46699,2020-03-27,46699
+Davis-Wood,"Jamie Smith",11602,2021-07-07,29151
+Davis-Wood,"Johnathan Hampton",35059,2022-03-25,31120
+Davis-Wood,"Michelle Thompson",32779,2022-09-11,26480
+Davis-Wood,"Rachel Myers",15704,2023-05-07,27847
+"Douglas LLC","Debra Ferrell DVM",28899,2024-02-26,28899
+"Douglas LLC","Vanessa Hall",35205,2024-08-08,32052
+"Doyle LLC","Melissa Ruiz",21477,2020-02-06,21477
+"Doyle LLC","Melissa Gonzalez",37391,2021-01-05,29434
+"Doyle LLC","Justin Morales",41760,2023-02-03,33543
+"Doyle LLC","Andrew Powers",17008,2023-10-09,32053
+"Doyle LLC","Thomas French",28312,2023-12-19,29027
+"Doyle PLC","Hannah Carson",27158,2023-03-19,27158
+"Doyle PLC","Jonathan Patterson",19725,2023-08-10,23442
+"Drake, Moore and Stevenson","Todd Stevenson",23115,2020-03-23,23115
+"Durham, Peterson and Rosario","Shelly Charles",46236,2024-02-07,46236
+"Durham, Peterson and Rosario","Dawn Parker",47792,2024-03-22,47014
+"Eaton Ltd","Amber Jenkins",6307,2021-06-09,6307
+"Eaton Ltd","Lisa Brown",40319,2022-04-14,23313
+"Eaton Ltd","Cindy Myers",20251,2024-01-28,22292
+"Eaton Ltd","Darryl Jarvis",45775,2024-02-15,35448
+Edwards-Miller,"Thomas Gonzalez",24836,2020-03-31,24836
+Edwards-Miller,"Kelly Roy",14234,2023-07-06,19535
+Edwards-Stewart,"Laura Mcclure",2516,2019-12-19,2516
+Edwards-Stewart,"Joseph Dominguez",10367,2020-02-18,6442
+Edwards-Stewart,"Bruce Cuevas",22147,2022-08-29,11677
+Edwards-Stewart,"Angela Garcia",15166,2023-01-01,15893
+Edwards-Stewart,"Bryan Spears DVM",12634,2024-07-30,16649
+"Elliott Group","Eric Chavez",23279,2019-11-19,23279
+"Elliott Group","Justin Wright",17276,2020-08-26,20278
+"Elliott Group","Allison Martinez",44178,2021-08-14,28244
+"Elliott Group","Jacob Vargas",4165,2024-03-02,21873
+"Ellis LLC","Robert Jones",37641,2021-06-24,37641
+"Ellis LLC","Chad Levy",35127,2021-08-21,36384
+"Ellis LLC","Robert Mayo",49506,2021-10-09,40758
+"Ellis LLC","Lee Cohen",39027,2021-12-05,41220
+"Ellis LLC","Allen Williams",24993,2024-04-22,37842
+"Ellis LLC","Andrew Sims",48845,2024-08-26,37622
+Ellis-Barker,"Michael Smith",48985,2020-10-26,48985
+Ellis-Barker,"Shane Johnson",18032,2022-09-03,33509
+Ellis-Barker,"Justin Watts",18467,2022-12-24,28495
+Ellis-Barker,"Heather Tanner",20859,2023-08-18,19119
+"Estes and Sons","Molly Reyes",4974,2020-01-15,4974
+"Estes and Sons","Sandra Smith",37913,2020-10-31,21444
+"Estes and Sons","Chelsea Mclaughlin",49042,2021-04-28,30643
+"Estes and Sons","Amanda Marshall",14231,2023-02-19,33729
+"Estes and Sons","William Maxwell",39215,2024-04-01,34163
+"Estrada PLC","Angela Hutchinson",46273,2022-08-28,46273
+"Evans LLC","Tyler Myers",16450,2020-10-23,16450
+"Evans LLC","Adam Johnson",18324,2021-01-23,17387
+Evans-Marshall,"Tracey Miller",9791,2020-03-16,9791
+Evans-Marshall,"Aaron Thornton",15972,2021-06-06,12882
+Evans-Marshall,"Kimberly Garcia",34461,2022-02-28,20075
+Evans-Marshall,"Dale Price",4400,2022-09-29,18278
+Evans-Marshall,"Maria Bailey",44744,2023-09-25,27868
+"Evans, Hardin and Rodriguez","Jason Russell",23121,2020-07-14,23121
+"Evans, Hardin and Rodriguez","Edward Johnson",42291,2020-11-27,32706
+"Evans, Hardin and Rodriguez","Jason Anderson",11094,2021-05-15,25502
+"Evans, Hardin and Rodriguez","Rebecca Campbell",47338,2021-08-19,33574
+"Farrell, Schultz and Manning","Tracy Rogers",15634,2021-06-26,15634
+"Farrell, Schultz and Manning","Sydney Hodges",11275,2024-02-26,13455
+"Faulkner LLC","Melinda Murphy",7136,2020-03-14,7136
+"Faulkner LLC","Louis Hudson II",17315,2022-02-15,12226
+"Faulkner LLC","Jason Lawson",43069,2024-06-25,22507
+Fernandez-Peterson,"Daniel Parker",10706,2020-01-18,10706
+Fernandez-Peterson,"Jocelyn Clark",33693,2022-08-15,22200
+Fernandez-Peterson,"Douglas Levine",13978,2023-03-06,19459
+"Fletcher Ltd","Mary Mcdowell",45681,2021-01-16,45681
+"Fletcher Ltd","Antonio Smith",24824,2021-12-17,35253
+"Fletcher Ltd","Christine White",27597,2022-01-22,32701
+"Fletcher Ltd","Michael Mclaughlin",9649,2023-04-17,20690
+"Fletcher Ltd","Debbie Snyder",6517,2024-07-17,14588
+"Flores Ltd","Patricia Marquez",3195,2020-05-09,3195
+Ford-Johnson,"Patrick Malone",31494,2020-01-27,31494
+Ford-Johnson,"Debra Reid",10361,2020-02-26,20928
+Ford-Johnson,"Karen Klein",25860,2022-01-17,22572
+Ford-Johnson,"Kenneth Logan",32426,2023-03-11,22882
+"Francis, Willis and Davis","Dawn Acevedo",35706,2020-06-14,35706
+"Francis, Willis and Davis","Mary Gonzalez",37512,2020-06-29,36609
+"Francis, Willis and Davis","Richard Wood",24763,2021-02-27,32660
+Frederick-Wall,"Tiffany Rivera",48096,2024-02-20,48096
+"Freeman Group","Melinda Martinez",31477,2020-01-28,31477
+"Freeman Group","Stephanie Wood",34930,2020-03-23,33204
+"Freeman Group","Cody Hudson MD",15633,2020-05-28,27347
+"Freeman Group","Kathleen Taylor",9887,2024-02-09,20150
+"Freeman Group","Kelsey Martinez",12905,2024-03-03,12808
+Freeman-Martinez,"Patrick Vaughn",14745,2020-05-18,14745
+Freeman-Martinez,"Lauren George",44018,2020-05-20,29382
+Freeman-Martinez,"Eugene Hughes",33374,2020-09-25,30712
+Freeman-Martinez,"Sara Best",28160,2020-10-20,35184
+Freeman-Martinez,"Erin Armstrong",14115,2023-09-24,25216
+"Frey and Sons","Francisco Davenport",24257,2019-11-26,24257
+"Frey and Sons","Anthony Li",32207,2020-12-01,28232
+"Frey and Sons","Karen Hensley",9401,2022-05-20,21955
+"Frey and Sons","Alexander Owens",19389,2023-04-14,20332
+"Frey and Sons","Theresa Schneider",40679,2024-09-10,23156
+"Fuller Group","Amy Smith",41787,2020-04-10,41787
+"Fuller Group","Alexandra Mcdonald",30383,2020-05-12,36085
+"Fuller Group","Jason Lynch",32018,2021-03-09,34729
+"Fuller Group","Andrew Ramos",47674,2021-05-11,36692
+"Fuller Group","Vincent Murphy",25821,2024-04-28,35171
+"Fuller Group","Brittany Frey",20907,2024-05-10,31467
+"Fuller Group","Christopher Jackson",36789,2024-05-20,27839
+"Gallagher PLC","Shannon Brown",8721,2020-04-05,8721
+"Gallagher PLC","Lauren Obrien",31779,2020-09-13,20250
+"Gallagher PLC","Luke Barnett",5754,2021-06-01,15418
+"Gallagher PLC","Tyler Morales",38810,2023-04-16,25448
+"Gallagher PLC","Susan Lee",2446,2023-07-07,15670
+"Gallegos and Sons","John King",30537,2023-01-19,30537
+"Gallegos and Sons","Raymond Huffman",45319,2023-05-26,37928
+"Gallegos and Sons","Jacqueline Robertson DDS",22947,2023-09-09,32934
+"Gallegos and Sons","Melinda Peterson",11203,2024-07-10,26490
+"Garcia and Sons","Nicholas Brown",37150,2023-05-26,37150
+"Garcia and Sons","Jennifer Fields",9796,2024-08-29,23473
+"Garcia Inc","John Goodman",46011,2020-02-21,46011
+"Garcia Inc","Brenda Rhodes",3929,2020-04-13,24970
+"Garcia Inc","Cheryl Barber",6974,2022-03-17,18971
+"Garcia Ltd","Christopher Sheppard",33460,2020-09-03,33460
+"Garcia Ltd","Melissa Manning",32598,2021-07-05,33029
+"Garcia Ltd","Nathaniel Gilmore",47793,2022-11-08,37950
+"Garcia Ltd","Mark Collins",20825,2023-11-27,33739
+Gardner-Young,"Dylan Miller",49599,2021-02-12,49599
+Gardner-Young,"Zachary Jordan",35882,2022-05-26,42741
+Garrett-Edwards,"Linda Gonzalez",41247,2019-12-18,41247
+Garrett-Edwards,"Michael Rogers",39438,2020-01-21,40343
+Garrett-Edwards,"Tracy Rivera",44246,2022-07-26,41644
+Garrett-Edwards,"Elizabeth Garcia",13175,2023-10-22,32286
+Garrett-Edwards,"David Kaufman",24720,2023-12-28,27380
+Garrett-Page,"Donna Williams",48027,2021-07-11,48027
+Garrett-Page,"Joseph Smith",28456,2022-09-24,38242
+Garrett-Page,"Samuel Hammond",27805,2023-11-09,34763
+"Gentry Inc","Gabrielle Morris",11523,2019-11-07,11523
+"Gentry Inc","Tanya Perez",25766,2021-01-29,18645
+"Gentry Inc","Bradley Hopkins",43432,2021-07-06,26907
+"Gentry Inc","Melanie Murillo",23976,2021-07-25,31058
+"Gentry Inc","Lauren Walter",15441,2023-08-02,27616
+"George, Callahan and Ochoa","Elizabeth Dunlap",24438,2019-12-18,24438
+"George, Callahan and Ochoa","Brenda Haley",27109,2020-11-23,25774
+"George, Callahan and Ochoa","Jonathan Wilson",17227,2022-01-17,22925
+"George, Callahan and Ochoa","Dr. Gregory Warner",27879,2022-06-12,24072
+"George, Callahan and Ochoa","Kevin Valdez",27563,2023-08-01,24223
+"George, Callahan and Ochoa","Stacy Harris MD",31260,2024-08-20,28901
+"George, Reed and Frazier","Jennifer Gibson",36188,2020-08-14,36188
+"George, Reed and Frazier","Ronald Becker",47520,2020-12-28,41854
+"George, Reed and Frazier","Angela Coleman",11710,2021-02-20,31806
+"George, Reed and Frazier","Jeremiah Patel",43395,2022-03-26,34208
+"George, Reed and Frazier","Makayla Blair",40547,2023-04-24,31884
+"George, Reed and Frazier","Erin Collins",4800,2023-06-16,29581
+"Gibson, Martin and Russell","James Gordon",41265,2020-04-02,41265
+"Gibson, Martin and Russell","Mary Chambers",19331,2020-04-21,30298
+"Gibson, Martin and Russell","Katrina Copeland",25728,2022-04-09,28775
+"Gilbert and Sons","Cindy Manning",35464,2022-05-12,35464
+"Gilbert and Sons","Brandy Casey",36578,2023-05-09,36021
+"Gilbert and Sons","Nicole Soto",11691,2024-07-11,27911
+"Gilmore, Frazier and Bright","Catherine Butler",19683,2020-12-05,19683
+"Gilmore, Frazier and Bright","Judy Lopez",35534,2022-05-31,27609
+"Gilmore, Frazier and Bright","Patrick Morse",39085,2022-09-29,31434
+"Gilmore, Frazier and Bright","Nathaniel Mclaughlin",6473,2022-12-28,27031
+"Gomez LLC","Jonathan Velasquez",15350,2020-05-29,15350
+"Gomez LLC","Luke Smith MD",4035,2020-10-15,9693
+"Gomez LLC","Anthony Rose",9917,2020-12-02,9767
+"Gomez LLC","Scott Garcia",20467,2022-03-03,11473
+"Gomez LLC","Sean Diaz",11620,2022-12-07,14001
+"Gomez LLC","Heather Vargas",47069,2024-03-16,26385
+"Gonzalez Ltd","Michael Villa",7175,2020-06-17,7175
+"Gonzalez Ltd","Angela Shelton",46520,2020-10-25,26848
+"Gonzalez Ltd","John Thompson",39849,2021-06-01,31181
+"Gonzalez Ltd","Isabella Brown",15519,2022-06-12,33963
+"Gonzalez Ltd","Dawn Mitchell",41813,2023-05-12,32394
+"Gonzalez Ltd","Thomas Jones",11025,2024-02-10,22786
+Goodwin-Bishop,"Richard Payne",42270,2019-11-27,42270
+Goodwin-Bishop,"Pamela Hopkins",16027,2020-01-04,29149
+Goodwin-Bishop,"Micheal Deleon",39407,2020-04-21,32568
+Gregory-Pena,"Stephanie Beard",6762,2021-02-08,6762
+Gregory-Pena,"Kirk Edwards",8869,2022-07-05,7816
+Gregory-Pena,"Amanda Moyer",31423,2022-10-15,15685
+Gregory-Pena,"William Bell",48108,2023-04-10,29467
+Gregory-Pena,"Taylor Bentley",39245,2024-06-17,39592
+Gregory-Pena,"Christopher Spencer",12775,2024-10-08,33376
+"Gregory, Hensley and Ross","William Byrd",25992,2021-04-06,25992
+"Gregory, Hensley and Ross","Joseph Cobb",34639,2022-10-10,30316
+"Gregory, Hensley and Ross","David Richards",49398,2024-07-22,36676
+Griffin-Miller,"Margaret Brooks",34160,2019-12-22,34160
+Griffin-Miller,"Stephen Robinson",44755,2023-10-09,39458
+Griffin-Velez,"Robert West",40440,2021-04-17,40440
+Griffin-Velez,"Ann Roberts",26055,2022-10-30,33248
+"Guerrero PLC","Sheila White",13324,2023-04-26,13324
+"Guerrero PLC","James Ryan",11662,2023-07-27,12493
+"Guerrero, Roberts and Taylor","Robert Anderson",40306,2019-12-29,40306
+"Guerrero, Roberts and Taylor","Robert Quinn",18322,2020-10-02,29314
+"Guerrero, Roberts and Taylor","Ronald Faulkner",35019,2020-10-02,31216
+"Guerrero, Roberts and Taylor","Michael Lee",23601,2023-11-14,25647
+"Gutierrez, Dunn and Mitchell","Mr. Michael Wade",45119,2021-03-06,45119
+"Gutierrez, Dunn and Mitchell","Patrick Maxwell",17917,2022-09-03,31518
+"Gutierrez, Dunn and Mitchell","John Reed",18440,2023-05-10,27159
+"Gutierrez, Dunn and Mitchell","Ryan Austin",9085,2024-03-11,15147
+"Hall Inc","Bryan Lucas",40069,2021-03-08,40069
+"Hall Inc","Mario Thompson",15448,2023-11-11,27759
+Hall-Burns,"Brian Smith",12113,2020-05-11,12113
+Hall-Burns,"Matthew Smith",21236,2020-05-16,16675
+Hall-Burns,"Lisa Lyons",44604,2021-07-07,25984
+Hall-Burns,"Martin Pineda",48002,2021-09-14,37947
+Hall-Burns,"Tina Williams",44839,2022-05-12,45815
+Hall-Burns,"Nicholas Douglas",19073,2024-05-02,37305
+"Hall, Gomez and Diaz","Terri Weaver",32579,2019-11-29,32579
+"Hall, Gomez and Diaz","Timothy Bentley",23038,2020-07-14,27809
+"Hall, Gomez and Diaz","Jennifer Hancock",7907,2022-03-13,21175
+"Hall, Gomez and Diaz","Tracy Adams",4835,2022-04-02,11927
+"Hall, Gomez and Diaz","Jennifer Stephens",4307,2024-01-25,5683
+"Hall, Gomez and Diaz","Elizabeth Fischer",12762,2024-06-06,7301
+"Hancock, Pearson and Murphy","Jessica Perez",26956,2021-07-16,26956
+"Hancock, Pearson and Murphy","Gabriel Mcmillan",13835,2021-08-21,20396
+"Hancock, Pearson and Murphy","Monica Campbell",43570,2023-03-01,28120
+"Hancock, Pearson and Murphy","Donna Smith",16649,2023-05-07,24685
+"Hancock, Pearson and Murphy","Olivia Jackson",31476,2024-01-15,30565
+"Harris LLC","Alexis Jackson",21978,2021-11-06,21978
+"Harris LLC","Ronald Bryant",17800,2021-12-17,19889
+"Harris LLC","James Mcclain",31000,2022-04-09,23593
+Harris-Mullins,"Daniel Carter",12770,2022-07-04,12770
+Harris-Mullins,"Ashley Mitchell",13766,2022-09-14,13268
+Harris-Mullins,"Elizabeth Harvey",45987,2022-12-24,24174
+"Harrison PLC","Russell Ponce",15864,2021-10-05,15864
+"Harrison PLC","Lauren Morrow",34981,2022-07-15,25423
+"Harrison PLC","Shawn Jones",40581,2024-07-12,30475
+Harvey-Cunningham,"William Chen",41308,2022-08-19,41308
+Harvey-Cunningham,"Mrs. Samantha Allen",45867,2024-04-23,43588
+Harvey-Scott,"Emily Elliott",41083,2020-10-22,41083
+Hawkins-Scott,"Nicole Collier",42000,2020-09-23,42000
+Hawkins-Scott,"Dr. Anthony Miller",39814,2020-12-04,40907
+"Henderson, Townsend and Gordon","Jared Webb",1693,2019-11-16,1693
+"Henderson, Townsend and Gordon","Wendy Gibbs",4678,2020-08-28,3186
+"Henderson, Townsend and Gordon","Mark Montoya",10672,2020-10-26,5681
+"Henderson, Townsend and Gordon","Mark Thomas",31750,2020-12-21,15700
+"Henderson, Townsend and Gordon","Anthony Castaneda",43341,2023-03-06,28588
+"Hendricks Group","Gabriel Anderson",14509,2020-02-24,14509
+"Hendricks Group","Shelby Wells",16128,2020-08-06,15319
+"Hendricks Group","Jodi Wilson",25119,2021-09-10,18585
+"Hendricks Group","Max Mcdonald",20614,2022-08-14,20620
+"Hendricks Group","Michael Gonzalez",23687,2023-08-05,23140
+"Hendricks Group","Nicole White",33098,2024-01-20,25800
+"Hendricks Group","Joshua Sanford",38030,2024-02-22,31605
+"Hendricks Group","Stephanie Conley",24674,2024-03-25,31934
+"Hendricks Group","Barry Sanchez",8154,2024-04-15,23619
+Hernandez-Ballard,"James Glass",26063,2020-12-01,26063
+Hernandez-Ballard,"Mark Stevens",25006,2021-09-29,25535
+Hernandez-Ballard,"Miranda Washington",47763,2021-12-15,32944
+Hernandez-Ballard,"Ryan Glover",38023,2022-07-22,36931
+Hernandez-Ballard,"John Larson",40974,2022-10-19,42253
+Hernandez-Ballard,"Sean Williams",15101,2023-04-09,31366
+Hernandez-Ballard,"Nicholas Roberts",30017,2023-11-01,28697
+Hernandez-Hebert,"Michael Medina DDS",16067,2020-04-01,16067
+Hernandez-Hebert,"Jessica Gray",46581,2022-06-21,31324
+Hernandez-Hebert,"Joseph Bell",42186,2023-09-25,34945
+Hernandez-Hebert,"Misty Simmons",41445,2024-10-18,43404
+Hernandez-Sanders,"Brianna Perez",22749,2021-03-16,22749
+Hernandez-Sanders,"Gina Cruz",22227,2021-06-26,22488
+Hernandez-Sanders,"Jeremy White",34980,2022-02-24,26652
+"Hernandez, Jackson and Nguyen","James Hamilton",18802,2020-02-14,18802
+"Hernandez, Jackson and Nguyen","Jessica Hartman",38258,2020-05-25,28530
+"Hernandez, Jackson and Nguyen","Lauren Carter",33179,2023-05-23,30080
+"Hernandez, Jackson and Nguyen","Alejandro Dean",8396,2023-10-10,26611
+"Herrera Group","Jason Potter",49747,2021-08-13,49747
+"Herrera Group","Julie Brown",46099,2023-12-19,47923
+"Herrera Group","Mr. Keith Pittman",40807,2024-03-09,45551
+"Herrera Group","Megan Baker",23957,2024-05-20,36954
+"Herrera Ltd","Ryan Kelly",18450,2021-12-05,18450
+"Herrera Ltd","Ann Zamora",22452,2024-01-26,20451
+"Herrera Ltd","Jaime Brown",46264,2024-10-09,29055
+"Herrera PLC","Kevin Mitchell",6263,2019-11-07,6263
+"Herrera PLC","David Hernandez",45234,2024-10-21,25749
+"Hester PLC","Kristina Fisher",5544,2020-03-21,5544
+"Hester PLC","Cassandra Mccarthy",32812,2022-11-15,19178
+"Hester PLC","Eric Garrett",1717,2023-05-30,13358
+"Hickman and Sons","Colin Yang",23313,2023-03-08,23313
+"Hickman and Sons","Oscar Fox",28933,2023-07-29,26123
+"Higgins Group","Amanda Clay",24662,2020-10-17,24662
+"Higgins Group","Kelsey Wright",17982,2021-06-19,21322
+"Higgins Group","Brenda Vang",9894,2022-03-29,17513
+"Higgins Group","Matthew Wallace",47113,2023-11-03,24996
+"Higgins Group","Angela Sanchez",47695,2024-02-10,34901
+"Hill, Gonzales and Hansen","Patricia Cook",33973,2020-12-07,33973
+"Hill, Gonzales and Hansen","Alicia Washington",37182,2022-12-04,35578
+"Hill, Gonzales and Hansen","Deanna Dunn",48860,2023-06-10,40005
+"Hill, Gonzales and Hansen","Samantha Roberson",1412,2023-11-09,29151
+"Hill, Perkins and Fleming","Aaron Skinner",31755,2020-01-16,31755
+"Hill, Perkins and Fleming","Rhonda Bailey",39080,2020-02-28,35418
+"Hill, Perkins and Fleming","Kelsey Townsend",18493,2020-10-22,29776
+"Hill, Perkins and Fleming","Nicholas Walsh",33687,2021-03-09,30420
+"Hill, Perkins and Fleming","Sara Grant",45384,2024-08-19,32521
+"Hill, Perkins and Fleming","Michael Rodriguez",4737,2024-08-30,27936
+"Hodge, Mclaughlin and Jones","Timothy Snow",31151,2020-02-04,31151
+"Hodge, Mclaughlin and Jones","John Hawkins",40345,2020-04-04,35748
+"Hodge, Mclaughlin and Jones","Reginald James",6549,2023-08-28,26015
+"Hodge, Mclaughlin and Jones","Manuel Leblanc",22577,2023-12-07,23157
+"Hoffman, Hensley and Martinez","Robert Doyle",30590,2020-06-13,30590
+"Hoffman, Hensley and Martinez","Roy Johnston MD",44191,2021-05-18,37391
+"Hoffman, Hensley and Martinez","Joshua Nelson",19521,2022-03-02,31434
+"Hoffman, Hensley and Martinez","Emily Scott",10621,2024-09-15,24778
+"Hogan Group","Benjamin Jordan",42354,2019-12-05,42354
+"Hogan Group","Eric Ortega",2682,2022-01-18,22518
+"Hogan Group","Brandon Sullivan",43093,2022-02-11,29376
+"Hogan Group","Sharon Mckay",9422,2023-03-11,18399
+"Hogan Group","Michael Moore",14582,2023-03-16,22366
+"Hogan Group","Lindsey White",37099,2023-07-22,20368
+"Hogan Group","Kelly Sutton",23310,2024-02-10,24997
+"Hogan Group","Faith Martinez",15373,2024-02-27,25261
+"Hogan Group","Michael Harper",47476,2024-08-06,28720
+Holmes-Barrett,"Diane Edwards",40347,2019-12-18,40347
+Holmes-Barrett,"Joyce Walker",37818,2020-02-25,39083
+Holmes-Barrett,"Michael Houston",36927,2020-12-17,38364
+Holmes-Barrett,"Edward Williams",2701,2021-02-03,25815
+Holmes-Barrett,"Matthew Scott",11764,2022-08-04,17131
+"Horn, Reed and Miller","Regina Rodriguez",4185,2020-07-13,4185
+"Horn, Reed and Miller","Rebecca Brown",15067,2021-09-19,9626
+"Horn, Reed and Miller","Brianna White",40851,2021-11-05,20034
+"Horn, Reed and Miller","David Mendoza",2761,2022-06-02,19560
+"Horn, Reed and Miller","Anthony Rodriguez",26741,2023-07-04,23451
+"Horton and Sons","Jasmine Taylor",25805,2020-08-30,25805
+"Horton and Sons","Tara Bush",34718,2022-08-26,30262
+"Horton and Sons","John Davis",24932,2023-02-09,28485
+"Horton and Sons","Jeffrey Zimmerman",43357,2024-09-11,34336
+"House PLC","Melinda Harris",27935,2020-08-23,27935
+"House PLC","Sheryl Johnson",35122,2021-04-18,31529
+"House PLC","Todd Morgan",34378,2023-04-12,32478
+"Howard Inc","Joseph Pope",7731,2020-09-11,7731
+"Howard Inc","Nancy Smith",20250,2020-10-27,13991
+"Howard Inc","Katherine Jimenez",14963,2021-08-21,14315
+"Howard Inc","Jessica King",39034,2022-05-15,24749
+"Howard Inc","Chelsea Scott",5823,2022-09-07,19940
+"Huang, Clark and Foster","Kenneth Spencer",30168,2020-08-13,30168
+"Huang, Clark and Foster","Christopher Padilla",7312,2020-09-24,18740
+"Huang, Clark and Foster","Eric Franklin",9780,2022-03-10,15753
+"Huang, Clark and Foster","Shelby Martinez",2671,2023-07-07,6588
+"Huang, Clark and Foster","Victoria Gallagher",21804,2024-02-27,11418
+Huber-Johnson,"Calvin Gordon",42290,2022-09-19,42290
+Huber-Johnson,"Amanda Barber",36307,2024-08-04,39299
+"Hull, Perez and Rasmussen","Amber Snyder",16885,2022-03-15,16885
+Hunt-Bender,"Terry Hill",23062,2020-10-25,23062
+Hunt-Bender,"Valerie Price",9098,2021-12-15,16080
+Hunt-Bender,"Stephanie Meyer",33784,2023-02-01,21981
+"Hurst Inc","Susan Wise",26614,2021-01-15,26614
+"Hurst Inc","Hannah Cain",6457,2021-03-19,16536
+"Hurst Inc","Jason Richards",3749,2022-10-01,12273
+"Hurst Inc","Melanie Weaver",28296,2023-10-08,12834
+Ibarra-Booker,"Emma Garcia",33485,2022-11-15,33485
+"Jackson Group","Jaime Baker",6625,2021-09-29,6625
+"Jackson Group","Kayla Franklin",42073,2023-04-15,24349
+"Jackson Group","Shawn Villa",14158,2023-08-01,20952
+"Jackson Group","Mrs. Kelly Hill",42735,2024-02-24,32989
+"Jackson Inc","Michael Phillips",26063,2020-11-26,26063
+"Jackson Inc","Taylor Martin",31459,2021-04-01,28761
+"Jackson Inc","Christine Wilson",12748,2021-08-12,23423
+"Jackson Inc","Leslie Neal",14391,2022-08-29,19533
+"Jackson Inc","Amanda Mitchell",21879,2023-02-11,16339
+"Jackson, Davis and Gill","Carl Johnson",19936,2020-10-14,19936
+"Jackson, Davis and Gill","Jessica Johns",33477,2021-01-14,26707
+"Jackson, Davis and Gill","Alice Thomas",46679,2021-06-19,33364
+"Jackson, Davis and Gill","Aaron Martin",24860,2022-08-25,35005
+"Jackson, Davis and Gill","Thomas Adams",4935,2022-08-30,25491
+"Jackson, Davis and Gill","William Ramirez",4540,2024-06-21,11445
+"Jackson, Mckay and Sanchez","Garrett Barber",4956,2020-07-08,4956
+"Jackson, Mckay and Sanchez","Robert Ramirez",14180,2020-07-26,9568
+"Jackson, Mckay and Sanchez","George Bell",34559,2021-03-15,17898
+"Jackson, Mckay and Sanchez","Matthew Pope",9805,2024-01-16,19515
+"Jenkins, Jackson and Lopez","Jessica Robbins",8268,2020-04-11,8268
+"Jenkins, Jackson and Lopez","Alicia Thompson",43375,2021-08-01,25822
+"Jenkins, Jackson and Lopez","Anthony Lin",46984,2022-08-01,32876
+"Jenkins, Jackson and Lopez","Anthony Bolton",24199,2022-12-13,38186
+"Jenkins, Jackson and Lopez","William Adams DDS",22470,2023-01-29,31218
+"Jenkins, Jackson and Lopez","Tanner Bell",23652,2024-07-26,23440
+"Jenkins, Jackson and Lopez","Emma Martin",32419,2024-09-03,26180
+"Jimenez, Wolfe and Mcfarland","David Dalton",20673,2020-09-05,20673
+"Jimenez, Wolfe and Mcfarland","Kyle Trevino",35993,2021-09-09,28333
+"Jimenez, Wolfe and Mcfarland","Kevin Pugh",28298,2023-03-04,28321
+"Jimenez, Wolfe and Mcfarland","Lawrence Alvarado",33555,2023-10-26,32615
+"Johnson and Sons","David Norris",43577,2021-12-08,43577
+"Johnson and Sons","Jonathan Fowler",41170,2023-06-27,42374
+Johnson-Beltran,"Brooke Graham",17419,2021-07-30,17419
+Johnson-Beltran,"Tyler Ali",20778,2021-11-24,19099
+Johnson-Beltran,"Jeffrey Chapman",36907,2022-01-09,25035
+Johnson-Beltran,"John Brooks",31971,2022-08-16,29885
+Johnson-Beltran,"Katherine Simmons",42883,2023-03-01,37254
+Johnson-Beltran,"Jennifer Anthony",22668,2023-04-20,32507
+Johnson-Beltran,"Christopher Kelley",13725,2023-11-18,26425
+Johnson-Beltran,"Maria Roman",20378,2024-06-20,18924
+Johnson-Mckinney,"David Berry",13834,2020-02-13,13834
+Johnson-Mckinney,"Linda Washington",18758,2021-04-27,16296
+Johnson-Mckinney,"John Stanley",34988,2021-05-25,22527
+Johnson-Mckinney,"Lisa Adams",18156,2022-02-22,23967
+Johnson-Mckinney,"Scott Chan",28047,2023-01-11,27064
+Johnson-Mckinney,"Ashley Jackson",22670,2023-09-29,22958
+Johnson-Mckinney,"Rhonda Grant",1367,2024-02-27,17361
+Johnson-Reeves,"Margaret Alexander",45626,2019-10-30,45626
+Johnson-Reeves,"Amy Sanders",23031,2019-12-13,34329
+Johnson-Reeves,"Angela Peters",42548,2020-01-30,37068
+Johnson-Reeves,"Anthony Herrera",10093,2021-07-12,25224
+Johnson-Reeves,"Claudia Watson",30900,2021-12-20,27847
+Johnson-Reeves,"Daniel Nichols",40248,2023-08-16,27080
+Johnson-Reeves,"Samuel Reyes",10597,2023-11-30,27248
+Johnson-Reeves,"Jeffrey Gibson",19976,2024-08-03,23607
+"Johnson, Graham and Wagner","William Fry",14142,2021-02-13,14142
+"Johnson, Graham and Wagner","Toni Becker",31919,2021-03-13,23031
+"Johnson, Graham and Wagner","Terrance Anderson",25329,2022-03-23,23797
+"Johnson, Graham and Wagner","Maxwell Parker",17613,2022-12-14,24954
+"Johnson, Harrison and Mcgee","Jacqueline Wilcox",21488,2021-08-26,21488
+"Johnson, Harrison and Mcgee","William Montoya",22610,2024-02-15,22049
+"Johnson, Powell and Walker","Ashley Sanchez",27022,2020-05-19,27022
+"Johnson, Powell and Walker","John Conrad",47124,2020-06-15,37073
+"Johnson, Powell and Walker","Anna Mann",16653,2021-05-04,30266
+"Johnson, Weaver and Torres","Andrew Charles",30811,2020-06-19,30811
+"Johnson, Weaver and Torres","Miss Amanda Parker MD",49590,2021-04-13,40201
+"Johnson, Weaver and Torres","Ronald Pacheco",41244,2021-06-10,40548
+"Johnson, Weaver and Torres","Stephanie Adkins",11760,2022-07-18,34198
+"Johnson, Weaver and Torres","Gerald Fischer",3758,2022-08-14,18921
+"Johnson, Weaver and Torres","Susan Zuniga",3281,2023-02-19,6266
+"Johnson, Weaver and Torres","Mrs. Kelly Frey",17733,2023-06-19,8257
+"Johnson, Weaver and Torres","Eric Stone",6652,2024-04-07,9222
+"Jones Inc","Robert Jimenez",49977,2020-01-09,49977
+"Jones Inc","Ashley Robinson",40555,2020-05-29,45266
+"Jones Inc","James Flores",7530,2022-03-17,32687
+"Jones Inc","Matthew Baker",38552,2023-04-20,28879
+"Jones Inc","Sharon Thomas",5993,2024-01-09,17358
+"Jones Inc","Courtney Roberts",3097,2024-01-13,15881
+"Jones Inc","Joseph Rodriguez",23680,2024-08-01,10923
+Jones-Atkins,"Christopher Wilson",37970,2019-11-27,37970
+Jones-Atkins,"Mark Harmon",20407,2020-06-28,29189
+Jones-Atkins,"Stephanie Daniels",28108,2023-11-07,28828
+Jones-Gray,"Antonio Torres",32477,2023-08-21,32477
+Jones-Gray,"Brian Schmidt",13956,2023-08-23,23217
+Jones-Gray,"Gabriel Douglas",42355,2024-10-17,29596
+Jones-Villa,"Kyle Hale",29958,2022-06-06,29958
+Jones-Villa,"Andrea Russell",4696,2023-01-03,17327
+Jones-Villa,"Morgan Kelley",14900,2023-09-07,16518
+"Jones, Barrera and Hines","Jennifer Wilson",24693,2020-02-06,24693
+"Jones, Nelson and Jones","Jason Turner",28878,2020-08-16,28878
+"Jones, Nelson and Jones","Angela Velazquez",48646,2020-10-09,38762
+"Jones, Nelson and Jones","Edward Cervantes",19627,2021-09-12,32384
+"Jones, Nelson and Jones","Jonathan Gallegos",37966,2021-12-11,35413
+"Jones, Nelson and Jones","Rhonda Ruiz",27082,2023-08-22,28225
+"Jones, Nelson and Jones","Michael Russell",17365,2023-10-07,27471
+"Jones, Nelson and Jones","Sara Meyers",29738,2024-09-18,24728
+"Jordan Ltd","Melissa Smith",15749,2024-08-31,15749
+Joseph-Mills,"Edward Wilson",46397,2023-07-15,46397
+Joseph-Mills,"Angela Novak",6261,2023-07-26,26329
+Kelley-Lamb,"Carlos Roberts II",27253,2020-08-01,27253
+Kelley-Lamb,"Monica Lynch",14203,2020-08-15,20728
+Kelley-Lamb,"Jesse Robinson",24953,2020-08-20,22136
+Kelley-Lamb,"Mrs. Pam Ramirez",5267,2021-05-23,14808
+Kelley-Lamb,"Deborah Ibarra",15549,2021-10-15,15256
+Kelley-Lamb,"Nicholas Perez",40499,2022-04-01,20438
+Kelley-Lamb,"Cheryl Thomas",35431,2022-08-12,30493
+Kelley-Lamb,"Kristine Roach",7027,2023-04-25,27652
+Kelley-Lamb,"Deanna Johnson",6077,2023-07-24,16178
+Kelley-Lamb,"Kathy Mendoza",29410,2023-10-15,14171
+"Kelly and Sons","Justin Wilson",40599,2020-06-26,40599
+"Kelly and Sons","Patricia Smith",22527,2023-11-22,31563
+"Kelly and Sons","Mark Wagner",43382,2024-10-21,35503
+"Kelly Inc","Richard Ward",11553,2020-11-27,11553
+"Kelly Inc","Emily Carlson",35570,2022-01-24,23562
+"Kelly Inc","Ms. Maria Austin",40444,2022-03-30,29189
+"Kelly Inc","Jennifer Rodriguez",47671,2023-06-16,41228
+"Kelly Inc","Deanna Collins",9103,2023-12-26,32406
+"Kelly Inc","Lisa Wagner",48086,2024-05-27,34953
+"Kelly Inc","Amy Barnes",49386,2024-07-10,35525
+Khan-Morales,"Jeffrey Sims",21047,2020-02-23,21047
+Khan-Morales,"Christopher Stone",43107,2022-12-22,32077
+Khan-Morales,"Karen Oconnor",26370,2023-11-20,30175
+"Khan, White and Wall","Aaron Barrett",39946,2022-01-17,39946
+"Khan, White and Wall","Curtis Swanson",8913,2022-03-16,24430
+"Khan, White and Wall","Stephanie Green",19625,2022-09-30,22828
+"Khan, White and Wall","Cheryl Cunningham",17349,2024-07-20,15296
+"Kim, Robinson and Browning","Kaitlin Stewart",43984,2020-10-23,43984
+"Kim, Robinson and Browning","Danielle Cochran",4282,2023-10-11,24133
+"King PLC","John Henry",5441,2020-07-31,5441
+"King, Cobb and Campbell","Alejandro Morton",27332,2020-11-17,27332
+"King, Cobb and Campbell","Joshua Silva",24845,2021-02-11,26089
+"King, Cobb and Campbell","Shelby Smith",34951,2022-10-21,29043
+"King, Cobb and Campbell","Andrew Jones Jr.",34608,2023-04-11,31468
+"King, Cobb and Campbell","Sherri Santiago",32978,2023-09-02,34179
+"King, Cobb and Campbell","Larry Allen",48960,2024-07-18,38849
+"Knight, Henry and Chandler","Deanna Johnson",8071,2020-03-19,8071
+"Knight, Henry and Chandler","Roberta Kerr",13302,2023-04-18,10687
+"Knight, Henry and Chandler","Patty Anderson",37019,2023-04-28,19464
+"Knight, Henry and Chandler","Daniel Dominguez",3743,2023-09-23,18021
+"Knight, Henry and Chandler","Erin Flores",33319,2024-07-07,24694
+"Krause Inc","Timothy Henderson",38782,2021-10-25,38782
+"Krause Inc","Stephen Hamilton",22221,2021-11-19,30502
+"Krause Inc","Kirsten Smith",21008,2023-07-25,27337
+"Krause Inc","Denise Alvarez",26158,2023-11-01,23129
+"Krause Inc","Michael Miller",11955,2024-03-15,19707
+"Krause Inc","Tiffany Ellis",9967,2024-06-08,16027
+"Landry LLC","Scott Woods",6793,2020-10-29,6793
+"Landry LLC","Melissa Lee",14008,2021-06-21,10401
+"Landry LLC","Dana Johnson",2553,2021-07-18,7785
+"Landry LLC","Stephanie Jacobson MD",23578,2021-11-09,13380
+"Lara Group","Michelle Ford",38615,2021-02-07,38615
+"Lara Group","Michelle Pitts",28814,2021-05-28,33715
+"Lara Group","Patricia Wells",35222,2021-08-02,34217
+"Lara Group","Jo Scott",12327,2022-05-07,25454
+"Lara Group","Brian Thomas",26386,2023-04-24,24645
+Larson-Morris,"Donald King",37904,2021-05-06,37904
+Larson-Morris,"Matthew Allen",5127,2021-07-10,21516
+Larson-Morris,"Jeffrey Rivera",49868,2022-10-03,30966
+Larson-Morris,"David Anderson",40055,2023-07-07,31683
+Larson-Morris,"Dwayne Thompson",43260,2023-11-15,44394
+Larson-Morris,"Sharon Mahoney",38763,2024-03-16,40693
+Larson-Morris,"Daniel Mccormick",38553,2024-05-22,40192
+"Lee LLC","Mark Villarreal",32043,2021-01-26,32043
+"Lee LLC","Heather Day",9734,2021-10-17,20889
+"Lee LLC","Chelsea Strickland",4938,2021-12-24,15572
+"Lee LLC","Jessica Smith",18435,2022-06-13,11036
+"Lee LLC","Margaret Evans",38539,2022-07-14,20637
+"Lee LLC","Edward Shaw",40008,2023-04-15,32327
+"Lee Ltd","Audrey Miranda",19397,2023-08-09,19397
+"Lee Ltd","Robert Carr",29194,2023-12-25,24296
+"Lee Ltd","Danny Wright",15134,2024-02-07,21242
+Lee-Martinez,"Rebekah Maynard",41873,2020-05-16,41873
+Lee-Martinez,"Amber Jones",45020,2020-10-03,43447
+Lee-Martinez,"Laura Frye",28442,2020-10-08,38445
+Lee-Martinez,"Charles Cherry",20717,2021-04-12,31393
+Lee-Martinez,"Donna Peterson",36958,2024-01-29,28706
+"Lee, Johnson and Zimmerman","Mathew Joseph",48323,2020-07-25,48323
+"Lee, Johnson and Zimmerman","Wanda Conway",49187,2022-08-20,48755
+"Lee, Johnson and Zimmerman","Nicole Mullins",20747,2022-08-31,39419
+"Lee, Juarez and Mason","Karen Boyd",36306,2020-03-01,36306
+"Lee, Juarez and Mason","Anthony Glover",46547,2021-01-31,41427
+"Lee, Juarez and Mason","Michael Meza",48244,2021-02-15,43699
+"Lee, Juarez and Mason","Margaret Shelton",21951,2021-03-06,38914
+"Lee, Juarez and Mason","Austin Moreno",6611,2021-11-15,25602
+"Lee, Juarez and Mason","James Wilson",14725,2024-09-03,14429
+"Lewis Group","Jordan Brown",8111,2020-06-14,8111
+"Lewis Group","Timothy Gaines",33415,2023-11-13,20763
+"Lewis Inc","Brandon Krause",7672,2020-06-02,7672
+"Lewis Inc","Jacqueline Fletcher",38935,2022-04-10,23304
+"Lewis Inc","Robert Richard",18465,2023-03-28,21691
+"Lewis Inc","Brian Jones",13414,2023-11-19,23605
+"Lewis Inc","Ana Owens",27339,2024-04-13,19739
+"Lewis LLC","Benjamin Pierce",9946,2021-01-01,9946
+"Lewis LLC","Sara Fisher",16103,2021-03-28,13025
+"Lewis LLC","Timothy Harris",45774,2021-09-12,23941
+"Lewis LLC","Kayla Edwards",14130,2022-01-01,25336
+"Lewis LLC","Catherine Monroe",49074,2023-07-17,36326
+"Lewis LLC","Megan Walker",25002,2023-11-22,29402
+"Lewis, Douglas and Richard","Rebecca Martinez",23897,2020-08-03,23897
+"Lloyd LLC","John Michael",4466,2020-09-22,4466
+"Lloyd LLC","Jessica Garcia",32706,2022-01-22,18586
+"Lloyd LLC","Nicholas Kerr",8790,2023-05-01,15321
+"Lopez Group","Craig Zimmerman",15784,2021-02-16,15784
+"Lopez Inc","Gabriel Moran",43443,2020-12-19,43443
+"Lopez Inc","Howard Bush",46166,2021-05-03,44805
+"Lopez Inc","Joshua Krause",7194,2021-12-07,32268
+"Lopez Inc","Kathleen Keith",12251,2022-11-17,21870
+"Lopez Inc","Timothy Clark",19489,2023-03-07,12978
+"Lopez Inc","Bruce Morris",29759,2023-11-11,20500
+"Lopez Inc","Dr. David Thompson",17422,2024-02-17,22223
+"Lopez Inc","Gary Rodriguez",5988,2024-03-08,17723
+Lopez-Boyd,"Kristy White",24686,2019-12-04,24686
+Lopez-Boyd,"Monica Ramsey",3459,2023-04-27,14073
+Lopez-Boyd,"Andrew Flores",28515,2024-03-25,18887
+Lopez-Rodriguez,"Shelby York",24334,2020-02-06,24334
+Lopez-Rodriguez,"Cynthia Obrien",25403,2020-03-13,24869
+Lopez-Rodriguez,"Sue Taylor",25916,2020-12-24,25218
+Lopez-Rodriguez,"Teresa Pearson",4736,2021-02-26,18685
+Lopez-Rodriguez,"Lisa Schmidt",20173,2023-03-11,16942
+Lopez-Rodriguez,"Troy Quinn",15642,2023-04-16,13517
+Lopez-Rodriguez,"Christian Levine",29447,2024-10-08,21754
+"Lopez, Grimes and Roberts","Katelyn Lamb",19980,2021-02-04,19980
+"Lopez, Grimes and Roberts","John Brock",29616,2022-04-10,24798
+"Lopez, Grimes and Roberts","Allen Wood",19501,2023-02-15,23032
+"Lopez, Grimes and Roberts","Mark Smith",48428,2023-05-27,32515
+"Lopez, Grimes and Roberts","Katie Mccoy",27019,2023-08-05,31649
+"Lopez, Grimes and Roberts","Samantha Wong",33412,2023-12-20,36286
+"Lopez, Ingram and Hodge","Cristian Kirk",48932,2019-10-26,48932
+"Lopez, Ingram and Hodge","Mary Allen",41932,2020-01-21,45432
+"Lopez, Ingram and Hodge","Julie Willis",38037,2020-12-03,42967
+"Lopez, Ingram and Hodge","Rachael Bush",36823,2021-03-04,38931
+"Lopez, Ingram and Hodge","Rhonda Guerra",26638,2022-04-07,33833
+"Lopez, Ingram and Hodge","Michael Sweeney",31404,2023-03-16,31622
+"Lopez, Ingram and Hodge","Sabrina Peterson",3216,2023-06-12,20419
+"Lynn PLC","Kenneth Snyder",41407,2021-03-04,41407
+"Lynn PLC","Cameron Hudson",31759,2021-09-03,36583
+"Lynn PLC","Daniel Manning",38158,2022-06-02,37108
+"Lynn PLC","Karen Daniels",29106,2022-11-14,33008
+"Lynn PLC","Vanessa Gardner",39838,2023-03-08,35701
+"Lynn PLC","Michael Martin",26103,2023-09-06,31682
+"Lynn PLC","Jane Reynolds",39323,2024-09-12,35088
+Mack-Doyle,"Kevin Baldwin",27640,2021-06-29,27640
+Mack-Doyle,"Michael Dunn",3123,2021-09-24,15382
+Mack-Doyle,"Andrew Olsen",14918,2024-09-22,15227
+"Mann Group","Heather Williams",20871,2019-11-21,20871
+"Mann Group","Heather Meyer",48228,2020-11-05,34550
+"Mann Group","Kevin James",7284,2021-04-02,25461
+"Mann Group","Michael Dixon",4169,2021-06-07,19894
+"Mann Group","Shelby Haynes",42831,2022-05-14,18095
+"Mann Group","Amy Williams",35429,2022-09-07,27476
+Marquez-Cross,"Paul Phillips",18302,2022-03-19,18302
+Marquez-Cross,"Jeffrey Lee",24020,2022-04-16,21161
+Marquez-Cross,"Greg Mitchell",40801,2022-11-08,27708
+Marquez-Cross,"William Drake",9016,2023-01-20,24612
+Marquez-Cross,"Alexandria Chen",44384,2023-01-29,31400
+Marquez-Cross,"Yvette Lee",6240,2024-01-25,19880
+"Martin Group","Brian Campbell",13907,2020-02-07,13907
+"Martin Group","Rebekah Alvarez",10146,2020-11-02,12027
+"Martin Group","Michael Singh",36502,2021-04-06,20185
+"Martin Group","Timothy Wells",49408,2021-12-23,32019
+"Martin Group","Michael Sanders",25819,2022-02-08,37243
+"Martin Group","Jennifer Contreras",15295,2022-03-30,30174
+"Martin Group","Paul Duran",33781,2022-07-25,24965
+"Martin Group","Erika Rodriguez",32003,2022-11-24,27026
+"Martin Group","Darren Flores",32961,2023-05-03,32915
+"Martin Group","Tyler Jackson",27931,2024-01-11,30965
+"Martin Ltd","Beth Braun",32375,2020-03-05,32375
+"Martin Ltd","Cindy David",12783,2024-09-14,22579
+"Martin PLC","Dr. Megan Gonzalez DDS",11539,2021-12-11,11539
+"Martin PLC","Mark Harrison",18554,2023-02-09,15047
+"Martin PLC","Nicholas Pena",19182,2023-03-28,16425
+Martin-Jones,"Kelly Williamson",14083,2021-08-03,14083
+Martin-Jones,"Stephanie Lopez",40525,2023-06-27,27304
+Martin-Jones,"John Saunders",17557,2024-02-24,24055
+Martin-Jones,"Sydney Sutton",43043,2024-03-25,33708
+Martin-Jones,"Nicole Arias",43498,2024-10-25,34699
+Martin-Wood,"Lisa Parker",25516,2022-03-28,25516
+Martin-Wood,"Christopher Lowe",49328,2023-03-23,37422
+Martin-Wood,"Daniel Dickerson",16018,2023-03-27,30287
+Martin-Wood,"Thomas Bates",17261,2023-03-29,27536
+Martin-Wood,"Sharon Patterson",31258,2023-05-10,21512
+Martin-Wood,"Kirsten Jimenez",43191,2023-09-10,30570
+Martin-Wood,"Lisa Burns",32430,2023-10-11,35626
+"Martin, Richardson and Johnson","Patrick Shaw MD",48422,2021-08-02,48422
+"Martin, Richardson and Johnson","Casey Dudley",30326,2022-08-29,39374
+"Martin, Richardson and Johnson","Karen Palmer",3693,2022-11-02,27480
+"Martin, Richardson and Johnson","Dorothy Patterson MD",37773,2023-06-29,23931
+"Martin, Williams and Lawson","Robert Brown",30006,2020-12-15,30006
+"Martin, Williams and Lawson","Frank Knight",11417,2021-09-11,20712
+"Martin, Williams and Lawson","Anthony Campos",30846,2022-09-28,24090
+"Martin, Williams and Lawson","Jeff Bentley",33803,2023-10-27,25355
+"Martinez Inc","Amanda West",21747,2022-07-03,21747
+"Martinez Inc","Diane Johnston",7812,2022-11-14,14780
+"Martinez Inc","Jessica Pennington",21531,2023-05-30,17030
+"Martinez Inc","Joel Lawrence",16270,2024-07-10,15204
+"Martinez Inc","William Williams",30657,2024-08-14,22819
+"Martinez Inc","Jennifer Green",34350,2024-10-23,27092
+"Martinez Ltd","Brandon Lamb",17601,2020-03-16,17601
+"Martinez Ltd","Jessica Garcia MD",14017,2021-01-26,15809
+"Martinez Ltd","Molly Ortiz",18704,2021-06-14,16774
+"Martinez Ltd","Kevin Baker",15885,2022-10-28,16202
+"Martinez Ltd","Rachel Lopez",27784,2023-01-12,20791
+"Martinez Ltd","Amy Anderson",8980,2023-03-22,17550
+"Martinez Ltd","Jessica Kent",5993,2024-06-06,14252
+Martinez-Phillips,"Gregory Davila",6470,2021-01-14,6470
+Martinez-Phillips,"Kelly Smith",35791,2022-03-23,21131
+Martinez-Phillips,"Pam Miller",11499,2022-06-03,17920
+Martinez-Phillips,"Kevin Costa",44429,2022-06-10,30573
+Martinez-Reynolds,"Alejandro Reyes",22062,2020-04-25,22062
+"Martinez, Cox and Malone","Ronald Ruiz",11371,2019-12-02,11371
+"Martinez, Small and Cunningham","Alyssa Bailey",11932,2020-04-08,11932
+"Martinez, Small and Cunningham","Michael Smith",39203,2020-05-13,25568
+"Martinez, Small and Cunningham","Jacob White",16685,2022-04-07,22607
+"Martinez, Small and Cunningham","Gerald Rivera",47779,2024-06-04,34556
+"Martinez, Small and Cunningham","Brandon Howell",49155,2024-07-04,37873
+"Martinez, Small and Cunningham","Thomas Ryan",34526,2024-10-19,43820
+"Mason, Roberts and Smith","James Williams",39274,2019-11-30,39274
+"Mason, Roberts and Smith","Andrew Smith",37235,2022-09-15,38255
+"Mason, Roberts and Smith","Johnathan Brooks",45983,2023-11-16,40831
+"Mathis and Sons","Lisa Martin",15044,2022-12-04,15044
+"Matthews, Rogers and Tran","Mr. David Jordan",44150,2021-06-07,44150
+"Matthews, Rogers and Tran","Andrea Griffith",26252,2021-07-17,35201
+"Matthews, Rogers and Tran","Aaron Berg",18427,2022-11-19,29610
+"Matthews, Rogers and Tran","Eric Robertson",21294,2023-01-29,21991
+"Matthews, Rogers and Tran","Angela Moran",6635,2024-01-12,15452
+"Mays Ltd","Clayton Kelly",14262,2020-01-08,14262
+"Mays Ltd","William Merritt",17780,2021-04-24,16021
+"Mays Ltd","Charles Floyd",43248,2024-10-21,25097
+"Mccall, Williams and Mills","Jordan Torres",1792,2019-12-31,1792
+"Mccall, Williams and Mills","Ryan Anderson",44217,2021-01-10,23005
+"Mccall, Williams and Mills","Eric Fischer",19188,2024-01-23,21732
+"Mccall, Williams and Mills","Kevin Cook",39280,2024-04-22,34228
+"Mccann, West and Rodriguez","David Steele",10036,2020-01-05,10036
+"Mccann, West and Rodriguez","Laura Burton",49930,2020-04-26,29983
+"Mccann, West and Rodriguez","Robert Reyes",24824,2020-05-25,28263
+"Mccann, West and Rodriguez","Denise Nichols",35655,2022-01-16,36803
+"Mccann, West and Rodriguez","Timothy Smith Jr.",10647,2022-04-07,23709
+"Mccann, West and Rodriguez","Ariel Gonzalez",5594,2023-02-07,17299
+"Mccann, West and Rodriguez","Scott Mann",31971,2024-05-13,16071
+"Mccann, West and Rodriguez","John Price",18202,2024-07-21,18589
+"Mccullough, Stewart and Mora","Lance Harris",15176,2023-08-25,15176
+"Mccullough, Stewart and Mora","Samantha Cruz",9270,2023-09-02,12223
+"Mcdaniel, Summers and Rivera","Micheal Bonilla",7834,2022-07-13,7834
+Mckee-Jensen,"Michelle Foley",6747,2020-01-31,6747
+Mckee-Jensen,"Kimberly Roberts",24353,2021-03-31,15550
+Mckee-Jensen,"Krista Harris",11856,2023-06-27,14319
+Mckenzie-Odonnell,"William Watson",4912,2019-12-09,4912
+Mckenzie-Odonnell,"Megan Cherry",23603,2023-06-07,14258
+Mckenzie-Odonnell,"Bruce Hahn",44990,2023-09-04,24502
+"Mckinney LLC","Todd Fuentes",43554,2020-11-01,43554
+"Mckinney LLC","Roberto Hall",26285,2020-12-10,34920
+"Mckinney LLC","Vicki Wilson",48240,2021-03-02,39360
+"Mckinney LLC","Larry Sullivan",42561,2023-09-30,39029
+"Mckinney, White and Mason","Susan Thompson",48475,2019-11-01,48475
+"Mckinney, White and Mason","Richard Bailey",49471,2019-12-11,48973
+"Mckinney, White and Mason","Cameron Montgomery",24167,2020-09-12,40704
+"Mckinney, White and Mason","Miss Brittany Peterson",16940,2024-04-30,30193
+"Mcpherson Group","Lisa Rivera",25731,2020-10-23,25731
+"Mcpherson Group","Robert Lopez",43850,2021-10-06,34791
+"Mcpherson Group","Ryan Lawrence",15896,2022-06-16,28492
+"Mcpherson Group","Lisa Washington",25386,2023-08-11,28377
+"Mcpherson Group","Dylan Butler",38341,2023-11-24,26541
+"Mcpherson Group","Norman Davis",45490,2023-12-15,36406
+"Mcpherson, Wilson and Miles","James Moore",6167,2019-12-19,6167
+"Mcpherson, Wilson and Miles","Rachel Ruiz DVM",3934,2022-04-15,5051
+"Mcpherson, Wilson and Miles","Steven Jennings",46750,2023-12-11,18950
+"Mcpherson, Wilson and Miles","Matthew Smith",16383,2024-07-02,22356
+"Meyer Group","Amy Garcia",21556,2020-08-22,21556
+"Meyer Group","Ashley Banks",2316,2022-05-09,11936
+"Meyer Group","Debbie Hill",23032,2023-02-16,15635
+"Meza, Gibson and Adams","Frederick Trevino",6469,2022-10-07,6469
+"Meza, Gibson and Adams","Jamie Armstrong",1714,2023-03-08,4092
+"Meza, Gibson and Adams","Katherine Jenkins",48963,2024-06-02,19049
+"Miles, Hill and Bell","James Vega",12732,2020-07-15,12732
+"Miles, Hill and Bell","Ian Smith",24991,2021-02-06,18862
+"Miles, Hill and Bell","James Choi",41546,2021-07-08,26423
+"Miles, Hill and Bell","Dale Smith",23954,2022-08-31,30164
+"Miller Inc","Glenn Parker",19989,2020-07-18,19989
+"Miller Ltd","Kelly Lewis",34634,2020-05-23,34634
+"Miller Ltd","Gabriella Morgan",39692,2020-06-08,37163
+"Miller Ltd","Lindsay Goodman",12641,2022-02-19,28989
+"Miller Ltd","Jessica Lara",34290,2022-07-01,28874
+"Miller Ltd","Alison Wang",9871,2023-02-21,18934
+"Miller Ltd","Teresa Alvarez",12979,2023-07-02,19047
+Miller-Rivera,"James Baker",21108,2023-02-13,21108
+Miller-Smith,"Jerry Weaver",48498,2021-01-17,48498
+Miller-Smith,"Krista Sandoval",44436,2021-01-29,46467
+Miller-Smith,"Charlene Bailey",35744,2022-05-29,42893
+Miller-Smith,"Nathaniel Mcmahon",23338,2023-02-23,34506
+Miller-Smith,"Barry Jackson",32082,2024-08-02,30388
+Miranda-Ruiz,"Karen Robinson",8480,2020-09-13,8480
+Miranda-Ruiz,"John Thomas",24292,2020-12-03,16386
+Miranda-Ruiz,"Andrea Jackson",39912,2022-12-16,24228
+Miranda-Ruiz,"Judy Murphy",26290,2023-04-15,30165
+Mitchell-Novak,"David Douglas",26263,2021-04-11,26263
+Mitchell-Novak,"Madison Henderson",45737,2022-01-04,36000
+Mitchell-Novak,"Tammy Adams",24263,2022-12-30,32088
+Mitchell-Novak,"Eric Thompson",8707,2024-02-17,26236
+Mitchell-Novak,"Brandon Cameron",49679,2024-09-30,27550
+Molina-Thompson,"Jacob Hull",37202,2020-08-11,37202
+Molina-Thompson,"Stephanie Taylor",4347,2020-10-24,20775
+Molina-Thompson,"Mr. Michael Green",49032,2022-04-05,30194
+Molina-Thompson,"Jennifer Kennedy",44871,2023-01-20,32750
+Molina-Thompson,"Joy Finley",27161,2024-06-05,40355
+Montgomery-Douglas,"Stephanie Gordon",42103,2019-12-28,42103
+Montgomery-Douglas,"Miranda Williams",21533,2020-01-29,31818
+Montgomery-Douglas,"Shane Schroeder",40930,2021-06-13,34855
+Montgomery-Douglas,"Mrs. Sharon Frank",7776,2021-12-27,23413
+Montgomery-Douglas,"John Wells",24582,2022-02-05,24429
+Montgomery-Douglas,"Ronald Cruz",17136,2023-04-13,16498
+Montgomery-Douglas,"Amy Campbell",16209,2023-11-26,19309
+Moon-Ball,"Catherine Hill",46952,2024-05-27,46952
+Moon-Ball,"Christopher West",32984,2024-08-24,39968
+"Moore and Sons","Stephen Charles",5646,2020-02-13,5646
+"Moore and Sons","Jerry Miller",34006,2021-10-30,19826
+"Moore PLC","Megan Dean",39798,2019-12-10,39798
+"Moore PLC","Christopher Martin",1159,2021-06-19,20479
+"Moore PLC","Jeffery Wright",24496,2022-04-02,21818
+Moore-Irwin,"Melissa Wiley",33183,2020-03-20,33183
+Moore-Irwin,"Christopher Wilson",33603,2020-05-14,33393
+Moore-Irwin,"Veronica Page",32704,2020-12-08,33163
+Moore-Irwin,"Melinda Velazquez",49955,2021-01-12,38754
+Moore-Irwin,"Jill Howard",29236,2021-06-12,37298
+Moore-Irwin,"Julie Jones",49131,2021-12-07,42774
+Moore-Irwin,"Briana Hodge",26787,2022-01-09,35051
+Moore-Irwin,"Melissa Diaz",16584,2023-01-31,30834
+"Morris and Sons","Mandy Smith",43177,2020-10-09,43177
+"Morris and Sons","Amanda Rojas",48992,2021-11-19,46085
+"Morris and Sons","Karen Hall",32889,2021-12-26,41686
+"Morris and Sons","Tammy Mcdaniel",10059,2023-03-02,30647
+"Morris and Sons","Mckenzie Brown",14468,2023-06-03,19139
+"Morris and Sons","Kimberly Johnson",16320,2023-10-28,13616
+"Morris, Berger and Little","Kathleen Flores",10026,2021-10-07,10026
+"Morris, Berger and Little","Jesse Thompson",23365,2022-09-26,16696
+"Morris, Berger and Little","Catherine Chambers",45378,2024-10-03,26256
+"Morris, Gonzalez and Diaz","Valerie Marsh",15152,2020-11-18,15152
+"Morris, Gonzalez and Diaz","Curtis Palmer",21402,2022-04-11,18277
+"Morris, Gonzalez and Diaz","Alison Martin",41811,2023-06-20,26122
+"Mueller Group","Heather Mueller",38472,2020-04-08,38472
+"Mueller Group","Jordan Gutierrez",22075,2021-04-30,30274
+"Mueller Group","Robert Deleon",13728,2023-11-15,24758
+"Murray Group","Benjamin Mcintosh",45444,2020-01-15,45444
+"Murray Group","Lisa Morrison",12311,2020-04-06,28878
+"Murray Group","Doris Barrett",13928,2024-05-25,23894
+Murray-Harris,"Hannah Ryan",45909,2020-08-07,45909
+Murray-Harris,"Daniel Buckley",40876,2020-11-02,43393
+Murray-Harris,"Michael Curtis",36583,2020-11-15,41123
+Murray-Harris,"George Bradley",42612,2021-02-18,40024
+Murray-Harris,"Nathan Bowers",5532,2023-07-25,28242
+Murray-Harris,"Daniel Simmons",8571,2024-08-06,18905
+Murray-Harris,"John Barnes",2086,2024-10-07,5396
+"Myers LLC","Jerry Horn",38711,2020-02-28,38711
+"Myers LLC","Whitney Young",2271,2022-12-11,20491
+"Myers LLC","Kimberly Stewart",4817,2024-07-19,15266
+"Myers Ltd","Yolanda Taylor",21573,2020-02-10,21573
+"Myers Ltd","Paul Lee MD",29830,2020-05-19,25702
+"Myers Ltd","Corey Bryant",26587,2020-05-24,25997
+"Myers Ltd","Brian Bolton",6188,2021-05-15,20868
+"Myers Ltd","Daniel Giles",1652,2021-10-30,11476
+"Myers Ltd","Shari Bishop",4617,2022-08-23,4152
+"Myers Ltd","James Johnson",44049,2023-08-20,16773
+"Myers, Mckay and Noble","Heather Stanton",33896,2020-02-08,33896
+"Myers, Mckay and Noble","Jacqueline Moody",27847,2020-03-11,30872
+"Myers, Mckay and Noble","Elizabeth Munoz",23027,2020-11-30,28257
+"Myers, Mckay and Noble","Annette Richardson",8145,2021-06-24,19673
+"Myers, Mckay and Noble","Anna Cox",12047,2021-12-13,14406
+"Myers, Mckay and Noble","Scott Patton",21755,2022-05-12,13982
+"Myers, Mckay and Noble","Michelle Lewis",41267,2023-01-11,25023
+"Myers, Mckay and Noble","Lorraine Collins",3817,2024-03-17,22280
+"Neal PLC","Heather Winters",16458,2021-07-16,16458
+"Neal PLC","Elizabeth Stone",45107,2021-12-22,30783
+"Neal PLC","Bridget Hicks",15794,2022-05-04,25786
+"Neal PLC","Manuel Olson",38652,2023-11-25,33184
+"Nelson LLC","Deborah Roberts",30735,2021-07-23,30735
+"Nelson LLC","David Bailey",48906,2022-08-12,39821
+"Nelson LLC","Austin Sherman",8341,2023-01-12,29327
+Nelson-Gonzalez,"Nicholas Acosta",35701,2020-01-20,35701
+Nelson-Gonzalez,"Rebecca Hutchinson",48876,2021-12-27,42289
+Nelson-Gonzalez,"Donna Livingston",7293,2022-07-20,30623
+Nelson-Gonzalez,"Kimberly Jones",23579,2022-09-12,26583
+Nelson-Phillips,"Thomas Paul",10071,2019-11-04,10071
+Nelson-Phillips,"Andrew Walton",49643,2022-01-22,29857
+Nelson-Phillips,"Jennifer Allen",29791,2023-12-13,29835
+Nelson-Phillips,"Barry Patton",26691,2024-05-27,35375
+"Nguyen Ltd","Matthew Rice",17492,2020-05-16,17492
+"Nguyen Ltd","Susan Herrera",33087,2020-12-08,25290
+"Nguyen Ltd","Cheryl Campbell",13771,2024-09-25,21450
+"Nguyen, Lewis and Smith","Katelyn Mendoza",2148,2020-10-01,2148
+"Nguyen, Lewis and Smith","Stephanie Montgomery",8491,2020-11-22,5320
+"Nguyen, Lewis and Smith","Savannah Odonnell",20221,2021-08-27,10287
+"Nguyen, Lewis and Smith","Mark Gross",21236,2022-01-01,16649
+"Nguyen, Lewis and Smith","Ricardo Pennington",2699,2023-12-25,14719
+"Nguyen, Lewis and Smith","Larry Schwartz",12835,2024-02-05,12257
+Nicholson-Woodward,"Vanessa Compton",10860,2020-11-04,10860
+Nicholson-Woodward,"Natalie Nguyen MD",45366,2021-04-25,28113
+Nicholson-Woodward,"Jonathan Rogers",46921,2021-07-27,34382
+Nicholson-Woodward,"Michael Parsons",35685,2024-08-05,42657
+Nielsen-Peterson,"Amy Lewis",24861,2020-08-09,24861
+Nielsen-Peterson,"Jessica Martin",41040,2021-05-10,32951
+Nielsen-Peterson,"Brittney Johnson PhD",7959,2023-08-04,24620
+Nixon-Osborne,"Mr. Ian Gray",29906,2020-08-15,29906
+Nixon-Osborne,"Brittany Kirby",7852,2022-08-08,18879
+Nixon-Osborne,"Jessica Lane",31226,2022-11-13,22995
+"Norman and Sons","Natalie Johnson",21951,2020-01-06,21951
+"Norman and Sons","Walter Smith",19336,2021-03-22,20644
+"Norman and Sons","James Burns",26232,2022-08-18,22506
+"Norman and Sons","Terry Ford",15865,2022-11-08,20478
+"Norton Group","James Reynolds",24414,2021-02-26,24414
+"Norton Group","Anna Baxter",49762,2021-07-27,37088
+"Norton Group","Mark Gonzales",29245,2022-03-14,34474
+"Norton Group","Brian Allen DDS",38883,2022-05-15,39297
+"Norton Group","Rebekah Fowler",21571,2022-12-05,29900
+Obrien-Wood,"Mr. Brian Thomas",31992,2019-12-13,31992
+Obrien-Wood,"Andrew Rodriguez",12053,2021-05-03,22023
+Obrien-Wood,"Holly Armstrong",48307,2021-12-10,30784
+Obrien-Wood,"Monique Murray",33404,2022-02-25,31255
+Obrien-Wood,"Robert Jones",37806,2023-05-14,39839
+"Oliver Ltd","Pamela Landry",40148,2021-02-07,40148
+"Oliver Ltd","Kathleen Reed",43195,2023-05-17,41672
+"Oliver Ltd","Kayla Meyers",20961,2024-09-29,34768
+"Orozco Ltd","Lindsey Schwartz",15715,2020-03-03,15715
+"Orozco Ltd","Garrett Walsh",17744,2020-10-10,16730
+"Orozco Ltd","Mrs. Loretta Gibson",47104,2022-08-14,26854
+"Orozco Ltd","Christina Gonzales",47984,2024-02-07,37611
+"Ortega Inc","Mrs. Mindy Lewis",3725,2019-12-19,3725
+"Ortega Inc","Joel Downs",43942,2020-07-25,23834
+"Ortega Inc","Vincent Martin",3461,2021-09-03,17043
+"Ortega Inc","Pamela Jackson",19726,2022-05-31,22376
+"Ortega Inc","Lee Allen",44469,2023-05-28,22552
+"Ortega Inc","Jamie Gentry",43460,2023-08-27,35885
+"Ortega Inc","Kristina Berger",31610,2024-03-24,39846
+"Ortiz, Marshall and Phillips","Kimberly Brown",35716,2020-07-06,35716
+"Ortiz, Marshall and Phillips","Jose Miles",23359,2024-03-23,29538
+Owen-Kim,"Jeffrey Vazquez",18478,2021-05-30,18478
+Owen-Kim,"Ann Taylor",35378,2021-06-17,26928
+Owen-Kim,"Lee Smith",8344,2022-09-23,20733
+"Palmer and Sons","James Brown",14525,2020-01-07,14525
+"Palmer and Sons","James Peterson",7163,2022-12-04,10844
+"Palmer and Sons","Sandra Armstrong",3072,2023-10-07,8253
+"Parks, Garcia and Walker","Stephanie Johnson",26290,2020-06-21,26290
+"Parks, Garcia and Walker","Samantha Henderson",19077,2020-07-02,22684
+"Parks, Garcia and Walker","Norman Sanchez",5234,2020-12-05,16867
+"Parks, Garcia and Walker","Jamie Martinez",41129,2021-05-04,21813
+"Parks, Garcia and Walker","Maria Conner",22917,2023-03-30,23093
+"Parrish Inc","Michael Burke",24790,2020-05-28,24790
+"Parrish Inc","Marie Morris",10140,2021-11-24,17465
+"Parrish Inc","Anne Thomas",23106,2023-03-12,19345
+"Parrish Inc","Jonathan Bryan",14172,2023-03-30,15806
+Patel-Waters,"Eric Robinson",47618,2020-07-28,47618
+Patel-Waters,"Jennifer Perry",1088,2022-11-21,24353
+Patel-Waters,"Martin Thompson",23474,2023-01-04,24060
+"Patterson PLC","Ryan Patton",47064,2020-03-10,47064
+"Patterson PLC","Michael Koch",20447,2020-07-19,33756
+"Patterson PLC","Gregory Meza",28392,2020-09-19,31968
+"Patterson PLC","Kerry Johnson",6734,2021-10-18,18524
+"Patterson PLC","Timothy Shaffer",40234,2022-08-20,25120
+"Patterson PLC","Jonathan Villarreal",25988,2023-02-20,24319
+"Patterson PLC","Mr. Steven Smith",19675,2023-04-17,28632
+"Patterson PLC","Nathan Terry",8307,2024-01-26,17990
+Patton-Morrison,"Brent James",9814,2020-01-13,9814
+Patton-Morrison,"Nancy Jones",35496,2021-06-06,22655
+Patton-Morrison,"Tracy Carey",44896,2021-10-15,30069
+Patton-Morrison,"Brittany Gomez",7369,2021-11-22,29254
+Patton-Morrison,"Charles Li",38956,2022-03-04,30407
+Patton-Morrison,"Justin Hall",38530,2023-05-23,28285
+Patton-Morrison,"Andrew Williams",19311,2023-11-18,32266
+Patton-Morrison,"Isaac Spence",28074,2024-03-15,28638
+Patton-Morrison,"William Schroeder",23595,2024-04-23,23660
+Patton-Morrison,"Ryan Robinson",13808,2024-05-17,21826
+"Perez Group","Lauren Lee",28043,2020-02-25,28043
+"Perez Group","Amy Li",28576,2023-02-04,28310
+"Perez Inc","Henry Flynn",8197,2020-09-03,8197
+"Perez Inc","Adam Cooper",34200,2021-02-17,21199
+"Perez Inc","Andrea Flowers",36638,2021-04-03,26345
+"Perez Inc","Dominic Payne",12408,2021-06-05,27749
+"Perez Inc","Nichole Mclean",18481,2023-01-03,22509
+"Perez Inc","Stephanie Nunez",36378,2024-07-20,22422
+"Perez, Fernandez and Wong","Steve Berger",8744,2020-01-12,8744
+"Perez, Fernandez and Wong","Jennifer Henson",42819,2021-09-20,25782
+"Perez, Fernandez and Wong","Michael Martin",20411,2021-12-29,23991
+"Perez, Fernandez and Wong","Destiny Williams",3130,2022-09-30,22120
+"Perez, Fernandez and Wong","Nicole Kramer",7759,2023-01-16,10433
+"Perez, Fernandez and Wong","Michelle Mitchell",17226,2023-08-30,9372
+"Perez, Jones and Patterson","Amber Dean",31748,2020-07-27,31748
+"Perez, Jones and Patterson","Becky Davis",12731,2022-05-17,22240
+"Perez, Jones and Patterson","Michael Clark",2266,2024-08-14,15582
+"Perkins Group","Joseph Baker",33892,2023-02-21,33892
+"Perkins Group","Christopher Webb",1952,2023-10-23,17922
+"Perkins, Kramer and Gray","Misty Fisher",9517,2020-02-04,9517
+"Perkins, Kramer and Gray","Lisa Miller",36308,2021-01-19,22913
+"Perkins, Kramer and Gray","David Martin",15488,2021-05-04,20438
+"Perkins, Kramer and Gray","Ronald Bryant",34194,2022-04-20,28663
+"Peters Inc","Nicole James",15629,2019-12-24,15629
+"Peters Inc","Lisa Osborn",22521,2021-10-21,19075
+"Peters Inc","Edward Williams",9422,2022-07-19,15857
+Peters-Brown,"Robert Harvey",30414,2019-12-29,30414
+Peters-Brown,"Joshua Suarez",7951,2020-11-26,19183
+Peters-Brown,"Dr. Michael Davis",3875,2021-01-14,14080
+Peters-Brown,"Jonathan Stone",44733,2021-10-13,18853
+Peters-Brown,"Steven Jackson",35091,2022-04-11,27900
+Peters-Brown,"Sarah Stone",48483,2023-06-03,42769
+Peterson-Webb,"Frederick Peters",43604,2020-02-28,43604
+Peterson-Webb,"Joseph Tate",20363,2021-08-15,31984
+Peterson-Webb,"Jodi Garcia",42881,2024-07-22,35616
+"Petty, Smith and Smith","Michael Johnson",40693,2020-08-27,40693
+"Petty, Smith and Smith","Donald Davidson",31698,2020-12-30,36196
+"Petty, Smith and Smith","Jamie Perez",7593,2021-04-18,26661
+"Petty, Smith and Smith","Gabriel Webb",22510,2023-11-23,20600
+Phillips-Smith,"Timothy Lopez",30896,2020-06-02,30896
+Phillips-Smith,"Donald Soto",7507,2023-11-28,19202
+Phillips-Smith,"Tyler Pierce",25038,2024-01-29,21147
+"Pierce, Payne and Scott","Jeffery Greer",41935,2020-03-09,41935
+"Pierce, Payne and Scott","Rhonda Hobbs",25172,2020-04-30,33554
+"Pierce, Payne and Scott","Troy Case",16426,2021-04-04,27844
+"Pierce, Payne and Scott","Patricia Herring",44644,2021-07-30,28747
+"Pierce, Payne and Scott","Jonathan Pierce",28314,2023-06-22,29795
+"Pierce, Payne and Scott","Vincent Crawford",27527,2023-11-02,33495
+"Pierce, Payne and Scott","David Johnson",8167,2023-12-27,21336
+"Porter LLC","Kelly Gonzalez",11161,2020-12-30,11161
+"Porter LLC","Savannah Medina",34453,2021-04-03,22807
+"Porter LLC","Amanda West",41137,2023-03-12,28917
+"Porter LLC","Denise Rosales",45321,2024-04-22,40304
+Potter-Davis,"Jonathan Moore",22630,2020-02-12,22630
+Potter-Davis,"Geoffrey Cole",25430,2020-10-28,24030
+Potter-Davis,"Brittany Harper",36399,2021-01-10,28153
+Potter-Davis,"Dale Hahn",24359,2021-05-28,28729
+Potter-Davis,"Diamond Matthews",8386,2021-10-23,23048
+Potter-Davis,"Rebecca Butler",20306,2023-06-16,17684
+Potter-Davis,"Sherry King",10983,2023-07-28,13225
+Potter-Davis,"Andrew Jones",17937,2024-10-03,16409
+"Price PLC","Jacqueline Spencer",24955,2021-09-27,24955
+"Price PLC","Thomas Morgan",19894,2022-01-20,22425
+"Price PLC","Taylor Wood",16224,2022-02-12,20358
+"Price PLC","Gregory Stephens",26069,2023-09-05,20729
+"Price PLC","Jason Herrera",38110,2024-06-26,26801
+Price-Le,"Kenneth Chandler",39722,2020-02-22,39722
+Price-Le,"Marco Martin",37647,2020-12-09,38685
+"Ramirez Inc","Nicholas Cruz",2278,2020-11-29,2278
+"Ramirez Inc","Jacqueline Garza",41726,2021-09-08,22002
+"Ramirez Inc","Kaitlyn Porter",38171,2024-01-15,27392
+Ramirez-Edwards,"Patrick Daniels",6487,2021-04-12,6487
+Ramirez-Edwards,"Jennifer Duran",38540,2022-05-31,22514
+Ramirez-Edwards,"Sheila Harris",25383,2023-04-08,23470
+Ramirez-Edwards,"Becky Williams",24297,2023-09-16,29407
+Ramirez-Edwards,"Betty Phillips",38680,2023-11-15,29453
+Ramirez-Edwards,"Austin Lopez",48430,2024-10-25,37136
+Ramirez-Rodriguez,"Amy Butler",5380,2021-01-31,5380
+Ramirez-Rodriguez,"Marcus Salinas",21273,2023-06-10,13327
+Ramirez-Rodriguez,"Lisa Russell",31721,2024-05-08,19458
+"Ramirez, Lopez and Trevino","Bryan Nelson",16056,2021-02-08,16056
+"Ramirez, Lopez and Trevino","Jamie Horn",9366,2023-01-24,12711
+"Ramirez, Ramirez and Jackson","Mr. Richard Mitchell",29224,2019-10-31,29224
+"Ramirez, Ramirez and Jackson","Kathryn Garrison",46669,2020-03-16,37947
+"Ramirez, Ramirez and Jackson","Reginald Diaz",8065,2020-04-19,27986
+"Ramirez, Ramirez and Jackson","Terri Torres",10030,2023-09-26,21588
+"Ramirez, Ramirez and Jackson","Megan Sampson",26193,2024-03-09,14763
+"Ramos, Brown and Edwards","Laurie Morgan",35028,2021-02-21,35028
+"Ramos, Brown and Edwards","Phillip Mcbride",9865,2023-05-29,22447
+"Ramos, Brown and Edwards","Roger Bradford",39530,2023-08-18,28141
+"Ramos, Brown and Edwards","John Brown",46025,2024-04-21,31807
+"Ramsey, Anderson and Walsh","Cassandra Lozano MD",13740,2021-06-14,13740
+"Ramsey, Anderson and Walsh","Bobby Bradley",39142,2022-05-29,26441
+"Ramsey, Anderson and Walsh","Lydia Garcia",13197,2022-08-17,22026
+"Ramsey, Anderson and Walsh","Kayla Vance",20508,2023-12-14,24282
+"Ramsey, Anderson and Walsh","Daisy Thompson",14474,2024-08-06,16060
+"Ramsey, Anderson and Walsh","Matthew Lopez",10606,2024-08-22,15196
+"Rangel and Sons","Jennifer Holloway",41436,2021-02-20,41436
+"Rangel and Sons","Thomas Fisher",35337,2021-03-31,38387
+"Rangel and Sons","Laurie Parker",5946,2021-04-02,27573
+"Rangel and Sons","Patricia Watson",48809,2024-08-21,30031
+"Ray, Washington and Cox","Steven David",16371,2020-09-25,16371
+"Ray, Washington and Cox","Jeremy Lewis",40392,2021-04-15,28382
+"Ray, Washington and Cox","Monique Munoz",31783,2022-10-08,29515
+"Ray, Washington and Cox","Richard Bond",30511,2024-03-21,34229
+"Reed Ltd","Joseph Martin",6810,2021-05-12,6810
+"Reed Ltd","Laura Armstrong",49302,2022-03-02,28056
+"Reed Ltd","Charlene Aguirre",24180,2022-08-16,26764
+"Reed Ltd","Tiffany Smith",32372,2023-09-17,35285
+"Reed Ltd","Michael Cardenas",16740,2024-01-02,24431
+"Reed Ltd","Jennifer Klein",26523,2024-07-16,25212
+Reeves-Blair,"Karen Wiggins",2467,2020-08-16,2467
+Reeves-Blair,"Brenda Soto",25197,2020-09-02,13832
+Reeves-Blair,"Patrick Weeks",21323,2021-05-06,16329
+"Reid Group","Kelly Robinson",4511,2022-07-28,4511
+"Reid Group","Amy Medina",46925,2023-10-16,25718
+"Reid Group","Mark Bradshaw",36189,2024-08-04,29208
+"Reyes, Elliott and Brown","Laura Moore",10016,2020-07-26,10016
+"Reyes, Elliott and Brown","Marie Coleman",24870,2022-05-21,17443
+"Richards, Rosario and Garcia","Rebekah Bond",37513,2021-04-16,37513
+"Richards, Rosario and Garcia","Ryan Barrett",18727,2021-05-09,28120
+"Richards, Rosario and Garcia","Sherri Wall",12762,2023-03-30,23001
+"Richmond Ltd","John Arnold",32844,2020-03-22,32844
+"Richmond Ltd","William Nelson",39237,2021-03-27,36041
+"Richmond Ltd","Christine Gates",38599,2021-06-12,36893
+"Richmond Ltd","Blake Macdonald",13969,2023-08-11,30602
+"Riddle LLC","Karen Ashley",41319,2021-01-17,41319
+"Riddle LLC","Diane Perry",19999,2021-04-30,30659
+"Riddle LLC","Glenn Campbell",6715,2024-03-04,22678
+Rios-Sexton,"John Ortiz",14793,2020-12-11,14793
+Rios-Sexton,"Kristina Soto",15442,2022-06-08,15118
+Rios-Sexton,"Mallory Brown",6597,2022-06-17,12277
+Rios-Sexton,"David Thomas",43162,2023-03-07,21734
+Rios-Sexton,"Jeremy Martinez",22200,2023-05-09,23986
+"Rivas LLC","Jamie Martin",42415,2019-11-06,42415
+"Rivas LLC","Amy Moore",10359,2020-02-23,26387
+"Rivas LLC","Jack Stewart",22124,2021-02-19,24966
+"Rivas LLC","Courtney Fowler",27191,2022-12-30,19891
+"Rivas LLC","Kim Sparks",31835,2023-09-26,27050
+"Rivas LLC","Sharon Thompson",45713,2024-09-03,34913
+Roberts-Brooks,"Anthony Morse",36202,2019-12-29,36202
+Roberts-Brooks,"Suzanne White",5999,2020-09-05,21101
+Roberts-Brooks,"Benjamin Solis",45326,2020-09-08,29176
+Roberts-Brooks,"Timothy Jensen",27443,2021-07-19,26256
+Roberts-Brooks,"Allison Romero",27620,2021-10-18,33463
+Roberts-Brooks,"Kristen Foster",25706,2022-05-02,26923
+Roberts-Brooks,"Laura Williams",43372,2022-07-26,32233
+Roberts-Brooks,"Mr. Todd Scott V",39469,2024-01-21,36182
+Roberts-Brooks,"Allison Guerra",32142,2024-02-14,38328
+"Roberts, Brown and Wheeler","Matthew Pratt",32591,2019-12-15,32591
+"Roberts, Brown and Wheeler","Tamara Perry",2114,2020-10-14,17353
+"Roberts, Brown and Wheeler","Kari Johnson",28683,2022-08-12,21129
+"Roberts, Brown and Wheeler","Joseph Kent",26961,2023-11-25,19253
+"Robertson Ltd","Joseph Kennedy",20113,2019-11-05,20113
+"Robertson Ltd","Kathryn Duncan",22352,2021-03-04,21233
+"Robertson Ltd","Lisa Johnson",20388,2022-11-16,20951
+"Robertson Ltd","Timothy Jackson",43433,2023-03-31,28724
+"Robertson Ltd","Mckenzie Lopez",17851,2024-02-24,27224
+"Robertson Ltd","Michelle Long",30350,2024-05-19,30545
+Robertson-Brown,"Emily Smith",6866,2021-07-06,6866
+Robertson-Brown,"Alicia Williams",36159,2022-07-17,21513
+Robertson-Brown,"Jennifer Jenkins",1695,2022-11-12,14907
+Robertson-Brown,"Katherine Bradley",21843,2023-12-24,19899
+"Robinson Ltd","Gail Rose",39446,2021-03-04,39446
+"Robinson Ltd","Jorge Tran",31438,2023-03-13,35442
+"Robinson Ltd","Christian Johnson",7571,2024-01-21,26152
+"Robinson Ltd","Heather Mitchell",27389,2024-04-05,22133
+"Rodriguez Group","Scott Burns",48343,2020-02-26,48343
+"Rodriguez Group","Mr. Paul Glenn",4065,2021-04-19,26204
+"Rodriguez Group","Darlene Bryan",35523,2023-07-15,29310
+"Rodriguez Group","Max Bender",7634,2024-10-12,15741
+"Rodriguez Inc","Sean Shepherd",15682,2021-01-06,15682
+"Rodriguez Inc","Becky Perry",13622,2021-08-13,14652
+"Rodriguez Inc","Anna Carr",25838,2022-01-22,18381
+"Rodriguez Inc","Mr. Chad Parker MD",30106,2022-04-19,23189
+"Rodriguez Inc","Regina Jones",20124,2022-05-07,25356
+"Rodriguez Inc","Robert Kennedy MD",20973,2023-08-19,23734
+Rodriguez-Gonzales,"Cathy Alexander",44189,2020-02-02,44189
+Rodriguez-Gonzales,"Austin Patton",34254,2021-08-07,39222
+Rodriguez-Gonzales,"Karen Gordon",12178,2022-10-31,30207
+Rodriguez-Gonzales,"Scott Miller",25964,2024-08-27,24132
+Rodriguez-Gonzales,"Jackie Thompson",36143,2024-09-27,24762
+Rodriguez-Gonzales,"Eric Briggs",39223,2024-10-20,33777
+Rodriguez-Morrow,"Sarah Guerra",27843,2021-02-05,27843
+Rodriguez-Morrow,"Matthew Long",38967,2021-11-30,33405
+Rodriguez-Morrow,"Kara Miles",22583,2022-10-01,29798
+Rodriguez-Morrow,"Johnny Hebert",25908,2024-03-14,29153
+"Rodriguez, Gibson and Thomas","Katherine Guzman",19176,2020-01-17,19176
+"Rodriguez, Gibson and Thomas","Chelsea Padilla",13181,2020-02-27,16179
+"Rodriguez, Gibson and Thomas","Matthew Lewis",1783,2020-10-27,11380
+"Rodriguez, Gibson and Thomas","Savannah Walker",37597,2021-04-28,17520
+"Rodriguez, Gibson and Thomas","Marissa Bennett",34732,2022-11-02,24704
+"Rodriguez, Gibson and Thomas","Miranda Reeves",7939,2023-10-01,26756
+"Rodriguez, Gibson and Thomas","Kristy Roy",7874,2023-11-15,16848
+"Rodriguez, Gibson and Thomas","Brian Stokes",22884,2024-03-07,12899
+"Rogers and Sons","Kirk Hampton",19115,2019-11-11,19115
+"Rogers and Sons","Mitchell Bailey DDS",49576,2020-11-10,34346
+"Rogers and Sons","Joanna Gordon",43686,2020-12-08,37459
+"Rogers and Sons","Debra Tran",28031,2021-01-01,40431
+"Rogers and Sons","Denise Silva",8461,2021-01-30,26726
+"Rogers and Sons","Dawn Holloway",20911,2021-08-27,19134
+"Rogers and Sons","Benjamin Shaw",22948,2022-03-03,17440
+"Rogers and Sons","Joshua Walker",31873,2022-03-15,25244
+"Rogers and Sons","Evan Hall",40608,2023-03-13,31810
+"Rogers and Sons","Patricia Davis",17671,2023-05-06,30051
+"Rogers and Sons","Ann Schneider",29400,2023-06-21,29226
+"Rogers and Sons","Matthew Ruiz",2911,2023-10-01,16661
+"Rogers and Sons","Betty Alvarez",46663,2024-09-13,26325
+"Rogers and Sons","John Scott",37703,2024-10-10,29092
+"Rogers, Peters and Brewer","Joan Ellis",39506,2020-10-03,39506
+"Rogers, Peters and Brewer","Joann Meyers",7425,2021-01-01,23466
+"Rogers, Peters and Brewer","Brett Mitchell",6066,2021-03-06,17666
+"Rogers, Peters and Brewer","Angela Middleton",47768,2021-08-10,20420
+"Rogers, Peters and Brewer","Tina Fields",20844,2023-10-18,24893
+"Rogers, Peters and Brewer","Laura Cooper",28043,2024-07-20,32218
+Roman-Foster,"Benjamin Buchanan",44689,2020-12-04,44689
+Roman-Foster,"Jennifer Perez",39423,2021-03-03,42056
+Roman-Foster,"Charles Trujillo",28591,2023-03-10,37568
+"Roman, Patterson and Barton","Mary Hartman",41463,2020-07-26,41463
+"Roman, Patterson and Barton","Matthew Smith",10859,2020-12-24,26161
+"Roman, Patterson and Barton","Kimberly Meyer",20025,2023-04-08,24116
+"Roman, Patterson and Barton","Jeremy Stone",36399,2023-08-07,22428
+"Roman, Patterson and Barton","Mark Mitchell MD",35835,2024-01-06,30753
+"Rosario, Holden and Ross","Cody Davis",15287,2021-07-22,15287
+"Rosario, Holden and Ross","Zachary Young",41558,2023-01-27,28423
+"Rosario, Holden and Ross","Pamela Ingram",36267,2023-07-11,31037
+Ross-Foster,"Rebecca Wilson",36044,2020-10-15,36044
+Ross-Foster,"Marissa Daniels",41980,2022-08-01,39012
+Ross-Foster,"Leah Richards",15451,2024-03-31,31158
+Ross-Foster,"Matthew Smith",33844,2024-10-18,30425
+"Ross, Jenkins and Yates","Raymond Conner",7860,2020-05-25,7860
+"Ross, Jenkins and Yates","Steven Hoffman",38670,2021-03-14,23265
+"Ross, Jenkins and Yates","Ashley Chase",35686,2022-03-08,27405
+"Ross, Jenkins and Yates","Carol Brown",33987,2022-10-28,36114
+"Ross, Jenkins and Yates","Erika Bird",14353,2023-03-11,28009
+"Ross, Jenkins and Yates","Michelle Lopez",22947,2023-12-08,23762
+"Ross, Jenkins and Yates","Robert Wheeler",38137,2024-04-14,25146
+"Ruiz Group","Daniel Skinner",31149,2021-07-30,31149
+"Ruiz Group","Renee Rhodes",42397,2023-12-02,36773
+"Ruiz, French and Hill","Daniel Gallagher",46353,2020-06-23,46353
+"Ruiz, French and Hill","Leslie Poole",42152,2021-11-07,44253
+"Ruiz, French and Hill","Dean Davis",43637,2021-11-14,44047
+"Ruiz, French and Hill","Rachel Roberts",28381,2023-02-26,38057
+"Ruiz, French and Hill","Daniel Richardson",20768,2023-11-08,30929
+"Ruiz, French and Hill","Shelby Lynch",47248,2023-12-25,32132
+"Ruiz, Powell and Jenkins","Luis Washington",12329,2020-02-19,12329
+"Ruiz, Powell and Jenkins","Tyler Woods",9353,2023-07-31,10841
+"Ruiz, Powell and Jenkins","Karen Miller",9405,2024-01-26,10362
+"Ruiz, Powell and Jenkins","Diane Trevino",6638,2024-04-22,8465
+"Ryan and Sons","Michael Richardson",49491,2021-03-16,49491
+"Ryan and Sons","Angela Duncan",1804,2021-12-23,25648
+"Ryan and Sons","Michael Hansen",21699,2023-04-22,24331
+"Ryan and Sons","Aaron Ochoa",34678,2023-09-02,19394
+"Ryan and Sons","Debra Kennedy",44618,2024-08-25,33665
+Ryan-Adams,"Christian Bautista",42284,2020-03-06,42284
+Ryan-Adams,"Yvonne Fox",36871,2020-04-15,39578
+Ryan-Adams,"James Blankenship",15737,2021-12-08,31631
+Ryan-Adams,"Raymond Brown",27844,2022-02-14,26817
+"Ryan, Williams and Clay","Savannah Yang",26618,2019-11-22,26618
+"Ryan, Williams and Clay","Lisa Marks",6408,2020-02-13,16513
+"Ryan, Williams and Clay","Valerie Mcdowell",9997,2020-07-24,14341
+"Ryan, Williams and Clay","Joel Carlson",11474,2021-11-27,9293
+"Ryan, Williams and Clay","William Hanson",27086,2022-10-27,16186
+"Ryan, Williams and Clay","Justin Hernandez",20223,2023-04-25,19594
+"Ryan, Williams and Clay","Kim Banks",47178,2024-07-26,31496
+"Salazar PLC","Jacob Phillips",23070,2021-02-04,23070
+"Salazar PLC","Kiara Moreno",12528,2024-04-06,17799
+"Salazar, Kennedy and Pierce","Joshua Rogers",18116,2020-02-13,18116
+"Salazar, Kennedy and Pierce","Michael Espinoza",4310,2020-08-18,11213
+"Salazar, Kennedy and Pierce","Patricia Mcgee",27748,2021-09-30,16725
+"Salazar, Kennedy and Pierce","Joshua Davis",34633,2021-10-09,22230
+"Salazar, Kennedy and Pierce","Nicole Norton",37148,2022-09-27,33176
+"Salazar, Kennedy and Pierce","Paul Silva",19423,2024-03-25,30401
+"Salazar, Kennedy and Pierce","Debra Jimenez",16208,2024-04-25,24260
+"Salinas, Campbell and Reed","Leah Stout",9641,2023-11-08,9641
+"Salinas, Campbell and Reed","Diana Lawrence",20892,2024-01-22,15267
+"Sanchez Inc","Michelle Rowland",28153,2020-03-27,28153
+"Sanchez Inc","Antonio Baldwin",47791,2020-08-27,37972
+"Sanchez Inc","Amy Nguyen",42534,2021-02-10,39493
+Sanchez-Alexander,"Charles Bush",28734,2022-08-11,28734
+Sanchez-Alexander,"Shelly Peck",11455,2023-03-11,20095
+Sanchez-Alexander,"Jonathan Johnson",40459,2023-05-09,26883
+Sanchez-Alexander,"Tyler Velazquez",6089,2023-12-01,19334
+Sanchez-Gibson,"Alex Rojas",35135,2020-03-11,35135
+Sanchez-Gibson,"Daniel Leon",26238,2021-01-18,30687
+Sanchez-Gibson,"Jennifer Mitchell",6816,2021-07-10,22730
+Sanchez-Gibson,"Anthony Thomas",34062,2021-10-08,22372
+Sanchez-Gibson,"Rachel Andersen",47322,2023-07-21,29400
+Sanchez-Gibson,"Ronald Mcmahon",16334,2023-12-18,32573
+Sanchez-Hunter,"Taylor Parks",9976,2019-11-10,9976
+Sanchez-Hunter,"Christopher Cook",42817,2020-05-11,26397
+Sanchez-Hunter,"Richard Brown",9210,2022-06-03,20668
+Sanchez-Hunter,"Charles Gonzalez",24936,2022-12-22,25654
+Sanchez-Hunter,"Cameron Fleming",27224,2023-06-17,20457
+Sanchez-Hunter,"Patrick Calderon",47126,2024-09-27,33095
+"Santiago Group","Amanda Moore",28081,2020-07-31,28081
+"Santiago Group","Jeffrey Jones",44746,2023-04-15,36414
+"Santiago Group","David Alvarez",1868,2023-11-25,24898
+"Santiago Group","Sharon Cortez",12820,2024-05-04,19811
+Saunders-Cooper,"Kristin Zamora",8619,2020-05-18,8619
+Saunders-Cooper,"Kathy Medina",27335,2021-05-29,17977
+Saunders-Cooper,"Russell Christian",11156,2021-10-18,15703
+Saunders-Cooper,"Peggy Smith",19883,2021-12-15,19458
+Saunders-Cooper,"Jennifer Bernard",33558,2022-06-27,21532
+Saunders-Cooper,"Renee Goodwin",32946,2024-05-02,28796
+Saunders-Le,"Edgar Mathews",6481,2021-04-30,6481
+Saunders-Le,"Miguel Rivera",43755,2022-07-04,25118
+Saunders-Le,"Brent Jordan",19272,2023-08-19,23169
+Saunders-Le,"Brad Serrano",14553,2024-05-04,25860
+"Schmitt Ltd","Kelsey Quinn",45900,2020-10-22,45900
+"Schmitt Ltd","Jonathan Roberson",6140,2022-09-23,26020
+"Schmitt Ltd","Bryan Romero",46016,2023-06-12,32685
+Schneider-Wallace,"Robert Hunt",17733,2020-02-09,17733
+Schneider-Wallace,"Stacy Perez",31713,2021-05-04,24723
+Schneider-Wallace,"Shelly Blair",5732,2024-03-29,18393
+Scott-Jensen,"Jeffrey Friedman",7315,2020-08-30,7315
+Scott-Jensen,"Kevin Leonard",45279,2021-10-14,26297
+Scott-Jensen,"Thomas Moody",41017,2023-02-23,31204
+Scott-Jensen,"Carla Davenport",6556,2023-04-04,30951
+Scott-Jensen,"Daniel Jacobs",2418,2023-06-05,16664
+"Sharp, Payne and Solis","Taylor Rocha",23557,2020-01-31,23557
+"Sharp, Payne and Solis","Susan Harris",37937,2020-02-10,30747
+"Sharp, Payne and Solis","Jeremy Hardy",36589,2023-08-26,32694
+Shepherd-Lee,"Nicholas Diaz",8297,2020-11-17,8297
+Shepherd-Lee,"Andrew Anderson",42710,2021-05-23,25504
+Shepherd-Lee,"Amy Combs",49740,2022-01-31,33582
+Shepherd-Lee,"Michael Miles",19797,2024-08-31,37416
+Sims-Arnold,"Joshua Obrien",45711,2020-04-14,45711
+Sims-Arnold,"Ryan Mcconnell",2440,2020-04-22,24076
+Sims-Arnold,"Katherine Fuentes",21372,2022-01-23,23174
+Sims-Arnold,"Wendy Farmer",43794,2022-04-02,22535
+Sims-Arnold,"Carl Moreno",6368,2023-04-01,23845
+Sims-Arnold,"Charles Miller",17438,2024-02-19,22533
+"Smith Group","Sharon Brewer",34479,2021-06-08,34479
+"Smith Group","Robert Powers",13812,2022-06-11,24146
+"Smith Group","Logan Phillips",19239,2023-01-08,22510
+"Smith Group","Javier Aguirre",45202,2023-12-22,26084
+"Smith Inc","Christopher Graham",17197,2020-02-20,17197
+"Smith Inc","Garrett Foster",21119,2020-08-08,19158
+"Smith Inc","Angela Braun",32811,2020-08-15,23709
+"Smith Inc","Carolyn Torres",15005,2022-12-25,22978
+"Smith Inc","Dennis Walker",17197,2023-06-28,21671
+"Smith Inc","Samantha Conrad",15333,2024-05-09,15845
+"Smith LLC","Michelle Gonzales",34723,2020-02-04,34723
+"Smith LLC","Anne Smith",34493,2020-07-12,34608
+"Smith LLC","Richard Hoover",41676,2022-02-15,36964
+"Smith LLC","Devin Douglas",35660,2022-08-20,37276
+Smith-Allison,"Aaron Miller",34539,2020-09-13,34539
+Smith-Allison,"Karen Olsen",41149,2021-01-05,37844
+Smith-Allison,"Keith Smith",14115,2021-02-25,29934
+Smith-Allison,"Kevin Phillips",6443,2021-10-24,20569
+Smith-Allison,"William Graham",49358,2023-02-26,23305
+"Smith, Wise and Nelson","Heidi Conley",17764,2020-01-04,17764
+"Smith, Wise and Nelson","Kayla Cruz",35400,2020-06-05,26582
+"Smith, Wise and Nelson","Ashley Warren",28777,2022-12-14,27314
+"Smith, Wise and Nelson","William Jimenez",1731,2023-01-29,21969
+"Smith, Wise and Nelson","Lori Gonzales",22209,2023-05-20,17572
+"Smith, Wise and Nelson","Tina Carter",47034,2023-12-07,23658
+"Snyder, Johnson and Clark","Benjamin Gutierrez",37267,2020-07-13,37267
+"Snyder, Johnson and Clark","Debra Lawson",42786,2020-12-20,40027
+"Snyder, Johnson and Clark","Melissa Kirk",4931,2024-05-14,28328
+"Snyder, Johnson and Clark","Steven Sims",40920,2024-08-05,29546
+Solomon-Bailey,"Jose Garza",23161,2022-06-11,23161
+Solomon-Bailey,"Yvonne Ellison",15338,2024-01-12,19250
+"Soto, Higgins and Lopez","Raven Rivera",42365,2021-07-26,42365
+"Soto, Higgins and Lopez","Traci Ramirez",23323,2022-04-05,32844
+"Soto, Higgins and Lopez","Bonnie Anderson",15744,2023-10-18,27144
+"Soto, Higgins and Lopez","Valerie Chen",34642,2024-03-25,24570
+"Soto, Higgins and Lopez","Jennifer Nelson",37775,2024-07-13,29387
+Spears-Cooper,"Sabrina Ramos",15718,2021-11-25,15718
+Spears-Cooper,"Sarah Townsend",29380,2024-02-06,22549
+Spears-Price,"Steven Munoz",45471,2021-03-21,45471
+Spears-Price,"Charles Bradley",15752,2021-11-16,30612
+Spears-Price,"Douglas Smith",41861,2022-03-27,34361
+Spears-Price,"Steven Ellis",19197,2024-01-07,25603
+"Spence Inc","Amber Saunders",33420,2019-11-02,33420
+"Spence Inc","Jim Schneider",1761,2019-11-04,17591
+"Spence Inc","Carla Webb",27759,2020-04-24,20980
+"Spence Inc","Damon King",5684,2020-11-01,11735
+"Spence Inc","Marcus Huber",48777,2022-02-23,27407
+"Spence Inc","Deborah Larsen",46004,2023-06-23,33488
+"Spencer and Sons","Sharon Flores",44138,2019-11-15,44138
+"Spencer and Sons","Michael Owen",27291,2020-01-23,35715
+"Spencer and Sons","Robert Cox",41016,2020-02-02,37482
+"Spencer and Sons","Christopher Adams",17876,2020-07-20,28728
+"Spencer, Townsend and Woods","James Blevins",8087,2021-09-08,8087
+"Spencer, Townsend and Woods","Dawn Stephens",43315,2022-02-01,25701
+"Spencer, Townsend and Woods","Jerome Collins",19818,2022-08-23,23740
+"Spencer, Townsend and Woods","Casey Brown",15423,2023-10-24,26185
+"Spencer, Townsend and Woods","Brittany Goodman",21187,2024-07-26,18809
+"Spencer, Zamora and Horton","Amy Peterson",10923,2020-10-19,10923
+"Spencer, Zamora and Horton","Theresa Young",43315,2021-05-20,27119
+"Spencer, Zamora and Horton","Jenna Patterson",45118,2021-10-12,33119
+"Spencer, Zamora and Horton","Cathy Scott",27369,2022-11-01,38601
+"Spencer, Zamora and Horton","Jessica Christensen",9284,2024-07-30,27257
+"Spencer, Zamora and Horton","Mason Harvey",37512,2024-07-30,24722
+"Spencer, Zamora and Horton","Renee Robinson",24169,2024-07-31,23655
+"Stevens PLC","Jennifer Allen",24781,2020-10-01,24781
+"Stevens PLC","Joseph Yoder",5556,2020-10-16,15169
+"Stevens PLC","Derek Mccarthy",14140,2022-06-10,14826
+"Stevens PLC","George Ibarra",17086,2022-08-02,12261
+"Stevens PLC","John Harrison",37447,2023-03-18,22891
+"Stevens PLC","Mark Cross",28385,2024-05-24,27639
+Stevens-Smith,"Garrett Russo",1384,2019-12-04,1384
+Stevens-Smith,"Robert Obrien",48988,2020-11-17,25186
+Stevens-Smith,"Monica Dominguez",40879,2021-02-04,30417
+Stevens-Smith,"Danielle Parker",16112,2021-07-25,35326
+Stevens-Smith,"Daniel Spencer",48098,2024-01-27,35030
+Stevens-Smith,"Kelli Wu",8121,2024-02-16,24110
+Stevens-Smith,"Michelle Torres",47862,2024-06-22,34694
+Stevens-Smith,"Denise Nelson",12589,2024-07-04,22857
+Stevens-Smith,"Elizabeth Kidd",33720,2024-08-16,31390
+"Stewart and Sons","Andrew Jackson",31264,2020-08-23,31264
+"Stewart and Sons","Andrew Wilson",18083,2021-01-07,24674
+"Stewart Ltd","Rhonda Odom",23932,2020-09-10,23932
+"Stewart Ltd","Rhonda Mack",32620,2021-02-24,28276
+"Stewart Ltd","Michael Anderson",5587,2021-06-07,20713
+Stewart-Rojas,"Rebecca Thompson",2690,2020-02-01,2690
+Stewart-Rojas,"Terri Martin",4634,2020-05-24,3662
+Stewart-Rojas,"Alexander Parker",17668,2021-05-11,8331
+Stewart-Rojas,"Derek Leblanc",31267,2023-11-18,17856
+Stewart-Rojas,"Heidi Robinson",39409,2024-03-09,29448
+"Stewart, Howard and Bowers","John Beck",41114,2020-07-12,41114
+"Stewart, Howard and Bowers","Mr. Andrew Wells",37552,2020-11-18,39333
+"Stewart, Howard and Bowers","Richard Gomez",48913,2023-10-18,42526
+"Strong, Hale and Key","Jason Lopez",40340,2020-05-24,40340
+"Strong, Hale and Key","David Howard",18389,2021-04-20,29365
+"Strong, Hale and Key","Michelle Rice",44959,2022-01-27,34563
+"Strong, Hale and Key","Paul Vargas",42044,2023-01-03,35131
+"Strong, Hale and Key","Jillian Wise DDS",47676,2023-09-01,44893
+"Stuart Group","Sara Fowler",38188,2019-11-19,38188
+"Stuart Group","Fernando Smith",9639,2019-12-08,23914
+"Stuart Group","Henry Myers",48635,2023-03-03,32154
+"Stuart Group","Doris Welch",16992,2023-04-25,25089
+"Stuart Group","Nicole Moore",49572,2023-12-15,38400
+"Stuart Group","Samantha Alvarado",4851,2024-01-05,23805
+"Stuart Group","Christopher Carr",44309,2024-06-18,32911
+"Swanson, Benson and Campbell","Ashley Sanchez",47749,2020-01-19,47749
+"Swanson, Benson and Campbell","Roy Duncan",13187,2024-08-02,30468
+"Swanson, Benson and Campbell","Brittany Oneal",21418,2024-08-10,27451
+"Tapia, Harris and Mccann","Mrs. Kristine King",31040,2020-09-27,31040
+"Tapia, Harris and Mccann","Kristin Oneal",48049,2020-12-14,39545
+"Tapia, Harris and Mccann","Tiffany Gomez",22310,2021-11-04,33800
+"Tapia, Harris and Mccann","Kathleen Parker",15424,2023-02-03,28594
+"Tate Inc","Alexandra Daniels",4186,2019-11-13,4186
+"Tate Inc","Cheryl Andrade",35185,2019-12-22,19686
+"Tate Inc","Michael Page",12368,2020-08-14,17246
+"Tate Inc","James Mendoza",45228,2020-10-03,30927
+"Tate Inc","Andrea Booker",23877,2021-02-19,27158
+"Tate Inc","James Garcia",27180,2022-01-10,32095
+"Tate Inc","Aaron Grant",38835,2022-08-24,29964
+"Tate Inc","Micheal Blackburn",29971,2023-09-11,31995
+"Tate Inc","David Brown",49710,2023-09-21,39505
+"Taylor Inc","Brandy Salazar",30115,2021-06-24,30115
+"Taylor Inc","Autumn Fritz",11098,2022-01-24,20607
+"Taylor Inc","Brett Garza",27539,2022-09-26,22917
+"Thomas LLC","Christina Knight",46506,2020-05-12,46506
+"Thomas LLC","Brian Lawrence",45073,2020-09-02,45790
+"Thomas LLC","Amanda Pena",8633,2020-09-29,33404
+"Thomas LLC","Diane French",34735,2021-01-10,29480
+"Thomas LLC","Matthew Jones",10868,2021-10-24,18079
+"Thomas LLC","Michele Wright",28502,2022-09-18,24702
+"Thomas Ltd","Lisa Kidd",3392,2021-01-01,3392
+"Thomas Ltd","Kathryn Price",27580,2021-08-16,15486
+"Thomas Ltd","Richard Lambert",11311,2022-04-16,14094
+"Thomas Ltd","Chad Lewis",12037,2022-07-22,16976
+"Thomas Ltd","Amber Henry",19408,2023-07-15,14252
+"Thomas, Atkinson and Lopez","Natalie Taylor",4369,2020-07-02,4369
+"Thomas, Atkinson and Lopez","Nancy Morrow",43423,2021-04-05,23896
+"Thomas, Atkinson and Lopez","Kenneth Brown",25481,2021-11-02,24424
+"Thomas, Atkinson and Lopez","Rebecca Daniels",28074,2022-10-04,32326
+"Thomas, Atkinson and Lopez","Tiffany Johnson",28673,2023-12-29,27409
+"Thomas, Atkinson and Lopez","Natalie Warren",32984,2024-03-07,29910
+"Thomas, Atkinson and Lopez","Laura Taylor",29101,2024-04-19,30253
+"Thomas, Atkinson and Lopez","Misty Christian",48255,2024-07-01,36780
+"Thompson Group","Chelsey Castro",45050,2020-04-26,45050
+"Thompson Group","Mr. Daniel Price",36311,2020-08-01,40681
+"Thompson Group","Megan Gilbert",34354,2022-01-05,38572
+"Thompson Group","Brittney Gray",31529,2023-02-08,34065
+"Thompson Group","Phillip Cole",24613,2024-06-03,30165
+"Thompson, Silva and Odom","Shawn Ross",8432,2020-06-07,8432
+"Thompson, Silva and Odom","Carol Miller",5500,2021-04-11,6966
+"Thompson, Silva and Odom","Jason Stein",4130,2021-04-16,6021
+"Townsend LLC","Annette Whitehead",15045,2021-07-05,15045
+"Townsend LLC","Stephanie Cantu",43036,2022-01-17,29041
+"Townsend LLC","Jennifer Rodriguez",12966,2022-07-01,23682
+"Townsend LLC","Michael Higgins",43754,2022-10-04,33252
+"Townsend LLC","Jason Harris",22651,2023-12-16,26457
+"Townsend LLC","Holly Johnson",3886,2024-08-05,23430
+Turner-Carter,"Randall Wagner",10382,2020-05-15,10382
+Turner-Carter,"Jose Cisneros",38526,2022-04-24,24454
+Turner-Carter,"Leslie Payne",25202,2022-09-20,24703
+Turner-Ortiz,"Michael Murray",7254,2020-11-28,7254
+"Underwood PLC","Rebecca Fields",4475,2020-05-02,4475
+"Underwood PLC","Sierra Parsons",24752,2021-01-07,14614
+"Underwood PLC","Mrs. Sarah Moore",32283,2021-02-09,20503
+"Underwood PLC","Michelle Hopkins",25306,2021-02-15,27447
+"Underwood PLC","David Garcia",6470,2022-03-03,21353
+"Underwood PLC","Sue Thompson",20034,2022-11-23,17270
+"Underwood PLC","James Mcpherson",14025,2023-05-31,13510
+"Vasquez, Blackwell and Pierce","Molly Velazquez",39062,2019-12-15,39062
+"Vasquez, Blackwell and Pierce","Matthew Davenport",29223,2023-08-15,34143
+"Vasquez, Blackwell and Pierce","Ronald Boyd",39507,2023-11-30,35931
+"Vasquez, Blackwell and Pierce","John Salazar",25249,2024-06-22,31326
+"Vasquez, Willis and Little","Brian King",22045,2020-08-15,22045
+"Vasquez, Willis and Little","Andrew Galloway",14680,2020-11-29,18363
+"Vasquez, Willis and Little","Charles Murphy",36983,2022-06-03,24569
+"Vasquez, Willis and Little","Brittany Cox MD",1867,2022-06-06,17843
+"Vasquez, Willis and Little","Dawn Burns",35280,2024-03-04,24710
+"Vasquez, Willis and Little","Patricia Jones",27315,2024-03-16,21487
+"Velasquez PLC","Cynthia Schroeder",25496,2020-07-06,25496
+"Velasquez PLC","Gavin Thompson",36743,2020-09-02,31120
+"Velasquez PLC","Michael Smith",3471,2020-12-10,21903
+"Velasquez PLC","Ashley Brown",26407,2021-01-19,22207
+"Velasquez PLC","Melissa Patton",28207,2022-08-07,19362
+"Velasquez PLC","Jennifer Smith",8293,2023-12-28,20969
+"Velasquez PLC","Lisa Harris",36530,2024-02-21,24343
+"Villanueva, Miller and Lopez","Larry Smith",7354,2020-01-20,7354
+"Villanueva, Miller and Lopez","Michael Rios",26730,2022-02-02,17042
+"Villarreal and Sons","John Holland",14780,2020-03-16,14780
+"Villarreal and Sons","Thomas Rangel",1859,2020-06-10,8320
+"Villarreal and Sons","Anna Brooks",21725,2020-08-22,12788
+"Villarreal and Sons","Steven Nelson",36354,2021-09-17,19979
+"Villarreal and Sons","Luke Hughes",33402,2023-05-12,30494
+"Villarreal and Sons","Willie Perez",22911,2024-01-30,30889
+Wagner-Acevedo,"Alexis Kim",46363,2019-11-03,46363
+Wagner-Acevedo,"Marc Gilmore",38394,2020-08-29,42379
+Wagner-Acevedo,"Ryan Becker DVM",16146,2020-11-20,33634
+Wagner-Acevedo,"Linda Martinez",1219,2021-12-16,18586
+Wagner-Acevedo,"Heather Morris MD",5021,2023-09-20,7462
+Wagner-Acevedo,"Anthony Martinez",25733,2024-08-11,10658
+Wagner-Griffin,"Michael Rowland",27752,2020-06-15,27752
+Wagner-Griffin,"Lee Gamble",25517,2020-11-06,26635
+Wagner-Griffin,"Justin Hart",46371,2021-04-02,33213
+Wagner-Griffin,"Jose Lewis",24125,2022-09-29,32004
+Wagner-Griffin,"Carl May",42252,2024-04-09,37583
+Wagner-Griffin,"Calvin Johnson",37582,2024-08-24,34653
+Wagner-Griffin,"David Mcdowell",6110,2024-10-20,28648
+"Walker Inc","Aaron Cooley",40009,2020-05-25,40009
+"Walker Inc","Mary Guerrero",29012,2021-03-10,34511
+"Walker Inc","Brittney Bowman",7563,2021-07-14,25528
+"Walker Inc","Mark Reed",43683,2021-10-12,26753
+"Walker Inc","Jared Myers",32720,2024-07-02,27989
+Walker-Boyle,"Travis Owens",46901,2020-06-18,46901
+"Walker, Marsh and Moore","Crystal Kelley",13886,2020-02-03,13886
+"Walker, Marsh and Moore","Krista Lucas",3921,2021-03-23,8904
+"Walker, Marsh and Moore","Kurt Dunn",18990,2022-08-24,12266
+"Walker, Marsh and Moore","Reginald Nicholson",7559,2023-06-12,10157
+"Walker, Marsh and Moore","William Sosa",24180,2023-08-25,16910
+"Waller PLC","Suzanne Miller",41009,2020-02-07,41009
+"Waller PLC","Angela Scott",6406,2020-11-25,23708
+"Waller PLC","Joseph Payne",45878,2021-11-26,31098
+"Waller PLC","Gail Ellis",24015,2022-01-31,25433
+"Waller PLC","Richard Leblanc",10602,2022-11-25,26832
+Walters-Jones,"Heather Bennett",44302,2022-03-19,44302
+Walters-Jones,"Jessica Oliver",24086,2022-04-21,34194
+Walters-Jones,"Christopher Chase",38448,2023-02-11,35612
+Walters-Jones,"Dorothy Davies",16176,2023-11-14,26237
+Walters-Jones,"Matthew Roth",5936,2024-02-01,20187
+"Walton, Freeman and Cruz","Monica Elliott",47933,2019-11-22,47933
+"Walton, Freeman and Cruz","Paul Dominguez",43358,2022-07-20,45646
+"Walton, Freeman and Cruz","Kristen Herrera",46006,2023-09-15,45766
+"Ward Group","William Anderson",26158,2021-10-16,26158
+Ward-Brown,"Emma Robinson",36819,2021-04-09,36819
+Ward-Brown,"Jacob Williams",35133,2023-10-21,35976
+"Warren and Sons","Timothy Miller",15499,2019-12-21,15499
+"Warren and Sons","Chad Gonzalez",3417,2020-05-27,9458
+"Warren and Sons","Michael Scott",15524,2021-05-01,11480
+"Warren and Sons","Ronald Buckley",25618,2021-07-02,14853
+"Warren and Sons","Timothy Smith",3929,2024-04-16,15024
+Warren-Mccormick,"Matthew Gay",44098,2023-02-20,44098
+Waters-Byrd,"Julie Rodriguez",41524,2022-05-16,41524
+Waters-Byrd,"Michael Richardson",47347,2023-02-21,44436
+Waters-Byrd,"David Miller",46910,2023-05-24,45260
+Waters-Byrd,"George Martinez",17759,2024-10-13,37339
+"Watkins Ltd","Richard Espinoza",17383,2020-09-19,17383
+"Watkins Ltd","Wayne Lane",1635,2020-10-12,9509
+"Watkins Ltd","Cindy Shepard",10517,2021-08-03,9845
+"Watkins Ltd","Carla Thomas",11120,2022-09-09,7757
+"Watkins Ltd","Troy May",21994,2022-12-24,14544
+"Watkins Ltd","Steven Brown",11769,2024-04-11,14961
+"Watson Group","Carlos Ellis",40493,2020-06-22,40493
+"Watson Group","Thomas Thornton",1461,2021-02-21,20977
+"Watson Group","Scott Miller",47510,2022-02-09,29821
+"Watson Group","Richard Anderson",18290,2022-10-23,22420
+"Watson Group","Christopher Scott",44468,2024-06-15,36756
+"Watson Group","Micheal Barnes",49200,2024-10-24,37319
+"Watson LLC","Kathryn Morgan",41419,2022-01-30,41419
+"Watson LLC","Rebecca Brown",12591,2022-12-22,27005
+"Watson LLC","Melissa Cox",23646,2024-03-28,25885
+"Watson LLC","Christopher Mccarthy",7006,2024-05-08,14414
+Weaver-Rodriguez,"Kevin Miller",44541,2022-06-05,44541
+Weaver-Rodriguez,"Gregory Cameron",21679,2024-01-22,33110
+Weaver-Rodriguez,"Kevin Marshall",2385,2024-03-24,22868
+Weber-Gibson,"Ricky Gilmore",35259,2020-02-01,35259
+Weber-Gibson,"Russell Johnson",35410,2020-12-20,35335
+Weeks-Morris,"Lisa Moran",47338,2021-08-01,47338
+Weeks-Morris,"Jason Fernandez",26575,2024-07-09,36957
+"Werner Group","Katelyn Alexander",29076,2019-10-30,29076
+"Werner Group","Richard Shepard",17186,2020-10-10,23131
+"Wheeler PLC","Alexander Santos",22310,2020-01-29,22310
+"Wheeler PLC","Maria Hill",31301,2020-09-25,26806
+"Wheeler PLC","Mr. Ryan Brown",13645,2022-03-21,22419
+"Wheeler PLC","Andre Baker",18274,2022-09-21,21073
+"Wheeler PLC","Matthew Whitney",11501,2023-11-20,14473
+"Wheeler PLC","Miss Jennifer Bartlett PhD",38951,2024-09-20,22909
+"Wheeler PLC","Lindsay Morrison",40028,2024-09-29,30160
+"White Group","Kenneth Farrell",26139,2023-03-18,26139
+"White Group","Felicia Perez",31528,2023-08-18,28834
+"White LLC","Tonya Cox",37321,2020-05-03,37321
+"White LLC","Edward Olson",36522,2020-09-18,36922
+"White LLC","Patrick Banks",38600,2023-05-05,37481
+White-Flores,"Kimberly Anderson",6684,2020-05-07,6684
+White-Flores,"Timothy Woodard",12243,2023-06-09,9464
+White-Flores,"Karen Murphy",16944,2024-05-31,11957
+White-Robinson,"Keith Hampton",22397,2021-05-20,22397
+White-Robinson,"Steven Moreno",39384,2021-10-14,30891
+White-Robinson,"Jasmine Cooper",25245,2022-02-20,29009
+White-Robinson,"Richard Allen",5420,2023-06-24,23350
+"White, Holt and Padilla","Jill Miller",2970,2020-02-26,2970
+"White, Holt and Padilla","Lisa Lee",24844,2020-05-23,13907
+"White, Holt and Padilla","Kerri Phillips",30588,2022-07-17,19467
+"White, Holt and Padilla","Paul Deleon II",37887,2023-06-25,31106
+"White, Holt and Padilla","Virginia Harrell",11609,2023-09-25,26695
+"White, Holt and Padilla","Gabriel White",47862,2024-06-19,32453
+"Williams and Sons","Bryan Green",24686,2020-01-28,24686
+"Williams and Sons","Cindy Evans",19481,2024-07-15,22084
+"Williams Group","Kevin Smith",37447,2023-05-06,37447
+"Williams Group","Cheryl Powell",45301,2023-08-24,41374
+"Williams Group","Robert Olson",23639,2024-07-01,35462
+"Williams LLC","Christina Gates",5224,2023-04-21,5224
+"Williams PLC","Robert Brown",17712,2020-07-05,17712
+"Williams PLC","Olivia Jones",16740,2022-12-16,17226
+Williams-Stewart,"Mr. Craig Bailey",10182,2021-03-19,10182
+Williams-Stewart,"Diana Lane",47223,2021-12-09,28703
+Williams-Stewart,"David Brown",16789,2022-10-12,24731
+Williams-Stewart,"Rachel Trujillo",21205,2023-06-06,28406
+Williams-Stewart,"Chloe Morris",24321,2023-12-10,20772
+Williams-Stewart,"Nathan Diaz",28769,2024-09-26,24765
+"Williams, Newman and Williamson","Terry Bell",23654,2020-07-09,23654
+"Williams, Newman and Williamson","Mark Davis",2686,2021-06-03,13170
+"Williams, Newman and Williamson","Samantha Wilson",12122,2021-08-01,12821
+"Williams, Newman and Williamson","Tina Blankenship",31360,2022-12-25,15389
+"Williams, Newman and Williamson","Dr. Elizabeth Smith MD",9975,2024-04-28,17819
+"Williams, Wilson and Ellis","Maria Hernandez",25185,2020-10-31,25185
+"Williams, Wilson and Ellis","Stephanie Smith",20223,2022-11-16,22704
+"Williams, Wilson and Ellis","Jacqueline Smith",8526,2023-12-17,17978
+"Willis Ltd","Nicholas Mason",33803,2019-11-30,33803
+"Willis Ltd","Matthew Norton",48736,2020-02-10,41270
+"Willis Ltd","Linda Moore",35469,2020-09-09,39336
+"Willis Ltd","Nicole Miller",29989,2020-09-12,38065
+"Willis Ltd","Sherry Perez",42460,2020-09-19,35973
+"Willis Ltd","Katherine Davis",21162,2021-09-17,31204
+"Willis Ltd","David Cooper",32559,2021-09-22,32060
+"Willis Ltd","Madison Garcia",49494,2022-12-29,34405
+"Willis Ltd","Sarah Williams",10305,2023-02-12,30786
+"Willis Ltd","Kevin Robbins",4575,2023-09-11,21458
+"Willis Ltd","Brandon Perez",14947,2023-09-26,9942
+"Willis Ltd","Brooke Reese",36672,2024-06-14,18731
+"Willis Ltd","Mark Fox",35927,2024-09-17,29182
+"Wilson Group","Patrick Harrell",27252,2024-07-25,27252
+"Wilson Ltd","Lauren Hall",11612,2020-11-15,11612
+"Wilson Ltd","Zachary Lamb",37324,2023-08-04,24468
+"Wilson, Davenport and Wyatt","Connor Cox",36971,2023-11-04,36971
+"Wood, Proctor and Johnson","Patricia Walker",8663,2020-07-11,8663
+"Wood, Proctor and Johnson","Carol Henderson",46717,2020-10-06,27690
+"Wood, Proctor and Johnson","Tanya White",15647,2024-09-27,23676
+"Yates Ltd","Gina Bell",3132,2020-04-16,3132
+"Yates Ltd","Michael Johnson",18609,2020-08-12,10871
+"Yates Ltd","Jessica Bailey",29713,2021-08-09,17151
+"Yates Ltd","Travis Johnson",24653,2022-07-27,24325
+"Yates Ltd","Samuel Lopez DDS",13976,2023-06-26,22781
+"Yates Ltd","Morgan Hernandez",28487,2024-01-31,22372
+"Yates Ltd","Derrick Hall",18055,2024-03-08,20173
+Yoder-Davis,"Michael Hoover",26794,2022-09-15,26794
+Yoder-Rowe,"Sabrina Lee",18015,2022-01-01,18015
+Yoder-Rowe,"Lawrence Gonzalez",10876,2022-09-16,14446
+Yoder-Rowe,"Elizabeth Chapman",8649,2022-11-22,12513
+Yoder-Rowe,"Jackie Mclaughlin",9028,2023-04-18,9518
+Yoder-Rowe,"Ryan Molina",4927,2023-06-13,7535
+Yoder-Rowe,"Stephen Alexander",36813,2024-09-06,16923
+"York PLC","Maria Warner",30086,2020-10-04,30086
+"York PLC","Lisa Dean",4797,2021-07-16,17442
+"York PLC","Nathan Griffith",22182,2022-02-09,19022
+"York PLC","Vanessa Montes",18077,2023-04-14,15019
+Young-Abbott,"Benjamin Hudson",42562,2024-02-16,42562
+"Young, Garrison and Ward","Kristi Wright",44952,2024-01-04,44952
+"Young, Garrison and Ward","Kyle Klein",5191,2024-01-26,25072
+"Young, Garrison and Ward","Katie Vaughn",39801,2024-07-28,29981
