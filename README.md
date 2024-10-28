@@ -14,11 +14,11 @@ The goal of this project is to empower management with actionable insights for s
 ### Data Model
 The project dataset consists of multiple interlinked tables, including:
 
-- Properties: Information on each property, categorized by type, location, and size.
-- Leases: Detailed lease agreements, covering tenant details, lease terms, and rent values.
-- Transactions: Financial transactions for properties, such as sales, purchases, and renovations.
-- Property Managers: Data on property managers, including the properties they oversee.
-- Maintenance Logs: Records of maintenance activities with cost details and service dates.
+- **Properties:** Information on each property, categorized by type, location, and size.
+- **Leases:** Detailed lease agreements, covering tenant details, lease terms, and rent values.
+- **Transactions:** Financial transactions for properties, such as sales, purchases, and renovations.
+- **Property Managers:** Data on property managers, including the properties they oversee.
+- **Maintenance Logs:** Records of maintenance activities with cost details and service dates.
 
 ### Key Insights
 Through rigorous analysis, several strategic insights were derived, guiding Pinnacle Realty Group in their investment and operational decisions:
