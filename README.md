@@ -20,6 +20,9 @@ This data analytics project provides critical insights into key business areas s
 ### Objectives
 The goal of this project is to empower management with actionable insights for strategic planning and operational improvement. By answering 20 targeted business questions, the analysis uncovers trends and patterns essential for optimizing resources, setting competitive rates, adjusting leasing strategies, and improving tenant engagement.
 
+### Deliverables
+This repository includes comprehensive deliverables for each of the 20 business questions addressed in the project. For every question, the SQL code used to derive insights is documented and stored in the project files. Additionally, the results of each analysis were saved as individual CSV files, capturing key insights and data-driven solutions. Together, the SQL scripts and CSV outputs provide a complete, accessible record of the analytical process, allowing for further review, reporting, or presentation.
+
 ### Data Model
 The project dataset consists of multiple interlinked tables, including:
 
